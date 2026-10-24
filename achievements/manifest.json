@@ -1,0 +1,1343 @@
+[
+  {
+    "id": "first-listen",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/first-listen.svg",
+    "title": "Primeira audição",
+    "theme": "music",
+    "motif": "Headphones",
+    "file": "achievements/music/first-listen.svg"
+  },
+  {
+    "id": "collector",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/collector.svg",
+    "title": "Colecionador",
+    "theme": "music",
+    "motif": "LibraryBig",
+    "file": "achievements/music/collector.svg"
+  },
+  {
+    "id": "playlist-maker",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/playlist-maker.svg",
+    "title": "Criador de playlists",
+    "theme": "music",
+    "motif": "ListMusic",
+    "file": "achievements/music/playlist-maker.svg"
+  },
+  {
+    "id": "streak",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/streak.svg",
+    "title": "Em sequência",
+    "theme": "music",
+    "motif": "Flame",
+    "file": "achievements/music/streak.svg"
+  },
+  {
+    "id": "thousand-minutes",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/thousand-minutes.svg",
+    "title": "Mil minutos",
+    "theme": "music",
+    "motif": "AudioLines",
+    "file": "achievements/music/thousand-minutes.svg"
+  },
+  {
+    "id": "discoverer",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discoverer.svg",
+    "title": "Explorador musical",
+    "theme": "music",
+    "motif": "MicVocal",
+    "file": "achievements/music/discoverer.svg"
+  },
+  {
+    "id": "library-25",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/library-25.svg",
+    "title": "Pequena coleção",
+    "theme": "music",
+    "motif": "BookOpen",
+    "file": "achievements/music/library-25.svg"
+  },
+  {
+    "id": "library-100",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/library-100.svg",
+    "title": "Acervo centenário",
+    "theme": "music",
+    "motif": "Archive",
+    "file": "achievements/music/library-100.svg"
+  },
+  {
+    "id": "library-500",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/library-500.svg",
+    "title": "Arquivo musical",
+    "theme": "music",
+    "motif": "Boxes",
+    "file": "achievements/music/library-500.svg"
+  },
+  {
+    "id": "library-1000",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/library-1000.svg",
+    "title": "Biblioteca lendária",
+    "theme": "music",
+    "motif": "Layers",
+    "file": "achievements/music/library-1000.svg"
+  },
+  {
+    "id": "library-5000",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/library-5000.svg",
+    "title": "Acervo infinito",
+    "theme": "music",
+    "motif": "BookMarked",
+    "file": "achievements/music/library-5000.svg"
+  },
+  {
+    "id": "library-10000",
+    "rarity": "ruby",
+    "coinFile": "achievements/coins/music/library-10000.svg",
+    "title": "Grande arquivo",
+    "theme": "music",
+    "motif": "GalleryVerticalEnd",
+    "file": "achievements/music/library-10000.svg"
+  },
+  {
+    "id": "library-25000",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/library-25000.svg",
+    "title": "Biblioteca monumental",
+    "theme": "music",
+    "motif": "Database",
+    "file": "achievements/music/library-25000.svg"
+  },
+  {
+    "id": "listening-minutes-10",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/listening-minutes-10.svg",
+    "title": "Dez minutos de som",
+    "theme": "music",
+    "motif": "Radio",
+    "file": "achievements/music/listening-minutes-10.svg"
+  },
+  {
+    "id": "listening-minutes-60",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/listening-minutes-60.svg",
+    "title": "Uma hora de música",
+    "theme": "music",
+    "motif": "CassetteTape",
+    "file": "achievements/music/listening-minutes-60.svg"
+  },
+  {
+    "id": "listening-minutes-120",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/listening-minutes-120.svg",
+    "title": "Duas horas de trilha",
+    "theme": "music",
+    "motif": "Podcast",
+    "file": "achievements/music/listening-minutes-120.svg"
+  },
+  {
+    "id": "listening-minutes-250",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/listening-minutes-250.svg",
+    "title": "Ouvinte constante",
+    "theme": "music",
+    "motif": "Speaker",
+    "file": "achievements/music/listening-minutes-250.svg"
+  },
+  {
+    "id": "listening-minutes-500",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/listening-minutes-500.svg",
+    "title": "Longa jornada",
+    "theme": "music",
+    "motif": "DiscAlbum",
+    "file": "achievements/music/listening-minutes-500.svg"
+  },
+  {
+    "id": "listening-minutes-1000",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/listening-minutes-1000.svg",
+    "title": "Mil minutos",
+    "theme": "music",
+    "motif": "AudioWaveform",
+    "file": "achievements/music/listening-minutes-1000.svg"
+  },
+  {
+    "id": "listening-minutes-10000",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/listening-minutes-10000.svg",
+    "title": "Lenda sonora",
+    "theme": "music",
+    "motif": "Ear",
+    "file": "achievements/music/listening-minutes-10000.svg"
+  },
+  {
+    "id": "listening-minutes-50000",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/listening-minutes-50000.svg",
+    "title": "Universo de som",
+    "theme": "music",
+    "motif": "Waves",
+    "file": "achievements/music/listening-minutes-50000.svg"
+  },
+  {
+    "id": "listening-minutes-100000",
+    "rarity": "sapphire",
+    "coinFile": "achievements/coins/music/listening-minutes-100000.svg",
+    "title": "Cem mil minutos",
+    "theme": "music",
+    "motif": "Music4",
+    "file": "achievements/music/listening-minutes-100000.svg"
+  },
+  {
+    "id": "listening-minutes-250000",
+    "rarity": "ruby",
+    "coinFile": "achievements/coins/music/listening-minutes-250000.svg",
+    "title": "Mar de música",
+    "theme": "music",
+    "motif": "BoomBox",
+    "file": "achievements/music/listening-minutes-250000.svg"
+  },
+  {
+    "id": "listening-minutes-500000",
+    "rarity": "ruby",
+    "coinFile": "achievements/coins/music/listening-minutes-500000.svg",
+    "title": "Constelação sonora",
+    "theme": "music",
+    "motif": "Clock3",
+    "file": "achievements/music/listening-minutes-500000.svg"
+  },
+  {
+    "id": "listening-minutes-1000000",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/listening-minutes-1000000.svg",
+    "title": "Eternidade musical",
+    "theme": "music",
+    "motif": "Timer",
+    "file": "achievements/music/listening-minutes-1000000.svg"
+  },
+  {
+    "id": "artists-10",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/artists-10.svg",
+    "title": "Novas vozes",
+    "theme": "music",
+    "motif": "Contact",
+    "file": "achievements/music/artists-10.svg"
+  },
+  {
+    "id": "artists-50",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/artists-50.svg",
+    "title": "Explorador de cenas",
+    "theme": "music",
+    "motif": "Compass",
+    "file": "achievements/music/artists-50.svg"
+  },
+  {
+    "id": "artists-250",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/artists-250.svg",
+    "title": "Universo musical",
+    "theme": "music",
+    "motif": "Orbit",
+    "file": "achievements/music/artists-250.svg"
+  },
+  {
+    "id": "artists-1000",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/artists-1000.svg",
+    "title": "Mapa musical completo",
+    "theme": "music",
+    "motif": "MapPinned",
+    "file": "achievements/music/artists-1000.svg"
+  },
+  {
+    "id": "artists-2500",
+    "rarity": "sapphire",
+    "coinFile": "achievements/coins/music/artists-2500.svg",
+    "title": "Cartógrafo de artistas",
+    "theme": "music",
+    "motif": "TimerReset",
+    "file": "achievements/music/artists-2500.svg"
+  },
+  {
+    "id": "artists-5000",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/artists-5000.svg",
+    "title": "Arquivo de vozes",
+    "theme": "music",
+    "motif": "TimerOff",
+    "file": "achievements/music/artists-5000.svg"
+  },
+  {
+    "id": "listens-10",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/listens-10.svg",
+    "title": "Dez encontros",
+    "theme": "music",
+    "motif": "Hourglass",
+    "file": "achievements/music/listens-10.svg"
+  },
+  {
+    "id": "listens-50",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/listens-50.svg",
+    "title": "Presença constante",
+    "theme": "music",
+    "motif": "History",
+    "file": "achievements/music/listens-50.svg"
+  },
+  {
+    "id": "listens-250",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/listens-250.svg",
+    "title": "Trilha sonora pessoal",
+    "theme": "music",
+    "motif": "Infinity",
+    "file": "achievements/music/listens-250.svg"
+  },
+  {
+    "id": "listens-1000",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/listens-1000.svg",
+    "title": "Mil momentos",
+    "theme": "music",
+    "motif": "Play",
+    "file": "achievements/music/listens-1000.svg"
+  },
+  {
+    "id": "listens-10000",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/listens-10000.svg",
+    "title": "Dez mil lembranças",
+    "theme": "music",
+    "motif": "Repeat",
+    "file": "achievements/music/listens-10000.svg"
+  },
+  {
+    "id": "listens-50000",
+    "rarity": "ruby",
+    "coinFile": "achievements/coins/music/listens-50000.svg",
+    "title": "Memórias sem fim",
+    "theme": "music",
+    "motif": "SkipForward",
+    "file": "achievements/music/listens-50000.svg"
+  },
+  {
+    "id": "listens-100000",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/listens-100000.svg",
+    "title": "Cem mil encontros",
+    "theme": "music",
+    "motif": "Mic",
+    "file": "achievements/music/listens-100000.svg"
+  },
+  {
+    "id": "playlists-3",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/playlists-3.svg",
+    "title": "Trio de playlists",
+    "theme": "music",
+    "motif": "ListVideo",
+    "file": "achievements/music/playlists-3.svg"
+  },
+  {
+    "id": "playlists-10",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/playlists-10.svg",
+    "title": "Curador musical",
+    "theme": "music",
+    "motif": "ListPlus",
+    "file": "achievements/music/playlists-10.svg"
+  },
+  {
+    "id": "playlists-50",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/playlists-50.svg",
+    "title": "Arquiteto de playlists",
+    "theme": "music",
+    "motif": "ListOrdered",
+    "file": "achievements/music/playlists-50.svg"
+  },
+  {
+    "id": "playlists-250",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/playlists-250.svg",
+    "title": "Curador lendário",
+    "theme": "music",
+    "motif": "SquareLibrary",
+    "file": "achievements/music/playlists-250.svg"
+  },
+  {
+    "id": "playlists-500",
+    "rarity": "sapphire",
+    "coinFile": "achievements/coins/music/playlists-500.svg",
+    "title": "Mestre das coleções",
+    "theme": "music",
+    "motif": "FolderHeart",
+    "file": "achievements/music/playlists-500.svg"
+  },
+  {
+    "id": "playlists-1000",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/playlists-1000.svg",
+    "title": "Bibliotecário supremo",
+    "theme": "music",
+    "motif": "GalleryVertical",
+    "file": "achievements/music/playlists-1000.svg"
+  },
+  {
+    "id": "favorites-1",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/favorites-1.svg",
+    "title": "Primeiro favorito",
+    "theme": "music",
+    "motif": "Heart",
+    "file": "achievements/music/favorites-1.svg"
+  },
+  {
+    "id": "favorites-10",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/favorites-10.svg",
+    "title": "Dez favoritas",
+    "theme": "music",
+    "motif": "HeartPulse",
+    "file": "achievements/music/favorites-10.svg"
+  },
+  {
+    "id": "favorites-50",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/favorites-50.svg",
+    "title": "Favoritos de sobra",
+    "theme": "music",
+    "motif": "HeartPlus",
+    "file": "achievements/music/favorites-50.svg"
+  },
+  {
+    "id": "favorites-100",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/favorites-100.svg",
+    "title": "Cem favoritas",
+    "theme": "music",
+    "motif": "BadgeCheck",
+    "file": "achievements/music/favorites-100.svg"
+  },
+  {
+    "id": "favorites-250",
+    "rarity": "sapphire",
+    "coinFile": "achievements/coins/music/favorites-250.svg",
+    "title": "Coleção de favoritos",
+    "theme": "music",
+    "motif": "Sparkle",
+    "file": "achievements/music/favorites-250.svg"
+  },
+  {
+    "id": "favorites-1000",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/favorites-1000.svg",
+    "title": "Mil canções queridas",
+    "theme": "music",
+    "motif": "HeartOff",
+    "file": "achievements/music/favorites-1000.svg"
+  },
+  {
+    "id": "genres-3",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/genres-3.svg",
+    "title": "Três estilos",
+    "theme": "music",
+    "motif": "Guitar",
+    "file": "achievements/music/genres-3.svg"
+  },
+  {
+    "id": "genres-10",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/genres-10.svg",
+    "title": "Dez gêneros",
+    "theme": "music",
+    "motif": "Piano",
+    "file": "achievements/music/genres-10.svg"
+  },
+  {
+    "id": "genres-30",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/genres-30.svg",
+    "title": "Todos os ritmos",
+    "theme": "music",
+    "motif": "Drum",
+    "file": "achievements/music/genres-30.svg"
+  },
+  {
+    "id": "genres-100",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/genres-100.svg",
+    "title": "Atlas dos gêneros",
+    "theme": "music",
+    "motif": "Music3",
+    "file": "achievements/music/genres-100.svg"
+  },
+  {
+    "id": "albums-5",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/albums-5.svg",
+    "title": "Coleção de álbuns",
+    "theme": "music",
+    "motif": "Album",
+    "file": "achievements/music/albums-5.svg"
+  },
+  {
+    "id": "albums-50",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/albums-50.svg",
+    "title": "Arquivo de álbuns",
+    "theme": "music",
+    "motif": "Disc2",
+    "file": "achievements/music/albums-50.svg"
+  },
+  {
+    "id": "albums-100",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/albums-100.svg",
+    "title": "Discoteca centenária",
+    "theme": "music",
+    "motif": "Disc3",
+    "file": "achievements/music/albums-100.svg"
+  },
+  {
+    "id": "albums-500",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/albums-500.svg",
+    "title": "Acervo de álbuns",
+    "theme": "music",
+    "motif": "ContactRound",
+    "file": "achievements/music/albums-500.svg"
+  },
+  {
+    "id": "streak-7",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/streak-7.svg",
+    "title": "Uma semana no ritmo",
+    "theme": "music",
+    "motif": "FlameKindling",
+    "file": "achievements/music/streak-7.svg"
+  },
+  {
+    "id": "streak-30",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/streak-30.svg",
+    "title": "Mês musical",
+    "theme": "music",
+    "motif": "CalendarCheck",
+    "file": "achievements/music/streak-30.svg"
+  },
+  {
+    "id": "streak-60",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/streak-60.svg",
+    "title": "Ritmo persistente",
+    "theme": "music",
+    "motif": "CalendarDays",
+    "file": "achievements/music/streak-60.svg"
+  },
+  {
+    "id": "streak-100",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/streak-100.svg",
+    "title": "Sequência extraordinária",
+    "theme": "music",
+    "motif": "Sunrise",
+    "file": "achievements/music/streak-100.svg"
+  },
+  {
+    "id": "streak-365",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/streak-365.svg",
+    "title": "Um ano de música",
+    "theme": "music",
+    "motif": "Sun",
+    "file": "achievements/music/streak-365.svg"
+  },
+  {
+    "id": "streak-500",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/streak-500.svg",
+    "title": "Ritmo lendário",
+    "theme": "music",
+    "motif": "Eclipse",
+    "file": "achievements/music/streak-500.svg"
+  },
+  {
+    "id": "streak-730",
+    "rarity": "sapphire",
+    "coinFile": "achievements/coins/music/streak-730.svg",
+    "title": "Dois anos no compasso",
+    "theme": "music",
+    "motif": "MoonStar",
+    "file": "achievements/music/streak-730.svg"
+  },
+  {
+    "id": "streak-1000",
+    "rarity": "ruby",
+    "coinFile": "achievements/coins/music/streak-1000.svg",
+    "title": "Mil dias de música",
+    "theme": "music",
+    "motif": "UserRoundSearch",
+    "file": "achievements/music/streak-1000.svg"
+  },
+  {
+    "id": "streak-1825",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/streak-1825.svg",
+    "title": "Cinco anos em sequência",
+    "theme": "music",
+    "motif": "RadioTower",
+    "file": "achievements/music/streak-1825.svg"
+  },
+  {
+    "id": "aura-streak-1",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/aura-streak-1.svg",
+    "title": "AURA Chama I desbloqueada",
+    "theme": "music",
+    "motif": "Antenna",
+    "file": "achievements/music/aura-streak-1.svg"
+  },
+  {
+    "id": "aura-streak-25",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/aura-streak-25.svg",
+    "title": "AURA Chama II desbloqueada",
+    "theme": "music",
+    "motif": "Music",
+    "file": "achievements/music/aura-streak-25.svg"
+  },
+  {
+    "id": "aura-streak-50",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/aura-streak-50.svg",
+    "title": "AURA Chama III desbloqueada",
+    "theme": "music",
+    "motif": "ListChecks",
+    "file": "achievements/music/aura-streak-50.svg"
+  },
+  {
+    "id": "aura-streak-100",
+    "rarity": "sapphire",
+    "coinFile": "achievements/coins/music/aura-streak-100.svg",
+    "title": "AURA Chama IV desbloqueada",
+    "theme": "music",
+    "motif": "ListStart",
+    "file": "achievements/music/aura-streak-100.svg"
+  },
+  {
+    "id": "aura-streak-150",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/aura-streak-150.svg",
+    "title": "AURA Chama V desbloqueada",
+    "theme": "music",
+    "motif": "ListEnd",
+    "file": "achievements/music/aura-streak-150.svg"
+  },
+  {
+    "id": "fitness-primeiro-movimento",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/fitness/fitness-primeiro-movimento.svg",
+    "title": "Primeiro movimento",
+    "theme": "fitness",
+    "motif": "Footprints",
+    "file": "achievements/fitness/fitness-primeiro-movimento.svg"
+  },
+  {
+    "id": "fitness-tres-atividades",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/fitness/fitness-tres-atividades.svg",
+    "title": "Três atividades",
+    "theme": "fitness",
+    "motif": "Route",
+    "file": "achievements/fitness/fitness-tres-atividades.svg"
+  },
+  {
+    "id": "fitness-ritmo-constante",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/fitness/fitness-ritmo-constante.svg",
+    "title": "Ritmo constante",
+    "theme": "fitness",
+    "motif": "Activity",
+    "file": "achievements/fitness/fitness-ritmo-constante.svg"
+  },
+  {
+    "id": "fitness-dez-atividades",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/fitness/fitness-dez-atividades.svg",
+    "title": "Dez atividades",
+    "theme": "fitness",
+    "motif": "Mountain",
+    "file": "achievements/fitness/fitness-dez-atividades.svg"
+  },
+  {
+    "id": "fitness-movimento-frequente",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/fitness/fitness-movimento-frequente.svg",
+    "title": "Movimento frequente",
+    "theme": "fitness",
+    "motif": "Flag",
+    "file": "achievements/fitness/fitness-movimento-frequente.svg"
+  },
+  {
+    "id": "fitness-um-mes-em-movimento",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/fitness/fitness-um-mes-em-movimento.svg",
+    "title": "Um mês em movimento",
+    "theme": "fitness",
+    "motif": "Navigation",
+    "file": "achievements/fitness/fitness-um-mes-em-movimento.svg"
+  },
+  {
+    "id": "fitness-cinquenta-jornadas",
+    "rarity": "sapphire",
+    "coinFile": "achievements/coins/fitness/fitness-cinquenta-jornadas.svg",
+    "title": "Cinquenta jornadas",
+    "theme": "fitness",
+    "motif": "Milestone",
+    "file": "achievements/fitness/fitness-cinquenta-jornadas.svg"
+  },
+  {
+    "id": "fitness-passo-de-explorador",
+    "rarity": "ruby",
+    "coinFile": "achievements/coins/fitness/fitness-passo-de-explorador.svg",
+    "title": "Passo de explorador",
+    "theme": "fitness",
+    "motif": "Bike",
+    "file": "achievements/fitness/fitness-passo-de-explorador.svg"
+  },
+  {
+    "id": "fitness-centena-ativa",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-centena-ativa.svg",
+    "title": "Centena ativa",
+    "theme": "fitness",
+    "motif": "MountainSnow",
+    "file": "achievements/fitness/fitness-centena-ativa.svg"
+  },
+  {
+    "id": "fitness-lenda-do-movimento",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-lenda-do-movimento.svg",
+    "title": "Lenda do movimento",
+    "theme": "fitness",
+    "motif": "Trees",
+    "file": "achievements/fitness/fitness-lenda-do-movimento.svg"
+  },
+  {
+    "id": "fitness-quinhentas-jornadas",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-quinhentas-jornadas.svg",
+    "title": "Quinhentas jornadas",
+    "theme": "fitness",
+    "motif": "TreePine",
+    "file": "achievements/fitness/fitness-quinhentas-jornadas.svg"
+  },
+  {
+    "id": "fitness-mil-vezes-em-movimento",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-mil-vezes-em-movimento.svg",
+    "title": "Mil vezes em movimento",
+    "theme": "fitness",
+    "motif": "CloudSun",
+    "file": "achievements/fitness/fitness-mil-vezes-em-movimento.svg"
+  },
+  {
+    "id": "fitness-movimento-extraordinario",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-movimento-extraordinario.svg",
+    "title": "Movimento extraordinário",
+    "theme": "fitness",
+    "motif": "Wind",
+    "file": "achievements/fitness/fitness-movimento-extraordinario.svg"
+  },
+  {
+    "id": "fitness-primeiro-quilometro",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-primeiro-quilometro.svg",
+    "title": "Primeiro quilômetro",
+    "theme": "fitness",
+    "motif": "FlagTriangleRight",
+    "file": "achievements/fitness/fitness-primeiro-quilometro.svg"
+  },
+  {
+    "id": "fitness-3-km-de-percurso",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-3-km-de-percurso.svg",
+    "title": "3 km de percurso",
+    "theme": "fitness",
+    "motif": "Goal",
+    "file": "achievements/fitness/fitness-3-km-de-percurso.svg"
+  },
+  {
+    "id": "fitness-5-km-acumulados",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-5-km-acumulados.svg",
+    "title": "5 km acumulados",
+    "theme": "fitness",
+    "motif": "Target",
+    "file": "achievements/fitness/fitness-5-km-acumulados.svg"
+  },
+  {
+    "id": "fitness-10-km-explorados",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-10-km-explorados.svg",
+    "title": "10 km explorados",
+    "theme": "fitness",
+    "motif": "LocateFixed",
+    "file": "achievements/fitness/fitness-10-km-explorados.svg"
+  },
+  {
+    "id": "fitness-trilha-de-15-km",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-trilha-de-15-km.svg",
+    "title": "Trilha de 15 km",
+    "theme": "fitness",
+    "motif": "MapPinCheck",
+    "file": "achievements/fitness/fitness-trilha-de-15-km.svg"
+  },
+  {
+    "id": "fitness-25-km-de-jornada",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-25-km-de-jornada.svg",
+    "title": "25 km de jornada",
+    "theme": "fitness",
+    "motif": "MapPinPlus",
+    "file": "achievements/fitness/fitness-25-km-de-jornada.svg"
+  },
+  {
+    "id": "fitness-50-km-conquistados",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-50-km-conquistados.svg",
+    "title": "50 km conquistados",
+    "theme": "fitness",
+    "motif": "Map",
+    "file": "achievements/fitness/fitness-50-km-conquistados.svg"
+  },
+  {
+    "id": "fitness-horizonte-de-100-km",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-horizonte-de-100-km.svg",
+    "title": "Horizonte de 100 km",
+    "theme": "fitness",
+    "motif": "MapPlus",
+    "file": "achievements/fitness/fitness-horizonte-de-100-km.svg"
+  },
+  {
+    "id": "fitness-grande-travessia",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-grande-travessia.svg",
+    "title": "Grande travessia",
+    "theme": "fitness",
+    "motif": "MapPin",
+    "file": "achievements/fitness/fitness-grande-travessia.svg"
+  },
+  {
+    "id": "fitness-meio-milhao-de-metros",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-meio-milhao-de-metros.svg",
+    "title": "Meio milhão de metros",
+    "theme": "fitness",
+    "motif": "Clock4",
+    "file": "achievements/fitness/fitness-meio-milhao-de-metros.svg"
+  },
+  {
+    "id": "fitness-rota-de-750-km",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-rota-de-750-km.svg",
+    "title": "Rota de 750 km",
+    "theme": "fitness",
+    "motif": "Clock8",
+    "file": "achievements/fitness/fitness-rota-de-750-km.svg"
+  },
+  {
+    "id": "fitness-mil-quilometros",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-mil-quilometros.svg",
+    "title": "Mil quilômetros",
+    "theme": "fitness",
+    "motif": "CalendarClock",
+    "file": "achievements/fitness/fitness-mil-quilometros.svg"
+  },
+  {
+    "id": "fitness-caminhos-sem-fim",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-caminhos-sem-fim.svg",
+    "title": "Caminhos sem fim",
+    "theme": "fitness",
+    "motif": "CalendarHeart",
+    "file": "achievements/fitness/fitness-caminhos-sem-fim.svg"
+  },
+  {
+    "id": "fitness-dez-minutos-ativo",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-dez-minutos-ativo.svg",
+    "title": "Dez minutos ativo",
+    "theme": "fitness",
+    "motif": "CalendarRange",
+    "file": "achievements/fitness/fitness-dez-minutos-ativo.svg"
+  },
+  {
+    "id": "fitness-meia-hora-ativa",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-meia-hora-ativa.svg",
+    "title": "Meia hora ativa",
+    "theme": "fitness",
+    "motif": "CalendarSync",
+    "file": "achievements/fitness/fitness-meia-hora-ativa.svg"
+  },
+  {
+    "id": "fitness-uma-hora-em-movimento",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-uma-hora-em-movimento.svg",
+    "title": "Uma hora em movimento",
+    "theme": "fitness",
+    "motif": "CalendarCheck2",
+    "file": "achievements/fitness/fitness-uma-hora-em-movimento.svg"
+  },
+  {
+    "id": "fitness-duas-horas-ativas",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-duas-horas-ativas.svg",
+    "title": "Duas horas ativas",
+    "theme": "fitness",
+    "motif": "Zap",
+    "file": "achievements/fitness/fitness-duas-horas-ativas.svg"
+  },
+  {
+    "id": "fitness-cinco-horas-ativo",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-cinco-horas-ativo.svg",
+    "title": "Cinco horas ativo",
+    "theme": "fitness",
+    "motif": "BatteryCharging",
+    "file": "achievements/fitness/fitness-cinco-horas-ativo.svg"
+  },
+  {
+    "id": "fitness-dez-horas-em-movimento",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-dez-horas-em-movimento.svg",
+    "title": "Dez horas em movimento",
+    "theme": "fitness",
+    "motif": "MoveUpRight",
+    "file": "achievements/fitness/fitness-dez-horas-em-movimento.svg"
+  },
+  {
+    "id": "fitness-25-horas-ativo",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-25-horas-ativo.svg",
+    "title": "25 horas ativo",
+    "theme": "fitness",
+    "motif": "TrendingUp",
+    "file": "achievements/fitness/fitness-25-horas-ativo.svg"
+  },
+  {
+    "id": "fitness-50-horas-em-movimento",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-50-horas-em-movimento.svg",
+    "title": "50 horas em movimento",
+    "theme": "fitness",
+    "motif": "ChartNoAxesCombined",
+    "file": "achievements/fitness/fitness-50-horas-em-movimento.svg"
+  },
+  {
+    "id": "fitness-100-horas-ativo",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-100-horas-ativo.svg",
+    "title": "100 horas ativo",
+    "theme": "fitness",
+    "motif": "ChartSpline",
+    "file": "achievements/fitness/fitness-100-horas-ativo.svg"
+  },
+  {
+    "id": "fitness-lenda-incansavel",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-lenda-incansavel.svg",
+    "title": "Lenda incansável",
+    "theme": "fitness",
+    "motif": "ChartLine",
+    "file": "achievements/fitness/fitness-lenda-incansavel.svg"
+  },
+  {
+    "id": "fitness-quinhentas-horas",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-quinhentas-horas.svg",
+    "title": "Quinhentas horas",
+    "theme": "fitness",
+    "motif": "Gauge",
+    "file": "achievements/fitness/fitness-quinhentas-horas.svg"
+  },
+  {
+    "id": "fitness-mil-horas-em-movimento",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-mil-horas-em-movimento.svg",
+    "title": "Mil horas em movimento",
+    "theme": "fitness",
+    "motif": "PersonStanding",
+    "file": "achievements/fitness/fitness-mil-horas-em-movimento.svg"
+  },
+  {
+    "id": "fitness-primeiro-percurso-longo",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-primeiro-percurso-longo.svg",
+    "title": "Primeiro percurso longo",
+    "theme": "fitness",
+    "motif": "Accessibility",
+    "file": "achievements/fitness/fitness-primeiro-percurso-longo.svg"
+  },
+  {
+    "id": "fitness-tres-quilometros-de-uma-vez",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-tres-quilometros-de-uma-vez.svg",
+    "title": "Três quilômetros de uma vez",
+    "theme": "fitness",
+    "motif": "Medal",
+    "file": "achievements/fitness/fitness-tres-quilometros-de-uma-vez.svg"
+  },
+  {
+    "id": "fitness-desafio-dos-cinco",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-desafio-dos-cinco.svg",
+    "title": "Desafio dos cinco",
+    "theme": "fitness",
+    "motif": "Award",
+    "file": "achievements/fitness/fitness-desafio-dos-cinco.svg"
+  },
+  {
+    "id": "fitness-dez-quilometros-em-um-treino",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-dez-quilometros-em-um-treino.svg",
+    "title": "Dez quilômetros em um treino",
+    "theme": "fitness",
+    "motif": "Trophy",
+    "file": "achievements/fitness/fitness-dez-quilometros-em-um-treino.svg"
+  },
+  {
+    "id": "fitness-meia-maratona",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-meia-maratona.svg",
+    "title": "Meia maratona",
+    "theme": "fitness",
+    "motif": "Crown",
+    "file": "achievements/fitness/fitness-meia-maratona.svg"
+  },
+  {
+    "id": "fitness-maratona-pessoal",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-maratona-pessoal.svg",
+    "title": "Maratona pessoal",
+    "theme": "fitness",
+    "motif": "Sunset",
+    "file": "achievements/fitness/fitness-maratona-pessoal.svg"
+  },
+  {
+    "id": "fitness-dez-mil-passos-estimados",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-dez-mil-passos-estimados.svg",
+    "title": "Dez mil passos estimados",
+    "theme": "fitness",
+    "motif": "Rocket",
+    "file": "achievements/fitness/fitness-dez-mil-passos-estimados.svg"
+  },
+  {
+    "id": "fitness-cem-mil-passos",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-cem-mil-passos.svg",
+    "title": "Cem mil passos",
+    "theme": "fitness",
+    "motif": "Flower",
+    "file": "achievements/fitness/fitness-cem-mil-passos.svg"
+  },
+  {
+    "id": "fitness-meio-milhao-de-passos",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-meio-milhao-de-passos.svg",
+    "title": "Meio milhão de passos",
+    "theme": "fitness",
+    "motif": "Leaf",
+    "file": "achievements/fitness/fitness-meio-milhao-de-passos.svg"
+  },
+  {
+    "id": "fitness-um-milhao-de-passos",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-um-milhao-de-passos.svg",
+    "title": "Um milhão de passos",
+    "theme": "fitness",
+    "motif": "Tent",
+    "file": "achievements/fitness/fitness-um-milhao-de-passos.svg"
+  },
+  {
+    "id": "fitness-passos-de-uma-vida",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-passos-de-uma-vida.svg",
+    "title": "Passos de uma vida",
+    "theme": "fitness",
+    "motif": "TentTree",
+    "file": "achievements/fitness/fitness-passos-de-uma-vida.svg"
+  },
+  {
+    "id": "fitness-caminhante-dedicado",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-caminhante-dedicado.svg",
+    "title": "Caminhante dedicado",
+    "theme": "fitness",
+    "motif": "Signpost",
+    "file": "achievements/fitness/fitness-caminhante-dedicado.svg"
+  },
+  {
+    "id": "fitness-explorador-a-pe",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-explorador-a-pe.svg",
+    "title": "Explorador a pé",
+    "theme": "fitness",
+    "motif": "MapPinHouse",
+    "file": "achievements/fitness/fitness-explorador-a-pe.svg"
+  },
+  {
+    "id": "fitness-cem-caminhadas",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-cem-caminhadas.svg",
+    "title": "Cem caminhadas",
+    "theme": "fitness",
+    "motif": "Waypoints",
+    "file": "achievements/fitness/fitness-cem-caminhadas.svg"
+  },
+  {
+    "id": "fitness-primeira-corrida",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-primeira-corrida.svg",
+    "title": "Primeira corrida",
+    "theme": "fitness",
+    "motif": "Rabbit",
+    "file": "achievements/fitness/fitness-primeira-corrida.svg"
+  },
+  {
+    "id": "fitness-corredor-constante",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-corredor-constante.svg",
+    "title": "Corredor constante",
+    "theme": "fitness",
+    "motif": "CloudSunRain",
+    "file": "achievements/fitness/fitness-corredor-constante.svg"
+  },
+  {
+    "id": "fitness-cinquenta-corridas",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-cinquenta-corridas.svg",
+    "title": "Cinquenta corridas",
+    "theme": "fitness",
+    "motif": "Binoculars",
+    "file": "achievements/fitness/fitness-cinquenta-corridas.svg"
+  },
+  {
+    "id": "fitness-centena-de-corridas",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/fitness/fitness-centena-de-corridas.svg",
+    "title": "Centena de corridas",
+    "theme": "fitness",
+    "motif": "Radar",
+    "file": "achievements/fitness/fitness-centena-de-corridas.svg"
+  },
+  {
+    "id": "friends-1",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/friends/friends-1.svg",
+    "title": "Primeiro laço",
+    "theme": "friends",
+    "motif": "Handshake",
+    "file": "achievements/friends/friends-1.svg"
+  },
+  {
+    "id": "friends-3",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/friends/friends-3.svg",
+    "title": "Pequeno círculo",
+    "theme": "friends",
+    "motif": "UserRoundPlus",
+    "file": "achievements/friends/friends-3.svg"
+  },
+  {
+    "id": "friends-5",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/friends/friends-5.svg",
+    "title": "Roda de amizade",
+    "theme": "friends",
+    "motif": "Network",
+    "file": "achievements/friends/friends-5.svg"
+  },
+  {
+    "id": "friends-10",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/friends/friends-10.svg",
+    "title": "Rede de confiança",
+    "theme": "friends",
+    "motif": "Link",
+    "file": "achievements/friends/friends-10.svg"
+  },
+  {
+    "id": "friends-25",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/friends/friends-25.svg",
+    "title": "Grande comunidade",
+    "theme": "friends",
+    "motif": "HandHeart",
+    "file": "achievements/friends/friends-25.svg"
+  },
+  {
+    "id": "shared-playlists-1",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/friends/shared-playlists-1.svg",
+    "title": "Primeira playlist a dois",
+    "theme": "friends",
+    "motif": "ListTree",
+    "file": "achievements/friends/shared-playlists-1.svg"
+  },
+  {
+    "id": "shared-playlists-3",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/friends/shared-playlists-3.svg",
+    "title": "Troca de descobertas",
+    "theme": "friends",
+    "motif": "UsersRound",
+    "file": "achievements/friends/shared-playlists-3.svg"
+  },
+  {
+    "id": "shared-playlists-10",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/friends/shared-playlists-10.svg",
+    "title": "Curador compartilhado",
+    "theme": "friends",
+    "motif": "UserRoundCheck",
+    "file": "achievements/friends/shared-playlists-10.svg"
+  },
+  {
+    "id": "shared-playlists-25",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/friends/shared-playlists-25.svg",
+    "title": "Biblioteca coletiva",
+    "theme": "friends",
+    "motif": "Users",
+    "file": "achievements/friends/shared-playlists-25.svg"
+  },
+  {
+    "id": "challenges-created-1",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/friends/challenges-created-1.svg",
+    "title": "Primeiro desafio",
+    "theme": "friends",
+    "motif": "Swords",
+    "file": "achievements/friends/challenges-created-1.svg"
+  },
+  {
+    "id": "challenges-created-3",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/friends/challenges-created-3.svg",
+    "title": "Desafiante",
+    "theme": "friends",
+    "motif": "Share2",
+    "file": "achievements/friends/challenges-created-3.svg"
+  },
+  {
+    "id": "challenges-created-10",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/friends/challenges-created-10.svg",
+    "title": "Mestre dos desafios",
+    "theme": "friends",
+    "motif": "MessagesSquare",
+    "file": "achievements/friends/challenges-created-10.svg"
+  },
+  {
+    "id": "challenges-completed-1",
+    "rarity": "sapphire",
+    "coinFile": "achievements/coins/friends/challenges-completed-1.svg",
+    "title": "Meta alcançada em equipe",
+    "theme": "friends",
+    "motif": "GitMerge",
+    "file": "achievements/friends/challenges-completed-1.svg"
+  },
+  {
+    "id": "challenges-completed-3",
+    "rarity": "sapphire",
+    "coinFile": "achievements/coins/friends/challenges-completed-3.svg",
+    "title": "Trinca de vitórias",
+    "theme": "friends",
+    "motif": "Group",
+    "file": "achievements/friends/challenges-completed-3.svg"
+  },
+  {
+    "id": "challenges-completed-10",
+    "rarity": "ruby",
+    "coinFile": "achievements/coins/friends/challenges-completed-10.svg",
+    "title": "Lenda dos desafios",
+    "theme": "friends",
+    "motif": "Gem",
+    "file": "achievements/friends/challenges-completed-10.svg"
+  },
+  {
+    "id": "challenges-joined-1",
+    "rarity": "ruby",
+    "coinFile": "achievements/coins/friends/challenges-joined-1.svg",
+    "title": "Entrou na roda",
+    "theme": "friends",
+    "motif": "Sparkles",
+    "file": "achievements/friends/challenges-joined-1.svg"
+  },
+  {
+    "id": "challenges-joined-3",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/friends/challenges-joined-3.svg",
+    "title": "Parceiro de escuta",
+    "theme": "friends",
+    "motif": "Workflow",
+    "file": "achievements/friends/challenges-joined-3.svg"
+  },
+  {
+    "id": "challenges-joined-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/friends/challenges-joined-10.svg",
+    "title": "Companheiro de jornada",
+    "theme": "friends",
+    "motif": "CircleUserRound",
+    "file": "achievements/friends/challenges-joined-10.svg"
+  },
+  {
+    "id": "aura-crystal-bonds",
+    "rarity": "crystal",
+    "coinFile": "achievements/coins/friends/aura-crystal-bonds.svg",
+    "title": "Cristal da Sintonia",
+    "theme": "friends",
+    "motif": "HeartHandshake",
+    "file": "achievements/friends/aura-crystal-bonds.svg"
+  },
+  {
+    "id": "aura-crystal-curator",
+    "rarity": "crystal",
+    "coinFile": "achievements/coins/friends/aura-crystal-curator.svg",
+    "title": "Cristal de Aura",
+    "theme": "friends",
+    "motif": "UserCheck",
+    "file": "achievements/friends/aura-crystal-curator.svg"
+  },
+  {
+    "id": "aura-crystal-harmony",
+    "rarity": "crystal",
+    "coinFile": "achievements/coins/friends/aura-crystal-harmony.svg",
+    "title": "Conexão lendária",
+    "theme": "friends",
+    "motif": "UserPlus",
+    "file": "achievements/friends/aura-crystal-harmony.svg"
+  }
+]
