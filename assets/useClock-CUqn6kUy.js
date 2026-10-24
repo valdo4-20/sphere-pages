@@ -1,1 +1,0 @@
-import{r as e}from"./rolldown-runtime-hePW80VL.js";import{J as t}from"./index-D-ND3g4w.js";var n=e(t(),1);function r(e=6e4){let[t,r]=(0,n.useState)(Date.now);return(0,n.useEffect)(()=>{let t=window.setInterval(()=>r(Date.now()),e);return()=>window.clearInterval(t)},[e]),t}export{r as t};
