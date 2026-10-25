@@ -66,7 +66,7 @@
     "id": "library-100",
     "rarity": "silver",
     "coinFile": "achievements/coins/music/library-100.svg",
-    "title": "Acervo centenário",
+    "title": "Acervo em expansão",
     "theme": "music",
     "motif": "Archive",
     "file": "achievements/music/library-100.svg"
@@ -84,7 +84,7 @@
     "id": "library-1000",
     "rarity": "topaz",
     "coinFile": "achievements/coins/music/library-1000.svg",
-    "title": "Biblioteca lendária",
+    "title": "Biblioteca de descobertas",
     "theme": "music",
     "motif": "Layers",
     "file": "achievements/music/library-1000.svg"
@@ -93,14 +93,14 @@
     "id": "library-5000",
     "rarity": "emerald",
     "coinFile": "achievements/coins/music/library-5000.svg",
-    "title": "Acervo infinito",
+    "title": "Acervo diverso",
     "theme": "music",
     "motif": "BookMarked",
     "file": "achievements/music/library-5000.svg"
   },
   {
     "id": "library-10000",
-    "rarity": "ruby",
+    "rarity": "obsidian",
     "coinFile": "achievements/coins/music/library-10000.svg",
     "title": "Grande arquivo",
     "theme": "music",
@@ -192,7 +192,7 @@
     "id": "listening-minutes-100000",
     "rarity": "sapphire",
     "coinFile": "achievements/coins/music/listening-minutes-100000.svg",
-    "title": "Cem mil minutos",
+    "title": "Descobertas sem pressa",
     "theme": "music",
     "motif": "Music4",
     "file": "achievements/music/listening-minutes-100000.svg"
@@ -208,7 +208,7 @@
   },
   {
     "id": "listening-minutes-500000",
-    "rarity": "ruby",
+    "rarity": "obsidian",
     "coinFile": "achievements/coins/music/listening-minutes-500000.svg",
     "title": "Constelação sonora",
     "theme": "music",
@@ -219,7 +219,7 @@
     "id": "listening-minutes-1000000",
     "rarity": "diamond",
     "coinFile": "achievements/coins/music/listening-minutes-1000000.svg",
-    "title": "Eternidade musical",
+    "title": "Trilha de uma vida",
     "theme": "music",
     "motif": "Timer",
     "file": "achievements/music/listening-minutes-1000000.svg"
@@ -255,14 +255,14 @@
     "id": "artists-1000",
     "rarity": "emerald",
     "coinFile": "achievements/coins/music/artists-1000.svg",
-    "title": "Mapa musical completo",
+    "title": "Mapa de vozes",
     "theme": "music",
     "motif": "MapPinned",
     "file": "achievements/music/artists-1000.svg"
   },
   {
     "id": "artists-2500",
-    "rarity": "sapphire",
+    "rarity": "obsidian",
     "coinFile": "achievements/coins/music/artists-2500.svg",
     "title": "Cartógrafo de artistas",
     "theme": "music",
@@ -309,7 +309,7 @@
     "id": "listens-1000",
     "rarity": "topaz",
     "coinFile": "achievements/coins/music/listens-1000.svg",
-    "title": "Mil momentos",
+    "title": "Novos capítulos",
     "theme": "music",
     "motif": "Play",
     "file": "achievements/music/listens-1000.svg"
@@ -318,16 +318,16 @@
     "id": "listens-10000",
     "rarity": "emerald",
     "coinFile": "achievements/coins/music/listens-10000.svg",
-    "title": "Dez mil lembranças",
+    "title": "Lembranças em discos",
     "theme": "music",
     "motif": "Repeat",
     "file": "achievements/music/listens-10000.svg"
   },
   {
     "id": "listens-50000",
-    "rarity": "ruby",
+    "rarity": "obsidian",
     "coinFile": "achievements/coins/music/listens-50000.svg",
-    "title": "Memórias sem fim",
+    "title": "Muitas voltas",
     "theme": "music",
     "motif": "SkipForward",
     "file": "achievements/music/listens-50000.svg"
@@ -336,7 +336,7 @@
     "id": "listens-100000",
     "rarity": "diamond",
     "coinFile": "achievements/coins/music/listens-100000.svg",
-    "title": "Cem mil encontros",
+    "title": "Coleção viva",
     "theme": "music",
     "motif": "Mic",
     "file": "achievements/music/listens-100000.svg"
@@ -345,7 +345,7 @@
     "id": "playlists-3",
     "rarity": "bronze",
     "coinFile": "achievements/coins/music/playlists-3.svg",
-    "title": "Trio de playlists",
+    "title": "Trio de seleções",
     "theme": "music",
     "motif": "ListVideo",
     "file": "achievements/music/playlists-3.svg"
@@ -363,7 +363,7 @@
     "id": "playlists-50",
     "rarity": "platinum",
     "coinFile": "achievements/coins/music/playlists-50.svg",
-    "title": "Arquiteto de playlists",
+    "title": "Arquiteto de seleções",
     "theme": "music",
     "motif": "ListOrdered",
     "file": "achievements/music/playlists-50.svg"
@@ -372,14 +372,14 @@
     "id": "playlists-250",
     "rarity": "emerald",
     "coinFile": "achievements/coins/music/playlists-250.svg",
-    "title": "Curador lendário",
+    "title": "Curador experiente",
     "theme": "music",
     "motif": "SquareLibrary",
     "file": "achievements/music/playlists-250.svg"
   },
   {
     "id": "playlists-500",
-    "rarity": "sapphire",
+    "rarity": "obsidian",
     "coinFile": "achievements/coins/music/playlists-500.svg",
     "title": "Mestre das coleções",
     "theme": "music",
@@ -426,14 +426,14 @@
     "id": "favorites-100",
     "rarity": "emerald",
     "coinFile": "achievements/coins/music/favorites-100.svg",
-    "title": "Cem favoritas",
+    "title": "Círculo de favoritas",
     "theme": "music",
     "motif": "BadgeCheck",
     "file": "achievements/music/favorites-100.svg"
   },
   {
     "id": "favorites-250",
-    "rarity": "sapphire",
+    "rarity": "obsidian",
     "coinFile": "achievements/coins/music/favorites-250.svg",
     "title": "Coleção de favoritos",
     "theme": "music",
@@ -444,7 +444,7 @@
     "id": "favorites-1000",
     "rarity": "diamond",
     "coinFile": "achievements/coins/music/favorites-1000.svg",
-    "title": "Mil canções queridas",
+    "title": "Arquivo de afetos",
     "theme": "music",
     "motif": "HeartOff",
     "file": "achievements/music/favorites-1000.svg"
@@ -462,7 +462,7 @@
     "id": "genres-10",
     "rarity": "platinum",
     "coinFile": "achievements/coins/music/genres-10.svg",
-    "title": "Dez gêneros",
+    "title": "Caminhos do som",
     "theme": "music",
     "motif": "Piano",
     "file": "achievements/music/genres-10.svg"
@@ -489,7 +489,7 @@
     "id": "albums-5",
     "rarity": "bronze",
     "coinFile": "achievements/coins/music/albums-5.svg",
-    "title": "Coleção de álbuns",
+    "title": "Coleção de discos",
     "theme": "music",
     "motif": "Album",
     "file": "achievements/music/albums-5.svg"
@@ -507,7 +507,7 @@
     "id": "albums-100",
     "rarity": "emerald",
     "coinFile": "achievements/coins/music/albums-100.svg",
-    "title": "Discoteca centenária",
+    "title": "Arquivo de álbuns",
     "theme": "music",
     "motif": "Disc3",
     "file": "achievements/music/albums-100.svg"
@@ -534,7 +534,7 @@
     "id": "streak-30",
     "rarity": "silver",
     "coinFile": "achievements/coins/music/streak-30.svg",
-    "title": "Mês musical",
+    "title": "Duas semanas em sintonia",
     "theme": "music",
     "motif": "CalendarCheck",
     "file": "achievements/music/streak-30.svg"
@@ -543,7 +543,7 @@
     "id": "streak-60",
     "rarity": "gold",
     "coinFile": "achievements/coins/music/streak-60.svg",
-    "title": "Ritmo persistente",
+    "title": "Três semanas de música",
     "theme": "music",
     "motif": "CalendarDays",
     "file": "achievements/music/streak-60.svg"
@@ -552,7 +552,7 @@
     "id": "streak-100",
     "rarity": "platinum",
     "coinFile": "achievements/coins/music/streak-100.svg",
-    "title": "Sequência extraordinária",
+    "title": "Mês musical",
     "theme": "music",
     "motif": "Sunrise",
     "file": "achievements/music/streak-100.svg"
@@ -561,7 +561,7 @@
     "id": "streak-365",
     "rarity": "topaz",
     "coinFile": "achievements/coins/music/streak-365.svg",
-    "title": "Um ano de música",
+    "title": "Dois meses de descobertas",
     "theme": "music",
     "motif": "Sun",
     "file": "achievements/music/streak-365.svg"
@@ -570,7 +570,7 @@
     "id": "streak-500",
     "rarity": "emerald",
     "coinFile": "achievements/coins/music/streak-500.svg",
-    "title": "Ritmo lendário",
+    "title": "Estação musical",
     "theme": "music",
     "motif": "Eclipse",
     "file": "achievements/music/streak-500.svg"
@@ -579,16 +579,16 @@
     "id": "streak-730",
     "rarity": "sapphire",
     "coinFile": "achievements/coins/music/streak-730.svg",
-    "title": "Dois anos no compasso",
+    "title": "Quatro meses no ritmo",
     "theme": "music",
     "motif": "MoonStar",
     "file": "achievements/music/streak-730.svg"
   },
   {
     "id": "streak-1000",
-    "rarity": "ruby",
+    "rarity": "obsidian",
     "coinFile": "achievements/coins/music/streak-1000.svg",
-    "title": "Mil dias de música",
+    "title": "Meio ano em sintonia",
     "theme": "music",
     "motif": "UserRoundSearch",
     "file": "achievements/music/streak-1000.svg"
@@ -597,7 +597,7 @@
     "id": "streak-1825",
     "rarity": "diamond",
     "coinFile": "achievements/coins/music/streak-1825.svg",
-    "title": "Cinco anos em sequência",
+    "title": "Um ano de música",
     "theme": "music",
     "motif": "RadioTower",
     "file": "achievements/music/streak-1825.svg"
@@ -646,6 +646,1356 @@
     "theme": "music",
     "motif": "ListEnd",
     "file": "achievements/music/aura-streak-150.svg"
+  },
+  {
+    "id": "discovery-edicao-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-edicao-01.svg",
+    "title": "Capa de respeito",
+    "theme": "music",
+    "motif": "LibraryBig:Image",
+    "file": "achievements/music/discovery-edicao-01.svg"
+  },
+  {
+    "id": "discovery-edicao-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-edicao-02.svg",
+    "title": "Ficha na mão",
+    "theme": "music",
+    "motif": "LibraryBig:FileText",
+    "file": "achievements/music/discovery-edicao-02.svg"
+  },
+  {
+    "id": "discovery-edicao-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-edicao-03.svg",
+    "title": "Prateleira em ordem",
+    "theme": "music",
+    "motif": "LibraryBig:ListFilter",
+    "file": "achievements/music/discovery-edicao-03.svg"
+  },
+  {
+    "id": "discovery-edicao-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-edicao-04.svg",
+    "title": "Data de nascimento",
+    "theme": "music",
+    "motif": "LibraryBig:Calendar",
+    "file": "achievements/music/discovery-edicao-04.svg"
+  },
+  {
+    "id": "discovery-edicao-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-edicao-05.svg",
+    "title": "Quem escreveu",
+    "theme": "music",
+    "motif": "LibraryBig:PenTool",
+    "file": "achievements/music/discovery-edicao-05.svg"
+  },
+  {
+    "id": "discovery-edicao-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-edicao-06.svg",
+    "title": "Identidade sonora",
+    "theme": "music",
+    "motif": "LibraryBig:Fingerprint",
+    "file": "achievements/music/discovery-edicao-06.svg"
+  },
+  {
+    "id": "discovery-edicao-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-edicao-07.svg",
+    "title": "Registro de estúdio",
+    "theme": "music",
+    "motif": "LibraryBig:ScanLine",
+    "file": "achievements/music/discovery-edicao-07.svg"
+  },
+  {
+    "id": "discovery-edicao-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-edicao-08.svg",
+    "title": "Edição identificada",
+    "theme": "music",
+    "motif": "LibraryBig:Barcode",
+    "file": "achievements/music/discovery-edicao-08.svg"
+  },
+  {
+    "id": "discovery-edicao-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-edicao-09.svg",
+    "title": "Cada faixa no lugar",
+    "theme": "music",
+    "motif": "LibraryBig:ListOrdered",
+    "file": "achievements/music/discovery-edicao-09.svg"
+  },
+  {
+    "id": "discovery-edicao-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-edicao-10.svg",
+    "title": "Encartes abertos",
+    "theme": "music",
+    "motif": "LibraryBig:BookOpen",
+    "file": "achievements/music/discovery-edicao-10.svg"
+  },
+  {
+    "id": "discovery-album-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-album-01.svg",
+    "title": "Sem faixa faltando",
+    "theme": "music",
+    "motif": "DiscAlbum:CircleCheck",
+    "file": "achievements/music/discovery-album-01.svg"
+  },
+  {
+    "id": "discovery-album-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-album-02.svg",
+    "title": "Dois lados da estante",
+    "theme": "music",
+    "motif": "DiscAlbum:Users",
+    "file": "achievements/music/discovery-album-02.svg"
+  },
+  {
+    "id": "discovery-album-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-album-03.svg",
+    "title": "Galeria de encartes",
+    "theme": "music",
+    "motif": "DiscAlbum:Images",
+    "file": "achievements/music/discovery-album-03.svg"
+  },
+  {
+    "id": "discovery-album-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-album-04.svg",
+    "title": "Do começo ao fim da lista",
+    "theme": "music",
+    "motif": "DiscAlbum:ListStart",
+    "file": "achievements/music/discovery-album-04.svg"
+  },
+  {
+    "id": "discovery-album-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-album-05.svg",
+    "title": "Disco de cabeceira",
+    "theme": "music",
+    "motif": "DiscAlbum:Heart",
+    "file": "achievements/music/discovery-album-05.svg"
+  },
+  {
+    "id": "discovery-album-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-album-06.svg",
+    "title": "Caixa dupla",
+    "theme": "music",
+    "motif": "DiscAlbum:Layers",
+    "file": "achievements/music/discovery-album-06.svg"
+  },
+  {
+    "id": "discovery-album-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-album-07.svg",
+    "title": "Discoteca sem perdas",
+    "theme": "music",
+    "motif": "DiscAlbum:ShieldCheck",
+    "file": "achievements/music/discovery-album-07.svg"
+  },
+  {
+    "id": "discovery-album-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-album-08.svg",
+    "title": "Encarte cantado",
+    "theme": "music",
+    "motif": "DiscAlbum:Text",
+    "file": "achievements/music/discovery-album-08.svg"
+  },
+  {
+    "id": "discovery-album-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-album-09.svg",
+    "title": "Coleção de edições",
+    "theme": "music",
+    "motif": "DiscAlbum:Archive",
+    "file": "achievements/music/discovery-album-09.svg"
+  },
+  {
+    "id": "discovery-album-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-album-10.svg",
+    "title": "Arquivo de referência",
+    "theme": "music",
+    "motif": "DiscAlbum:Landmark",
+    "file": "achievements/music/discovery-album-10.svg"
+  },
+  {
+    "id": "discovery-som-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-som-01.svg",
+    "title": "Sem fio cortado",
+    "theme": "music",
+    "motif": "AudioLines:Shield",
+    "file": "achievements/music/discovery-som-01.svg"
+  },
+  {
+    "id": "discovery-som-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-som-02.svg",
+    "title": "Dois canais",
+    "theme": "music",
+    "motif": "AudioLines:Headphones",
+    "file": "achievements/music/discovery-som-02.svg"
+  },
+  {
+    "id": "discovery-som-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-som-03.svg",
+    "title": "Retrato em mono",
+    "theme": "music",
+    "motif": "AudioLines:Speaker",
+    "file": "achievements/music/discovery-som-03.svg"
+  },
+  {
+    "id": "discovery-som-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-som-04.svg",
+    "title": "Detalhe de origem",
+    "theme": "music",
+    "motif": "AudioLines:Scan",
+    "file": "achievements/music/discovery-som-04.svg"
+  },
+  {
+    "id": "discovery-som-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-som-05.svg",
+    "title": "Frequência documentada",
+    "theme": "music",
+    "motif": "AudioLines:Waves",
+    "file": "achievements/music/discovery-som-05.svg"
+  },
+  {
+    "id": "discovery-som-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-som-06.svg",
+    "title": "Níveis anotados",
+    "theme": "music",
+    "motif": "AudioLines:SlidersHorizontal",
+    "file": "achievements/music/discovery-som-06.svg"
+  },
+  {
+    "id": "discovery-som-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-som-07.svg",
+    "title": "Um disco, um nível",
+    "theme": "music",
+    "motif": "AudioLines:Gauge",
+    "file": "achievements/music/discovery-som-07.svg"
+  },
+  {
+    "id": "discovery-som-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-som-08.svg",
+    "title": "Batida reconhecida",
+    "theme": "music",
+    "motif": "AudioLines:Drum",
+    "file": "achievements/music/discovery-som-08.svg"
+  },
+  {
+    "id": "discovery-som-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-som-09.svg",
+    "title": "Paleta da coleção",
+    "theme": "music",
+    "motif": "AudioLines:Palette",
+    "file": "achievements/music/discovery-som-09.svg"
+  },
+  {
+    "id": "discovery-som-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-som-10.svg",
+    "title": "Áudio sob custódia",
+    "theme": "music",
+    "motif": "AudioLines:HardDrive",
+    "file": "achievements/music/discovery-som-10.svg"
+  },
+  {
+    "id": "discovery-afetos-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-afetos-01.svg",
+    "title": "Três vozes favoritas",
+    "theme": "music",
+    "motif": "HeartHandshake:Mic",
+    "file": "achievements/music/discovery-afetos-01.svg"
+  },
+  {
+    "id": "discovery-afetos-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-afetos-02.svg",
+    "title": "Gosto sem fronteira",
+    "theme": "music",
+    "motif": "HeartHandshake:Compass",
+    "file": "achievements/music/discovery-afetos-02.svg"
+  },
+  {
+    "id": "discovery-afetos-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-afetos-03.svg",
+    "title": "Capítulos queridos",
+    "theme": "music",
+    "motif": "HeartHandshake:Album",
+    "file": "achievements/music/discovery-afetos-03.svg"
+  },
+  {
+    "id": "discovery-afetos-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-afetos-04.svg",
+    "title": "Afeto atravessa décadas",
+    "theme": "music",
+    "motif": "HeartHandshake:CalendarDays",
+    "file": "achievements/music/discovery-afetos-04.svg"
+  },
+  {
+    "id": "discovery-afetos-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-afetos-05.svg",
+    "title": "Lembrança ilustrada",
+    "theme": "music",
+    "motif": "HeartHandshake:Image",
+    "file": "achievements/music/discovery-afetos-05.svg"
+  },
+  {
+    "id": "discovery-afetos-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-afetos-06.svg",
+    "title": "Versos que ficam",
+    "theme": "music",
+    "motif": "HeartHandshake:Quote",
+    "file": "achievements/music/discovery-afetos-06.svg"
+  },
+  {
+    "id": "discovery-afetos-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-afetos-07.svg",
+    "title": "Carinho sem perdas",
+    "theme": "music",
+    "motif": "HeartHandshake:ShieldCheck",
+    "file": "achievements/music/discovery-afetos-07.svg"
+  },
+  {
+    "id": "discovery-afetos-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-afetos-08.svg",
+    "title": "Encontro de talentos",
+    "theme": "music",
+    "motif": "HeartHandshake:Users",
+    "file": "achievements/music/discovery-afetos-08.svg"
+  },
+  {
+    "id": "discovery-afetos-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-afetos-09.svg",
+    "title": "Clássico pessoal",
+    "theme": "music",
+    "motif": "HeartHandshake:Gem",
+    "file": "achievements/music/discovery-afetos-09.svg"
+  },
+  {
+    "id": "discovery-afetos-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-afetos-10.svg",
+    "title": "Assinatura eclética",
+    "theme": "music",
+    "motif": "HeartHandshake:Sparkles",
+    "file": "achievements/music/discovery-afetos-10.svg"
+  },
+  {
+    "id": "discovery-curadoria-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-curadoria-01.svg",
+    "title": "Capa de seleção",
+    "theme": "music",
+    "motif": "ListMusic:Image",
+    "file": "achievements/music/discovery-curadoria-01.svg"
+  },
+  {
+    "id": "discovery-curadoria-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-curadoria-02.svg",
+    "title": "Nota do curador",
+    "theme": "music",
+    "motif": "ListMusic:PenLine",
+    "file": "achievements/music/discovery-curadoria-02.svg"
+  },
+  {
+    "id": "discovery-curadoria-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-curadoria-03.svg",
+    "title": "Sem eco na lista",
+    "theme": "music",
+    "motif": "ListMusic:ListChecks",
+    "file": "achievements/music/discovery-curadoria-03.svg"
+  },
+  {
+    "id": "discovery-curadoria-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-curadoria-04.svg",
+    "title": "Três caminhos",
+    "theme": "music",
+    "motif": "ListMusic:Waypoints",
+    "file": "achievements/music/discovery-curadoria-04.svg"
+  },
+  {
+    "id": "discovery-curadoria-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-curadoria-05.svg",
+    "title": "Vozes em roda",
+    "theme": "music",
+    "motif": "ListMusic:UsersRound",
+    "file": "achievements/music/discovery-curadoria-05.svg"
+  },
+  {
+    "id": "discovery-curadoria-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-curadoria-06.svg",
+    "title": "Páginas de discos",
+    "theme": "music",
+    "motif": "ListMusic:Album",
+    "file": "achievements/music/discovery-curadoria-06.svg"
+  },
+  {
+    "id": "discovery-curadoria-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-curadoria-07.svg",
+    "title": "Máquina de épocas",
+    "theme": "music",
+    "motif": "ListMusic:History",
+    "file": "achievements/music/discovery-curadoria-07.svg"
+  },
+  {
+    "id": "discovery-curadoria-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-curadoria-08.svg",
+    "title": "Seleção do coração",
+    "theme": "music",
+    "motif": "ListMusic:Heart",
+    "file": "achievements/music/discovery-curadoria-08.svg"
+  },
+  {
+    "id": "discovery-curadoria-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-curadoria-09.svg",
+    "title": "Curadoria sem perdas",
+    "theme": "music",
+    "motif": "ListMusic:ShieldCheck",
+    "file": "achievements/music/discovery-curadoria-09.svg"
+  },
+  {
+    "id": "discovery-curadoria-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-curadoria-10.svg",
+    "title": "Cancioneiro pessoal",
+    "theme": "music",
+    "motif": "ListMusic:BookOpen",
+    "file": "achievements/music/discovery-curadoria-10.svg"
+  },
+  {
+    "id": "discovery-descobertas-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-descobertas-01.svg",
+    "title": "Portas de entrada",
+    "theme": "music",
+    "motif": "Compass:DoorOpen",
+    "file": "achievements/music/discovery-descobertas-01.svg"
+  },
+  {
+    "id": "discovery-descobertas-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-descobertas-02.svg",
+    "title": "Mudança de paisagem",
+    "theme": "music",
+    "motif": "Compass:Mountain",
+    "file": "achievements/music/discovery-descobertas-02.svg"
+  },
+  {
+    "id": "discovery-descobertas-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-descobertas-03.svg",
+    "title": "Outros capítulos",
+    "theme": "music",
+    "motif": "Compass:Album",
+    "file": "achievements/music/discovery-descobertas-03.svg"
+  },
+  {
+    "id": "discovery-descobertas-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-descobertas-04.svg",
+    "title": "Passaporte de épocas",
+    "theme": "music",
+    "motif": "Compass:Tickets",
+    "file": "achievements/music/discovery-descobertas-04.svg"
+  },
+  {
+    "id": "discovery-descobertas-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-descobertas-05.svg",
+    "title": "Outras embalagens",
+    "theme": "music",
+    "motif": "Compass:Package",
+    "file": "achievements/music/discovery-descobertas-05.svg"
+  },
+  {
+    "id": "discovery-descobertas-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-descobertas-06.svg",
+    "title": "Descoberta com encarte",
+    "theme": "music",
+    "motif": "Compass:BookOpen",
+    "file": "achievements/music/discovery-descobertas-06.svg"
+  },
+  {
+    "id": "discovery-descobertas-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-descobertas-07.svg",
+    "title": "Descoberta cristalina",
+    "theme": "music",
+    "motif": "Compass:Gem",
+    "file": "achievements/music/discovery-descobertas-07.svg"
+  },
+  {
+    "id": "discovery-descobertas-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-descobertas-08.svg",
+    "title": "Dueto descoberto",
+    "theme": "music",
+    "motif": "Compass:Users",
+    "file": "achievements/music/discovery-descobertas-08.svg"
+  },
+  {
+    "id": "discovery-descobertas-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-descobertas-09.svg",
+    "title": "O segundo disco",
+    "theme": "music",
+    "motif": "Compass:Disc2",
+    "file": "achievements/music/discovery-descobertas-09.svg"
+  },
+  {
+    "id": "discovery-descobertas-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-descobertas-10.svg",
+    "title": "Mundo na estante",
+    "theme": "music",
+    "motif": "Compass:Globe",
+    "file": "achievements/music/discovery-descobertas-10.svg"
+  },
+  {
+    "id": "discovery-pontes-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-pontes-01.svg",
+    "title": "Meio século em uma lista",
+    "theme": "music",
+    "motif": "Waypoints:History",
+    "file": "achievements/music/discovery-pontes-01.svg"
+  },
+  {
+    "id": "discovery-pontes-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-pontes-02.svg",
+    "title": "Duas versões do recado",
+    "theme": "music",
+    "motif": "Waypoints:MessageSquare",
+    "file": "achievements/music/discovery-pontes-02.svg"
+  },
+  {
+    "id": "discovery-pontes-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-pontes-03.svg",
+    "title": "Oito esquinas",
+    "theme": "music",
+    "motif": "Waypoints:Map",
+    "file": "achievements/music/discovery-pontes-03.svg"
+  },
+  {
+    "id": "discovery-pontes-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-pontes-04.svg",
+    "title": "Elenco ampliado",
+    "theme": "music",
+    "motif": "Waypoints:UsersRound",
+    "file": "achievements/music/discovery-pontes-04.svg"
+  },
+  {
+    "id": "discovery-pontes-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-pontes-05.svg",
+    "title": "Cada faixa, uma voz",
+    "theme": "music",
+    "motif": "Waypoints:Mic",
+    "file": "achievements/music/discovery-pontes-05.svg"
+  },
+  {
+    "id": "discovery-pontes-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-pontes-06.svg",
+    "title": "Exposição portátil",
+    "theme": "music",
+    "motif": "Waypoints:Images",
+    "file": "achievements/music/discovery-pontes-06.svg"
+  },
+  {
+    "id": "discovery-pontes-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-pontes-07.svg",
+    "title": "Linha do tempo",
+    "theme": "music",
+    "motif": "Waypoints:ArrowUpRight",
+    "file": "achievements/music/discovery-pontes-07.svg"
+  },
+  {
+    "id": "discovery-pontes-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-pontes-08.svg",
+    "title": "Rebobinar a história",
+    "theme": "music",
+    "motif": "Waypoints:Rewind",
+    "file": "achievements/music/discovery-pontes-08.svg"
+  },
+  {
+    "id": "discovery-pontes-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-pontes-09.svg",
+    "title": "Um ano, muitas histórias",
+    "theme": "music",
+    "motif": "Waypoints:Calendar",
+    "file": "achievements/music/discovery-pontes-09.svg"
+  },
+  {
+    "id": "discovery-pontes-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-pontes-10.svg",
+    "title": "Retrato de uma cena",
+    "theme": "music",
+    "motif": "Waypoints:MapPin",
+    "file": "achievements/music/discovery-pontes-10.svg"
+  },
+  {
+    "id": "discovery-epocas-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-epocas-01.svg",
+    "title": "Antes do lado A",
+    "theme": "music",
+    "motif": "CalendarDays:Disc",
+    "file": "achievements/music/discovery-epocas-01.svg"
+  },
+  {
+    "id": "discovery-epocas-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-epocas-02.svg",
+    "title": "Sessenta rotações",
+    "theme": "music",
+    "motif": "CalendarDays:Radio",
+    "file": "achievements/music/discovery-epocas-02.svg"
+  },
+  {
+    "id": "discovery-epocas-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-epocas-03.svg",
+    "title": "Setenta caminhos",
+    "theme": "music",
+    "motif": "CalendarDays:Guitar",
+    "file": "achievements/music/discovery-epocas-03.svg"
+  },
+  {
+    "id": "discovery-epocas-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-epocas-04.svg",
+    "title": "Oitenta frequências",
+    "theme": "music",
+    "motif": "CalendarDays:CassetteTape",
+    "file": "achievements/music/discovery-epocas-04.svg"
+  },
+  {
+    "id": "discovery-epocas-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-epocas-05.svg",
+    "title": "Noventa estações",
+    "theme": "music",
+    "motif": "CalendarDays:Disc3",
+    "file": "achievements/music/discovery-epocas-05.svg"
+  },
+  {
+    "id": "discovery-epocas-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-epocas-06.svg",
+    "title": "Virada do disco",
+    "theme": "music",
+    "motif": "CalendarDays:RotateCw",
+    "file": "achievements/music/discovery-epocas-06.svg"
+  },
+  {
+    "id": "discovery-epocas-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-epocas-07.svg",
+    "title": "Década conectada",
+    "theme": "music",
+    "motif": "CalendarDays:Network",
+    "file": "achievements/music/discovery-epocas-07.svg"
+  },
+  {
+    "id": "discovery-epocas-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-epocas-08.svg",
+    "title": "Agora é acervo",
+    "theme": "music",
+    "motif": "CalendarDays:Sparkles",
+    "file": "achievements/music/discovery-epocas-08.svg"
+  },
+  {
+    "id": "discovery-epocas-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-epocas-09.svg",
+    "title": "Cinco décadas na sala",
+    "theme": "music",
+    "motif": "CalendarDays:LibraryBig",
+    "file": "achievements/music/discovery-epocas-09.svg"
+  },
+  {
+    "id": "discovery-epocas-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-epocas-10.svg",
+    "title": "Arquivo de um século",
+    "theme": "music",
+    "motif": "CalendarDays:Landmark",
+    "file": "achievements/music/discovery-epocas-10.svg"
+  },
+  {
+    "id": "discovery-cenas-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-cenas-01.svg",
+    "title": "Amplificadores ligados",
+    "theme": "music",
+    "motif": "Music3:Guitar",
+    "file": "achievements/music/discovery-cenas-01.svg"
+  },
+  {
+    "id": "discovery-cenas-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-cenas-02.svg",
+    "title": "Mesa de improviso",
+    "theme": "music",
+    "motif": "Music3:Piano",
+    "file": "achievements/music/discovery-cenas-02.svg"
+  },
+  {
+    "id": "discovery-cenas-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-cenas-03.svg",
+    "title": "Sala de concerto",
+    "theme": "music",
+    "motif": "Music3:Music2",
+    "file": "achievements/music/discovery-cenas-03.svg"
+  },
+  {
+    "id": "discovery-cenas-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-cenas-04.svg",
+    "title": "Roda montada",
+    "theme": "music",
+    "motif": "Music3:Drum",
+    "file": "achievements/music/discovery-cenas-04.svg"
+  },
+  {
+    "id": "discovery-cenas-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-cenas-05.svg",
+    "title": "Janela de bossa",
+    "theme": "music",
+    "motif": "Music3:Sun",
+    "file": "achievements/music/discovery-cenas-05.svg"
+  },
+  {
+    "id": "discovery-cenas-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-cenas-06.svg",
+    "title": "Verso de rua",
+    "theme": "music",
+    "motif": "Music3:MicVocal",
+    "file": "achievements/music/discovery-cenas-06.svg"
+  },
+  {
+    "id": "discovery-cenas-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-cenas-07.svg",
+    "title": "Circuito aberto",
+    "theme": "music",
+    "motif": "Music3:CircuitBoard",
+    "file": "achievements/music/discovery-cenas-07.svg"
+  },
+  {
+    "id": "discovery-cenas-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-cenas-08.svg",
+    "title": "Contratempo",
+    "theme": "music",
+    "motif": "Music3:Waves",
+    "file": "achievements/music/discovery-cenas-08.svg"
+  },
+  {
+    "id": "discovery-cenas-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-cenas-09.svg",
+    "title": "Retratos do Brasil",
+    "theme": "music",
+    "motif": "Music3:MapPin",
+    "file": "achievements/music/discovery-cenas-09.svg"
+  },
+  {
+    "id": "discovery-cenas-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-cenas-10.svg",
+    "title": "Liga pesada",
+    "theme": "music",
+    "motif": "Music3:Anvil",
+    "file": "achievements/music/discovery-cenas-10.svg"
+  },
+  {
+    "id": "discovery-formatos-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-formatos-01.svg",
+    "title": "Arquivo livre",
+    "theme": "music",
+    "motif": "FileAudio:Leaf",
+    "file": "achievements/music/discovery-formatos-01.svg"
+  },
+  {
+    "id": "discovery-formatos-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-formatos-02.svg",
+    "title": "Clássico digital",
+    "theme": "music",
+    "motif": "FileAudio:Disc3",
+    "file": "achievements/music/discovery-formatos-02.svg"
+  },
+  {
+    "id": "discovery-formatos-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-formatos-03.svg",
+    "title": "Onda preservada",
+    "theme": "music",
+    "motif": "FileAudio:Waves",
+    "file": "achievements/music/discovery-formatos-03.svg"
+  },
+  {
+    "id": "discovery-formatos-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-formatos-04.svg",
+    "title": "Voz em Opus",
+    "theme": "music",
+    "motif": "FileAudio:Mic",
+    "file": "achievements/music/discovery-formatos-04.svg"
+  },
+  {
+    "id": "discovery-formatos-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-formatos-05.svg",
+    "title": "Outra compressão",
+    "theme": "music",
+    "motif": "FileAudio:Package",
+    "file": "achievements/music/discovery-formatos-05.svg"
+  },
+  {
+    "id": "discovery-formatos-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-formatos-06.svg",
+    "title": "Cápsula AAC",
+    "theme": "music",
+    "motif": "FileAudio:File",
+    "file": "achievements/music/discovery-formatos-06.svg"
+  },
+  {
+    "id": "discovery-formatos-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-formatos-07.svg",
+    "title": "Edição Apple sem perdas",
+    "theme": "music",
+    "motif": "FileAudio:Gem",
+    "file": "achievements/music/discovery-formatos-07.svg"
+  },
+  {
+    "id": "discovery-formatos-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-formatos-08.svg",
+    "title": "Arquivo de estúdio",
+    "theme": "music",
+    "motif": "FileAudio:Piano",
+    "file": "achievements/music/discovery-formatos-08.svg"
+  },
+  {
+    "id": "discovery-formatos-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-formatos-09.svg",
+    "title": "Estante multiformato",
+    "theme": "music",
+    "motif": "FileAudio:Boxes",
+    "file": "achievements/music/discovery-formatos-09.svg"
+  },
+  {
+    "id": "discovery-formatos-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-formatos-10.svg",
+    "title": "Mesmo artista, outras edições",
+    "theme": "music",
+    "motif": "FileAudio:Copy",
+    "file": "achievements/music/discovery-formatos-10.svg"
+  },
+  {
+    "id": "discovery-versos-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-versos-01.svg",
+    "title": "Verso anotado",
+    "theme": "music",
+    "motif": "BookOpen:PenLine",
+    "file": "achievements/music/discovery-versos-01.svg"
+  },
+  {
+    "id": "discovery-versos-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-versos-02.svg",
+    "title": "Palavra no compasso",
+    "theme": "music",
+    "motif": "BookOpen:AudioLines",
+    "file": "achievements/music/discovery-versos-02.svg"
+  },
+  {
+    "id": "discovery-versos-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-versos-03.svg",
+    "title": "Recado no arquivo",
+    "theme": "music",
+    "motif": "BookOpen:FileText",
+    "file": "achievements/music/discovery-versos-03.svg"
+  },
+  {
+    "id": "discovery-versos-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-versos-04.svg",
+    "title": "Encarte em movimento",
+    "theme": "music",
+    "motif": "BookOpen:Disc3",
+    "file": "achievements/music/discovery-versos-04.svg"
+  },
+  {
+    "id": "discovery-versos-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-versos-05.svg",
+    "title": "Verso encontrado",
+    "theme": "music",
+    "motif": "BookOpen:Search",
+    "file": "achievements/music/discovery-versos-05.svg"
+  },
+  {
+    "id": "discovery-versos-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-versos-06.svg",
+    "title": "Sintonia encontrada",
+    "theme": "music",
+    "motif": "BookOpen:Radio",
+    "file": "achievements/music/discovery-versos-06.svg"
+  },
+  {
+    "id": "discovery-versos-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-versos-07.svg",
+    "title": "Palavras queridas",
+    "theme": "music",
+    "motif": "BookOpen:Heart",
+    "file": "achievements/music/discovery-versos-07.svg"
+  },
+  {
+    "id": "discovery-versos-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-versos-08.svg",
+    "title": "Poesia em muitas vozes",
+    "theme": "music",
+    "motif": "BookOpen:Users",
+    "file": "achievements/music/discovery-versos-08.svg"
+  },
+  {
+    "id": "discovery-versos-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-versos-09.svg",
+    "title": "Linguagem dos estilos",
+    "theme": "music",
+    "motif": "BookOpen:Compass",
+    "file": "achievements/music/discovery-versos-09.svg"
+  },
+  {
+    "id": "discovery-versos-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-versos-10.svg",
+    "title": "Antologia de encartes",
+    "theme": "music",
+    "motif": "BookOpen:LibraryBig",
+    "file": "achievements/music/discovery-versos-10.svg"
+  },
+  {
+    "id": "discovery-creditos-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-creditos-01.svg",
+    "title": "Encontro marcado",
+    "theme": "music",
+    "motif": "Users:Handshake",
+    "file": "achievements/music/discovery-creditos-01.svg"
+  },
+  {
+    "id": "discovery-creditos-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-creditos-02.svg",
+    "title": "Assina o disco",
+    "theme": "music",
+    "motif": "Users:PenTool",
+    "file": "achievements/music/discovery-creditos-02.svg"
+  },
+  {
+    "id": "discovery-creditos-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-creditos-03.svg",
+    "title": "Bastidores em comum",
+    "theme": "music",
+    "motif": "Users:Network",
+    "file": "achievements/music/discovery-creditos-03.svg"
+  },
+  {
+    "id": "discovery-creditos-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-creditos-04.svg",
+    "title": "Três capítulos de uma voz",
+    "theme": "music",
+    "motif": "Users:Album",
+    "file": "achievements/music/discovery-creditos-04.svg"
+  },
+  {
+    "id": "discovery-creditos-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-creditos-05.svg",
+    "title": "Uma voz atravessa o tempo",
+    "theme": "music",
+    "motif": "Users:Calendar",
+    "file": "achievements/music/discovery-creditos-05.svg"
+  },
+  {
+    "id": "discovery-creditos-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-creditos-06.svg",
+    "title": "Elenco de coletânea",
+    "theme": "music",
+    "motif": "Users:Group",
+    "file": "achievements/music/discovery-creditos-06.svg"
+  },
+  {
+    "id": "discovery-creditos-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-creditos-07.svg",
+    "title": "Participações em destaque",
+    "theme": "music",
+    "motif": "Users:ListMusic",
+    "file": "achievements/music/discovery-creditos-07.svg"
+  },
+  {
+    "id": "discovery-creditos-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-creditos-08.svg",
+    "title": "Afinidade coletiva",
+    "theme": "music",
+    "motif": "Users:Heart",
+    "file": "achievements/music/discovery-creditos-08.svg"
+  },
+  {
+    "id": "discovery-creditos-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-creditos-09.svg",
+    "title": "O encontro aconteceu",
+    "theme": "music",
+    "motif": "Users:Play",
+    "file": "achievements/music/discovery-creditos-09.svg"
+  },
+  {
+    "id": "discovery-creditos-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-creditos-10.svg",
+    "title": "Conexão entre cenas",
+    "theme": "music",
+    "motif": "Users:Waypoints",
+    "file": "achievements/music/discovery-creditos-10.svg"
+  },
+  {
+    "id": "discovery-inteligentes-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-inteligentes-01.svg",
+    "title": "O coração organiza",
+    "theme": "music",
+    "motif": "ListFilter:Heart",
+    "file": "achievements/music/discovery-inteligentes-01.svg"
+  },
+  {
+    "id": "discovery-inteligentes-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-inteligentes-02.svg",
+    "title": "Acabou de chegar",
+    "theme": "music",
+    "motif": "ListFilter:Inbox",
+    "file": "achievements/music/discovery-inteligentes-02.svg"
+  },
+  {
+    "id": "discovery-inteligentes-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-inteligentes-03.svg",
+    "title": "Os mais pedidos",
+    "theme": "music",
+    "motif": "ListFilter:ChartNoAxesColumnIncreasing",
+    "file": "achievements/music/discovery-inteligentes-03.svg"
+  },
+  {
+    "id": "discovery-inteligentes-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-inteligentes-04.svg",
+    "title": "Porta para o inédito",
+    "theme": "music",
+    "motif": "ListFilter:DoorOpen",
+    "file": "achievements/music/discovery-inteligentes-04.svg"
+  },
+  {
+    "id": "discovery-inteligentes-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-inteligentes-05.svg",
+    "title": "Rastro de descobertas",
+    "theme": "music",
+    "motif": "ListFilter:History",
+    "file": "achievements/music/discovery-inteligentes-05.svg"
+  },
+  {
+    "id": "discovery-inteligentes-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-inteligentes-06.svg",
+    "title": "Filtro de cena",
+    "theme": "music",
+    "motif": "ListFilter:Guitar",
+    "file": "achievements/music/discovery-inteligentes-06.svg"
+  },
+  {
+    "id": "discovery-inteligentes-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-inteligentes-07.svg",
+    "title": "Filtro de voz",
+    "theme": "music",
+    "motif": "ListFilter:Mic",
+    "file": "achievements/music/discovery-inteligentes-07.svg"
+  },
+  {
+    "id": "discovery-inteligentes-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-inteligentes-08.svg",
+    "title": "Filtro de época",
+    "theme": "music",
+    "motif": "ListFilter:Calendar",
+    "file": "achievements/music/discovery-inteligentes-08.svg"
+  },
+  {
+    "id": "discovery-inteligentes-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-inteligentes-09.svg",
+    "title": "Tudo se encaixa",
+    "theme": "music",
+    "motif": "ListFilter:ListChecks",
+    "file": "achievements/music/discovery-inteligentes-09.svg"
+  },
+  {
+    "id": "discovery-inteligentes-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-inteligentes-10.svg",
+    "title": "Mais de um caminho",
+    "theme": "music",
+    "motif": "ListFilter:GitBranch",
+    "file": "achievements/music/discovery-inteligentes-10.svg"
+  },
+  {
+    "id": "discovery-reencontros-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-reencontros-01.svg",
+    "title": "Pedi bis",
+    "theme": "music",
+    "motif": "Repeat:Play",
+    "file": "achievements/music/discovery-reencontros-01.svg"
+  },
+  {
+    "id": "discovery-reencontros-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-reencontros-02.svg",
+    "title": "Afeto ouvido",
+    "theme": "music",
+    "motif": "Repeat:Heart",
+    "file": "achievements/music/discovery-reencontros-02.svg"
+  },
+  {
+    "id": "discovery-reencontros-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-reencontros-03.svg",
+    "title": "O disco entrou na roda",
+    "theme": "music",
+    "motif": "Repeat:Disc3",
+    "file": "achievements/music/discovery-reencontros-03.svg"
+  },
+  {
+    "id": "discovery-reencontros-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-reencontros-04.svg",
+    "title": "Favoritos sem rótulo único",
+    "theme": "music",
+    "motif": "Repeat:Compass",
+    "file": "achievements/music/discovery-reencontros-04.svg"
+  },
+  {
+    "id": "discovery-reencontros-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-reencontros-05.svg",
+    "title": "Cinco vozes de casa",
+    "theme": "music",
+    "motif": "Repeat:Users",
+    "file": "achievements/music/discovery-reencontros-05.svg"
+  },
+  {
+    "id": "discovery-reencontros-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-reencontros-06.svg",
+    "title": "Fora da zona favorita",
+    "theme": "music",
+    "motif": "Repeat:DoorOpen",
+    "file": "achievements/music/discovery-reencontros-06.svg"
+  },
+  {
+    "id": "discovery-reencontros-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-reencontros-07.svg",
+    "title": "A outra metade da caixa",
+    "theme": "music",
+    "motif": "Repeat:Layers",
+    "file": "achievements/music/discovery-reencontros-07.svg"
+  },
+  {
+    "id": "discovery-reencontros-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-reencontros-08.svg",
+    "title": "A seleção ganhou voz",
+    "theme": "music",
+    "motif": "Repeat:ListMusic",
+    "file": "achievements/music/discovery-reencontros-08.svg"
+  },
+  {
+    "id": "discovery-reencontros-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-reencontros-09.svg",
+    "title": "Álbum que pede volta",
+    "theme": "music",
+    "motif": "Repeat:Album",
+    "file": "achievements/music/discovery-reencontros-09.svg"
+  },
+  {
+    "id": "discovery-reencontros-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-reencontros-10.svg",
+    "title": "Vinte anos da mesma voz",
+    "theme": "music",
+    "motif": "Repeat:History",
+    "file": "achievements/music/discovery-reencontros-10.svg"
+  },
+  {
+    "id": "discovery-assinatura-01",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/discovery-assinatura-01.svg",
+    "title": "Capa, verso e ficha",
+    "theme": "music",
+    "motif": "Gem:BookOpen",
+    "file": "achievements/music/discovery-assinatura-01.svg"
+  },
+  {
+    "id": "discovery-assinatura-02",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-assinatura-02.svg",
+    "title": "Seleção com identidade",
+    "theme": "music",
+    "motif": "Gem:ListMusic",
+    "file": "achievements/music/discovery-assinatura-02.svg"
+  },
+  {
+    "id": "discovery-assinatura-03",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discovery-assinatura-03.svg",
+    "title": "Coração panorâmico",
+    "theme": "music",
+    "motif": "Gem:Heart",
+    "file": "achievements/music/discovery-assinatura-03.svg"
+  },
+  {
+    "id": "discovery-assinatura-04",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-assinatura-04.svg",
+    "title": "Estante plural",
+    "theme": "music",
+    "motif": "Gem:LibraryBig",
+    "file": "achievements/music/discovery-assinatura-04.svg"
+  },
+  {
+    "id": "discovery-assinatura-05",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/discovery-assinatura-05.svg",
+    "title": "Mapa de afetos",
+    "theme": "music",
+    "motif": "Gem:Map",
+    "file": "achievements/music/discovery-assinatura-05.svg"
+  },
+  {
+    "id": "discovery-assinatura-06",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/music/discovery-assinatura-06.svg",
+    "title": "Edições em paralelo",
+    "theme": "music",
+    "motif": "Gem:Copy",
+    "file": "achievements/music/discovery-assinatura-06.svg"
+  },
+  {
+    "id": "discovery-assinatura-07",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/discovery-assinatura-07.svg",
+    "title": "Acervo bem documentado",
+    "theme": "music",
+    "motif": "Gem:FileCheck",
+    "file": "achievements/music/discovery-assinatura-07.svg"
+  },
+  {
+    "id": "discovery-assinatura-08",
+    "rarity": "emerald",
+    "coinFile": "achievements/coins/music/discovery-assinatura-08.svg",
+    "title": "Favorito em alta definição",
+    "theme": "music",
+    "motif": "Gem:Sparkles",
+    "file": "achievements/music/discovery-assinatura-08.svg"
+  },
+  {
+    "id": "discovery-assinatura-09",
+    "rarity": "obsidian",
+    "coinFile": "achievements/coins/music/discovery-assinatura-09.svg",
+    "title": "Edição de colecionador",
+    "theme": "music",
+    "motif": "Gem:Archive",
+    "file": "achievements/music/discovery-assinatura-09.svg"
+  },
+  {
+    "id": "discovery-assinatura-10",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/discovery-assinatura-10.svg",
+    "title": "A coleção tem a sua cara",
+    "theme": "music",
+    "motif": "Gem:Crown",
+    "file": "achievements/music/discovery-assinatura-10.svg"
   },
   {
     "id": "fitness-primeiro-movimento",
@@ -1162,7 +2512,7 @@
   },
   {
     "id": "friends-3",
-    "rarity": "bronze",
+    "rarity": "silver",
     "coinFile": "achievements/coins/friends/friends-3.svg",
     "title": "Pequeno círculo",
     "theme": "friends",
@@ -1180,7 +2530,7 @@
   },
   {
     "id": "friends-10",
-    "rarity": "silver",
+    "rarity": "gold",
     "coinFile": "achievements/coins/friends/friends-10.svg",
     "title": "Rede de confiança",
     "theme": "friends",
@@ -1198,7 +2548,7 @@
   },
   {
     "id": "shared-playlists-1",
-    "rarity": "gold",
+    "rarity": "platinum",
     "coinFile": "achievements/coins/friends/shared-playlists-1.svg",
     "title": "Primeira playlist a dois",
     "theme": "friends",
@@ -1216,7 +2566,7 @@
   },
   {
     "id": "shared-playlists-10",
-    "rarity": "platinum",
+    "rarity": "topaz",
     "coinFile": "achievements/coins/friends/shared-playlists-10.svg",
     "title": "Curador compartilhado",
     "theme": "friends",
@@ -1234,7 +2584,7 @@
   },
   {
     "id": "challenges-created-1",
-    "rarity": "topaz",
+    "rarity": "emerald",
     "coinFile": "achievements/coins/friends/challenges-created-1.svg",
     "title": "Primeiro desafio",
     "theme": "friends",
@@ -1252,7 +2602,7 @@
   },
   {
     "id": "challenges-created-10",
-    "rarity": "emerald",
+    "rarity": "sapphire",
     "coinFile": "achievements/coins/friends/challenges-created-10.svg",
     "title": "Mestre dos desafios",
     "theme": "friends",
@@ -1270,7 +2620,7 @@
   },
   {
     "id": "challenges-completed-3",
-    "rarity": "sapphire",
+    "rarity": "ruby",
     "coinFile": "achievements/coins/friends/challenges-completed-3.svg",
     "title": "Trinca de vitórias",
     "theme": "friends",
@@ -1288,7 +2638,7 @@
   },
   {
     "id": "challenges-joined-1",
-    "rarity": "ruby",
+    "rarity": "obsidian",
     "coinFile": "achievements/coins/friends/challenges-joined-1.svg",
     "title": "Entrou na roda",
     "theme": "friends",
@@ -1297,7 +2647,7 @@
   },
   {
     "id": "challenges-joined-3",
-    "rarity": "diamond",
+    "rarity": "obsidian",
     "coinFile": "achievements/coins/friends/challenges-joined-3.svg",
     "title": "Parceiro de escuta",
     "theme": "friends",

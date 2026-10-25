@@ -1,1 +1,0 @@
-var e=/smart.?tv|tizen|web0s|webos|android\s?tv|googletv|hbbtv|appletv|roku|viera|netcast|bravia/i;function t(){return e.test(navigator.userAgent)}export{t};
