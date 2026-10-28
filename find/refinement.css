@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@font-face{font-family:'Botanic Grotesque';src:url('./BotanicGrotesque-Regular.otf') format('opentype');font-weight:400;font-style:normal;font-display:swap}
+:root{font-family:Inter,ui-sans-serif,system-ui,sans-serif;color:#302b36}
+body,button,input,small,p,dt,dd{font-family:Inter,ui-sans-serif,system-ui,sans-serif;letter-spacing:normal}
+h1,h2,#discovery h3{font-family:'Botanic Grotesque',Inter,sans-serif;font-weight:400}
+.brand{font-family:Inter,sans-serif}
+.search-rings{display:none}.halo{display:none}.orb-stage.is-fallback::after{display:none}
+.orb-stage.is-fallback .search-rings{display:grid}
+.orb-stage.is-fallback .search-rings i{border:2px solid #a58adb;box-shadow:0 0 8px #d796d977,inset 0 0 8px #87dcec77}
+#discovery{color:#302b36;background:linear-gradient(135deg,color-mix(in srgb,var(--discovery-color) 7%,#fcfbfd),color-mix(in srgb,var(--discovery-accent) 5%,#fcfbfd))}
+.discovery-nav{margin:0}.embedded .discovery-nav{display:none}
+.discovery-hero{gap:28px;padding:10px 0 26px;align-items:center}
+.discovery-hero h2{font-family:'Botanic Grotesque',Inter,sans-serif;font-size:clamp(32px,5vw,46px);line-height:1.12;letter-spacing:-.025em}
+.discovery-hero p:not(.eyebrow){font-family:Inter,sans-serif;font-size:16px;line-height:1.55;letter-spacing:0;color:#655a70;margin:10px 0 0}
+.discovery-hero .eyebrow{font-size:10px;letter-spacing:.15em;color:#7c668a}
+.discovery-tabs{position:sticky;top:0;z-index:2;display:inline-flex;width:fit-content;max-width:100%;gap:3px;margin:0 0 24px;padding:4px;background:#ffffff85;backdrop-filter:blur(20px);border:1px solid #e4dce9;border-radius:18px;box-shadow:0 3px 14px #3e234408}
+.discovery-tabs button{min-height:44px;min-width:100px;padding:10px 20px;font:500 14px/1.2 Inter,sans-serif;letter-spacing:0;border:0;color:#716379;border-radius:13px;transition:background .2s,color .2s}
+.discovery-tabs button[aria-pressed=true]{background:color-mix(in srgb,var(--discovery-color) 35%,#44334e);color:#fff;box-shadow:0 2px 5px #43274818}
+.discovery-tabs button:hover:not([aria-pressed=true]){background:#ede5f180;color:#44304f}
+#discovery h3{font-size:22px;letter-spacing:-.015em;margin:22px 0 18px;line-height:1.25}
+#discoveryFacts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+#discoveryFacts>div{display:flex;flex-direction:column;align-items:flex-start;justify-content:flex-start;gap:8px;padding:16px 18px;min-width:0;background:#ffffffb0;border:1px solid #e5dfea;border-radius:14px;font-family:Inter,sans-serif}
+#discoveryFacts dt{font:500 13px/1.4 Inter,sans-serif;color:#776681;letter-spacing:0}
+#discoveryFacts dd{font:500 16px/1.5 Inter,sans-serif;letter-spacing:0;color:#39303f;text-align:left;overflow-wrap:anywhere}
+.fact-link{font:inherit;color:#684779;border:0;background:none;padding:0;text-align:left;cursor:pointer;line-height:1.5}
+.fact-link:hover{text-decoration:underline;text-underline-offset:4px}
+#discovery .catalog-note{font:400 12px/1.6 Inter,sans-serif;color:#84758e;letter-spacing:0;margin:20px 0}
+#discovery .primary{font:500 14px/1.3 Inter,sans-serif;letter-spacing:0;min-height:48px;margin-top:4px}
+.discovery-actions{position:sticky;bottom:-26px;z-index:3;margin-top:12px;padding:16px 0;background:linear-gradient(0deg,#fbf9fd 85%,#fbf9fd00);border-top:1px solid #e7dfec}
+.catalog-card{padding:13px}.catalog-card strong{font:500 14px/1.4 Inter,sans-serif;letter-spacing:0}.catalog-card small{font:400 12px/1.4 Inter,sans-serif;letter-spacing:0;color:#80728b}.album-info,#catalogStatus{font:400 14px/1.6 Inter,sans-serif;color:#776780;letter-spacing:0}
+@media(max-width:600px){.discovery-hero{gap:18px;padding-top:6px}.discovery-hero h2{font-size:30px}.discovery-hero p:not(.eyebrow){font-size:14px}.discovery-tabs{top:0;display:flex;max-width:100%}.discovery-tabs button{min-width:0;flex:1;padding:10px 18px}#discoveryFacts{grid-template-columns:1fr}#discoveryFacts>div{padding:15px 16px}#discovery h3{font-size:20px}}
+html.in-sphere,html.in-sphere body{background:transparent;color:#eee8f5;color-scheme:normal}.in-sphere .ambient{display:none}.in-sphere .recognition{margin-top:10px;max-width:740px}.in-sphere h1{color:#f2ecf8;font-size:clamp(30px,4vw,42px)}.in-sphere .eyebrow{color:#b6a4c9}.in-sphere .intro{color:#b9abc8}.in-sphere #status{color:#e0d2ef;font-size:15px}.in-sphere #detail{color:#ad9cbe;font-size:13px}.in-sphere .primary{background:#e6d8f1;color:#392b47;box-shadow:0 5px 24px #9670b322}.in-sphere .primary:hover:not(:disabled){background:#f2e7fa}.in-sphere .upload,.in-sphere .cancel{color:#bba4ce}.in-sphere .history-head{border-color:#cbb0e528}.in-sphere .history h2,.in-sphere .history button{color:#c6b5d8}.in-sphere .history-item strong{color:#eadff3}.in-sphere .history .history-item small{color:#aa95ba}.in-sphere .history-item time{color:#aa95ba}.in-sphere footer p,.in-sphere .online{color:#9f8cad}.in-sphere .orb-shadow{background:#b18ce51c}.in-sphere #discovery{color:#302b36}.in-sphere #discovery .primary{background:#43334d;color:#fff}.in-sphere .result{background:#211b2b;border-color:#a17abd33;color:#f1e8f6}.in-sphere .result p,.in-sphere .result small{color:#b8a6c9}
+/* Neutral interface; color belongs to the artwork and AURA. */
+.in-sphere .eyebrow{color:#a2a2a7}.in-sphere .intro{color:#b5b5bb}.in-sphere #status{color:#e5e5e7}.in-sphere #detail{color:#a7a7ae}.in-sphere .primary{background:#f2f2f3;color:#19191b;box-shadow:0 6px 22px #0002}.in-sphere .primary:hover:not(:disabled){background:#fff}.in-sphere .upload,.in-sphere .cancel{color:#b6b6bc}.in-sphere .history h2,.in-sphere .history button{color:#bdbdc3}.in-sphere .history-item strong{color:#ececee}.in-sphere .history .history-item small,.in-sphere .history-item time{color:#9999a1}.in-sphere footer p,.in-sphere .online{color:#8e8e97}.in-sphere .history-head{border-color:#ffffff1a}.in-sphere .orb-stage{width:360px;height:260px;margin:4px auto}.in-sphere .recognition{margin-top:0}.in-sphere h1{font-size:clamp(28px,3.5vw,36px)}.in-sphere .intro{margin-top:8px}.in-sphere .search-caption{margin:6px 0 12px}.in-sphere .upload{margin-top:12px}.in-sphere .history{margin-top:28px}.in-sphere body{min-height:0}.in-sphere{scrollbar-width:none}.in-sphere::-webkit-scrollbar{display:none}
+#discovery .discovery-hero p:not(.eyebrow){color:#626267}#discovery .eyebrow{color:#77777e}#discoveryFacts dt{color:#717178}#discoveryFacts dd{color:#303034}.fact-link{color:#36363b}.discovery-tabs button{color:#66666d}.discovery-tabs button[aria-pressed=true]{background:#343438;color:#fff}.discovery-tabs button:hover:not([aria-pressed=true]){background:#e7e7eb;color:#343438}#discovery .primary,.in-sphere #discovery .primary{background:#343438;color:#fff}#discovery .primary:hover{background:#48484c}.catalog-card small,.album-info,#catalogStatus,#discovery .catalog-note{color:#77777e}
+@media(max-width:600px){.in-sphere .orb-stage{width:300px;max-width:90vw;height:230px}.in-sphere h1{font-size:28px}.in-sphere .recognition{padding:0 10px}}
+.status-area:has(#status:empty){display:none}.status-area #detail:empty{display:none}.search-caption{display:none}.preparing .search-caption,.recording .search-caption,.loading .search-caption{display:flex}.recognition{padding-top:10px}.in-sphere .recognition{padding-top:20px}.in-sphere .orb-stage{margin:18px auto}.in-sphere footer{display:none}.in-sphere .upload{font-size:12px;margin-top:14px}.in-sphere .history{margin-top:40px}
+.recognition-symbol{display:block;flex-shrink:0;width:22px;height:22px;background:currentColor;mask:url('./recognition-icon.svg') center/contain no-repeat;-webkit-mask:url('./recognition-icon.svg') center/contain no-repeat}#listen{transition:transform .2s ease,background .2s ease,box-shadow .2s ease;position:relative}#listen:not(:disabled) .recognition-symbol{animation:identifier-symbol-breathe 3.8s ease-in-out infinite}#listen:hover:not(:disabled){transform:translateY(-2px);box-shadow:0 8px 30px #ffffff15}#listen:active:not(:disabled){transform:scale(.96)}.preparing #listen .recognition-symbol,.recording #listen .recognition-symbol,.loading #listen .recognition-symbol{animation:identifier-symbol-breathe 1.8s ease-in-out infinite}.preparing .status-area,.recording .status-area,.loading .status-area{animation:identifier-message-arrive .3s ease-out}@keyframes identifier-symbol-breathe{0%,100%{transform:scale(1);opacity:.7}50%{transform:scale(1.1);opacity:1}}@keyframes identifier-message-arrive{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}@media(prefers-reduced-motion:reduce){#listen,#listen .recognition-symbol{animation:none!important;transition:none!important}}
+
+
+/* Keep scrolling inside the result without the native white gutter and arrows. */
+html:has(#discovery[open]),body:has(#discovery[open]){overflow:hidden}
+#discovery{scrollbar-width:thin;scrollbar-color:rgb(90 90 96 / 28%) transparent;overscroll-behavior:contain}
+#discovery::-webkit-scrollbar{width:5px;height:5px}
+#discovery::-webkit-scrollbar-track{background:transparent}
+#discovery::-webkit-scrollbar-thumb{background:rgb(90 90 96 / 28%);border-radius:99px}
+#discovery::-webkit-scrollbar-thumb:hover{background:rgb(90 90 96 / 48%)}
+#discovery::-webkit-scrollbar-button{display:none;width:0;height:0}
+
+/* FIND motion: brief entrances, restrained hover, no extra perpetual page loop. */
+header .brand,.discovery-nav .brand{display:inline-flex;align-items:baseline;transform-origin:left center;transition:transform 240ms ease,opacity 240ms ease}
+header .brand:hover,.discovery-nav .brand:hover{transform:translateY(-2px);opacity:.8}
+header .brand:active,.discovery-nav .brand:active{transform:scale(.97)}
+@media(prefers-reduced-motion:no-preference){
+  header{animation:find-arrive 550ms ease both}
+  header .brand{animation:find-logo-reveal 750ms cubic-bezier(.2,.7,.2,1) both}
+  header .brand span{animation:find-dot-reveal 500ms 300ms ease both}
+  .recognition>h1{animation:find-arrive 600ms 80ms ease both}
+  .orb-stage{animation:find-orb-reveal 850ms 100ms cubic-bezier(.2,.7,.2,1) both}
+  .recognition>#listen{animation:find-arrive 550ms 200ms ease backwards}
+  .recognition>.upload{animation:find-arrive 550ms 260ms ease backwards}
+  .history:not([hidden]),footer{animation:find-arrive 650ms 300ms ease backwards}
+  #discovery[open]{animation:find-arrive 300ms ease both}
+  #discovery[open] .discovery-nav .brand{animation:find-logo-reveal 550ms ease both}
+  #discovery[open] .discovery-hero{animation:find-arrive 400ms 50ms ease backwards}
+  #discovery[open] .discovery-tabs{animation:find-arrive 400ms 100ms ease backwards}
+  #songPanel:not([hidden]),#catalogPanel:not([hidden]){animation:find-arrive 300ms ease both}
+  #discoveryFacts>div,.catalog-card{animation:find-arrive 350ms ease backwards}
+  #discoveryFacts>div:nth-child(2),.catalog-card:nth-child(2){animation-delay:35ms}
+  #discoveryFacts>div:nth-child(3),.catalog-card:nth-child(3){animation-delay:70ms}
+  #discoveryFacts>div:nth-child(4),.catalog-card:nth-child(4){animation-delay:105ms}
+  #discoveryFacts>div:nth-child(n+5),.catalog-card:nth-child(n+5){animation-delay:140ms}
+}
+.history-item,.catalog-card,.discovery-tabs button,.fact-link,.upload,.cancel{transition:background 180ms ease,opacity 180ms ease,translate 180ms ease}
+.history-item:hover,.catalog-card:hover{translate:0 -2px}
+.history-item:active,.catalog-card:active{translate:0 0}
+@keyframes find-arrive{from{opacity:0;translate:0 8px}to{opacity:1;translate:0 0}}
+@keyframes find-logo-reveal{from{opacity:0;translate:0 4px;filter:blur(3px)}to{opacity:1;translate:0 0;filter:blur(0)}}
+@keyframes find-dot-reveal{from{opacity:0;scale:.5}to{opacity:1;scale:1}}
+@keyframes find-orb-reveal{from{opacity:0;scale:.96}to{opacity:1;scale:1}}
+@media(prefers-reduced-motion:reduce){header .brand,.discovery-nav .brand,.history-item,.catalog-card,.discovery-tabs button,.fact-link,.upload,.cancel{transition:none}.history-item:hover,.catalog-card:hover{translate:none}}
+
+.in-sphere h1{color:#f2f2f3}
+.discovery-tabs button:focus{outline:none}
+.discovery-tabs button:focus-visible{outline:none;box-shadow:inset 0 0 0 2px rgb(80 80 88 / 45%)}
+.discovery-tabs button[aria-pressed=true]:focus-visible{box-shadow:inset 0 0 0 2px rgb(255 255 255 / 65%)}
+
+#discovery[open]{display:flex;flex-direction:column;overflow:hidden;max-width:100%;min-width:0}
+.discovery-content{flex:1 1 auto;min-height:0;min-width:0;overflow:auto;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:#6665 transparent}
+.discovery-actions{position:static;flex:0 0 auto;bottom:auto;margin-top:12px;padding:12px 0 0;background:none}
+.discovery-hero>div{min-width:0;flex:1}.discovery-hero h2{overflow-wrap:anywhere}.discovery-hero>img{flex-shrink:0}
+.embedded #discovery[open]{box-sizing:border-box;width:100%;height:100%;max-height:100%;overflow:hidden}
+
+/* The compact result keeps song facts and the repeat action within the player-safe frame. */
+.embedded .discovery-hero{gap:20px;padding:0 0 16px}
+.embedded .discovery-hero>img{width:108px;height:108px;border-radius:16px}
+.embedded .discovery-hero h2{font-size:clamp(24px,4vw,36px);line-height:1.1;margin:0}
+.embedded .discovery-hero p:not(.eyebrow){font-size:14px;margin:8px 0 0}
+.embedded .discovery-hero .eyebrow{margin:0 0 8px}
+.embedded .discovery-tabs{margin-bottom:12px}
+.embedded #discovery h3{font-size:20px;margin:12px 0}
+.embedded #discoveryFacts{gap:8px}
+.embedded #discoveryFacts>div{padding:10px 12px;gap:4px}
+.embedded #discoveryFacts dd{font-size:14px;line-height:1.4}
+.embedded .discovery-content{scrollbar-width:none}
+.embedded .discovery-content::-webkit-scrollbar{display:none}
+.embedded .catalog-note{margin:12px 0}
+@media(max-width:520px){.embedded .discovery-hero>img{width:76px;height:76px}.embedded .discovery-hero{gap:14px}.embedded #discoveryFacts{grid-template-columns:1fr}.embedded #discovery{padding:16px}}
+
+.finder-stage{color:#37373c}
+.in-sphere .finder-stage{color:#f3f3f4}
+.finder-symbol{position:absolute;width:146px;height:156px;left:50%;top:50%;margin:-78px 0 0 -73px;overflow:visible;transform-origin:center}
+.finder-rings{position:absolute;inset:0;display:grid;place-items:center;pointer-events:none}
+.finder-rings i{position:absolute;width:164px;height:164px;border:1px solid currentColor;border-radius:50%;opacity:0}
+@media(prefers-reduced-motion:no-preference){
+  .finder-stage[data-active=true] .finder-symbol{animation:finder-listen 2.8s ease-in-out infinite}
+  .finder-stage[data-active=true] .finder-rings i{animation:finder-search 3.4s ease-out infinite}
+  .finder-stage[data-active=true] .finder-rings i:nth-child(2){animation-delay:-1.13s}
+  .finder-stage[data-active=true] .finder-rings i:nth-child(3){animation-delay:-2.26s}
+  .loading .finder-signal{stroke-dasharray:180 44;animation:finder-trace 4s linear infinite}
+}
+@keyframes finder-listen{0%,100%{transform:scale(1);opacity:.82}50%{transform:scale(1.025);opacity:1}}
+@keyframes finder-search{0%{transform:scale(.96);opacity:0}18%{opacity:.24}100%{transform:scale(1.7);opacity:0}}
+@keyframes finder-trace{to{stroke-dashoffset:-224}}
+@media(prefers-reduced-motion:reduce){.finder-stage[data-active=true] .finder-rings i:first-child{opacity:.18;transform:scale(1.15)}}
+
+/* Embedded FIND belongs to the host Sphere surface, including discovery. */
+.in-sphere{--find-text:#eeeef0;--find-muted:#a4a4ad;--find-line:#ffffff18;--find-card:#ffffff04;--find-selected:#eeeef0;--find-selected-text:#202023}
+.in-sphere[data-theme=light]{--find-text:#242428;--find-muted:#6e6e77;--find-line:#20202418;--find-card:#20202403;--find-selected:#303035;--find-selected-text:#fff}
+.in-sphere #discovery,.in-sphere #discovery::backdrop{background:transparent;backdrop-filter:none;box-shadow:none;border:0;color:var(--find-text)}
+.in-sphere #discovery{padding:12px 6px}
+.in-sphere .discovery-hero h2,.in-sphere #discovery h3,.in-sphere #discoveryFacts dd,.in-sphere .fact-link,.in-sphere .catalog-card strong{color:var(--find-text)}
+.in-sphere #discovery .eyebrow,.in-sphere #discovery .discovery-hero p:not(.eyebrow),.in-sphere #discoveryFacts dt,.in-sphere #discovery .catalog-note,.in-sphere #catalogStatus,.in-sphere .album-info,.in-sphere .catalog-card small{color:var(--find-muted)}
+.in-sphere #discoveryFacts>div,.in-sphere .catalog-card{background:var(--find-card);border-color:var(--find-line);box-shadow:none}
+.in-sphere .discovery-hero>img{box-shadow:none}
+.in-sphere .discovery-tabs{background:var(--find-card);border-color:var(--find-line);box-shadow:none;backdrop-filter:none}
+.in-sphere .discovery-tabs button{color:var(--find-muted);background:transparent}
+.in-sphere .discovery-tabs button:hover:not([aria-pressed=true]){color:var(--find-text);background:var(--find-card)}
+.in-sphere .discovery-tabs button[aria-pressed=true]{background:var(--find-selected);color:var(--find-selected-text);box-shadow:none}
+.in-sphere .discovery-actions{background:transparent;border-color:var(--find-line)}
+.in-sphere #discovery .primary{background:var(--find-selected);color:var(--find-selected-text);box-shadow:none}
+.in-sphere h1,.in-sphere #status{color:var(--find-text)}
+.in-sphere #detail,.in-sphere .upload,.in-sphere .cancel{color:var(--find-muted)}
+.in-sphere .finder-stage{color:var(--find-text)}
+.in-sphere body:has(#discovery[open])>main{visibility:hidden;pointer-events:none}
+.in-sphere .discovery-content>.catalog-note{display:none}

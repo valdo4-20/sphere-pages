@@ -1,0 +1,134 @@
+[
+  {
+    "id": "first-listen",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/first-listen.svg",
+    "title": "Primeira audição",
+    "theme": "music",
+    "motif": "Headphones",
+    "file": "achievements/music/first-listen.svg",
+    "icon": "musical-note",
+    "source": "Heroicons"
+  },
+  {
+    "id": "collector",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/collector.svg",
+    "title": "Colecionador",
+    "theme": "music",
+    "motif": "LibraryBig",
+    "file": "achievements/music/collector.svg",
+    "icon": "archive-box",
+    "source": "Heroicons"
+  },
+  {
+    "id": "playlist-maker",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/music/playlist-maker.svg",
+    "title": "Criador de playlists",
+    "theme": "music",
+    "motif": "ListMusic",
+    "file": "achievements/music/playlist-maker.svg",
+    "icon": "queue-list",
+    "source": "Heroicons"
+  },
+  {
+    "id": "streak",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/streak.svg",
+    "title": "Em sequência",
+    "theme": "music",
+    "motif": "Flame",
+    "file": "achievements/music/streak.svg",
+    "icon": "fire",
+    "source": "Heroicons"
+  },
+  {
+    "id": "thousand-minutes",
+    "rarity": "gold",
+    "coinFile": "achievements/coins/music/thousand-minutes.svg",
+    "title": "Mil minutos",
+    "theme": "music",
+    "motif": "AudioLines",
+    "file": "achievements/music/thousand-minutes.svg",
+    "icon": "clock",
+    "source": "Heroicons"
+  },
+  {
+    "id": "discoverer",
+    "rarity": "silver",
+    "coinFile": "achievements/coins/music/discoverer.svg",
+    "title": "Explorador musical",
+    "theme": "music",
+    "motif": "MicVocal",
+    "file": "achievements/music/discoverer.svg",
+    "icon": "magnifying-glass",
+    "source": "Heroicons"
+  },
+  {
+    "id": "library-1000",
+    "rarity": "topaz",
+    "coinFile": "achievements/coins/music/library-1000.svg",
+    "title": "Biblioteca de descobertas",
+    "theme": "music",
+    "motif": "Layers",
+    "file": "achievements/music/library-1000.svg",
+    "icon": "building-library",
+    "source": "Heroicons"
+  },
+  {
+    "id": "library-25000",
+    "rarity": "diamond",
+    "coinFile": "achievements/coins/music/library-25000.svg",
+    "title": "Biblioteca monumental",
+    "theme": "music",
+    "motif": "Database",
+    "file": "achievements/music/library-25000.svg",
+    "icon": "rectangle-stack",
+    "source": "Heroicons"
+  },
+  {
+    "id": "friends-1",
+    "rarity": "bronze",
+    "coinFile": "achievements/coins/friends/friends-1.svg",
+    "title": "Primeiro laço",
+    "theme": "friends",
+    "motif": "Handshake",
+    "file": "achievements/friends/friends-1.svg",
+    "icon": "handshake",
+    "source": "Sphere / Lucide"
+  },
+  {
+    "id": "shared-playlists-1",
+    "rarity": "platinum",
+    "coinFile": "achievements/coins/friends/shared-playlists-1.svg",
+    "title": "Primeira playlist a dois",
+    "theme": "friends",
+    "motif": "ListTree",
+    "file": "achievements/friends/shared-playlists-1.svg",
+    "icon": "link",
+    "source": "Heroicons"
+  },
+  {
+    "id": "challenges-completed-1",
+    "rarity": "sapphire",
+    "coinFile": "achievements/coins/friends/challenges-completed-1.svg",
+    "title": "Meta alcançada em equipe",
+    "theme": "friends",
+    "motif": "GitMerge",
+    "file": "achievements/friends/challenges-completed-1.svg",
+    "icon": "trophy",
+    "source": "Heroicons"
+  },
+  {
+    "id": "aura-crystal-harmony",
+    "rarity": "crystal",
+    "coinFile": "achievements/coins/friends/aura-crystal-harmony.svg",
+    "title": "Conexão lendária",
+    "theme": "friends",
+    "motif": "UserPlus",
+    "file": "achievements/friends/aura-crystal-harmony.svg",
+    "icon": "user-plus",
+    "source": "Heroicons"
+  }
+]
