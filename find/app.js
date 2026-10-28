@@ -1,4 +1,5 @@
-import {recognizeAudio,apiUrl} from './find-client.js';
+import {loadCatalog} from './catalog.js';
+import {recognizeAudio} from './find-client.js';
 import {createOrb} from './orb.js';
 const $=id=>document.getElementById(id);
 const orb=createOrb($('orb'));
@@ -81,7 +82,7 @@ async function selectTab(kind){
   $('catalogStatus').textContent='Consultando informações…';
   const request=new AbortController();catalogRequest=request;
   try{
-    const response=await fetch(apiUrl(`/api/catalog/${kind}/${encodeURIComponent(id)}`),{signal:request.signal});const data=await response.json();if(!response.ok)throw new Error(data.error);
+    const data=await loadCatalog(kind,id,request.signal);
     if(request.signal.aborted)return;
     if(kind==='artist'){
       catalogHeading(data.name||currentTrack.artist);
