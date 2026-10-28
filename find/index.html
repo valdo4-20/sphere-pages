@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f6f5f8">
+  <title>Sphere FIND · Beta PWA</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Ccircle cx='20' cy='20' r='18' fill='%23b2a5ef'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./refinement.css">
+</head>
+<body>
+  <div class="ambient" aria-hidden="true"><i></i><i></i><i></i></div>
+  <header><a class="brand" href="./">sphere<span>.</span></a><span class="beta">FIND / BETA PWA</span></header>
+  <main>
+    <section class="recognition" aria-labelledby="heading">
+      <h1 id="heading">Que música é essa?</h1>
+      <div class="orb-stage" id="stage"><div class="halo"></div><div class="search-rings" aria-hidden="true"><i></i><i></i><i></i></div><canvas id="orb" aria-hidden="true"></canvas><div class="orb-shadow"></div></div>
+      <div class="status-area" role="status" aria-live="polite"><p id="status"></p><p id="detail"></p></div>
+      <div class="search-caption" aria-hidden="true"><span></span><span></span><span></span></div>
+      <button class="primary" id="listen"><span>Identificar música</span></button>
+      <button class="cancel" id="cancel" hidden>Cancelar escuta</button>
+      <label class="upload" id="uploadLabel" for="audioFile">Escolher áudio</label>
+      <input id="audioFile" type="file" accept="audio/*,.mp3,.wav,.flac,.ogg,.m4a" hidden>
+      <article id="result" class="result" hidden><img id="cover" alt="Capa do álbum" referrerpolicy="no-referrer"><div><span class="found">ENCONTRAMOS</span><h2><button class="entity-link" id="title"></button></h2><p><button class="entity-link" id="artist"></button></p><small><button class="entity-link" id="album"></button></small><button class="text-action" id="trackDetails">Explorar descoberta →</button></div></article>
+    </section>
+    <section id="historySection" class="history" hidden><div class="history-head"><h2>Últimas descobertas</h2><button id="clearHistory">Limpar</button></div><div id="history"></div></section>
+  </main>
+  <dialog id="discovery" aria-labelledby="discoveryTitle">
+    <div class="discovery-nav"><span class="brand">sphere.</span></div>
+    <div class="discovery-content">
+    <div class="discovery-hero"><img id="discoveryCover" alt="Capa do álbum" referrerpolicy="no-referrer"><div><p class="eyebrow">SUA DESCOBERTA</p><h2 id="discoveryTitle"></h2><p id="discoveryArtist"></p></div></div>
+    <nav class="discovery-tabs" aria-label="Explorar descoberta"><button id="songTab" aria-pressed="true">Música</button><button id="artistTab" aria-pressed="false">Artista</button><button id="albumTab" aria-pressed="false">Álbum</button></nav>
+    <section id="songPanel"><h3>Sobre a música</h3><dl id="discoveryFacts"></dl></section>
+    <section id="catalogPanel" hidden><p id="catalogStatus" role="status"></p><div id="catalogContent"></div></section>
+    <p class="catalog-note">As informações variam conforme a disponibilidade no catálogo.</p>
+    </div>
+    <div class="discovery-actions"><button class="primary" id="identifyAgain">Identificar outra música</button></div>
+  </dialog>
+  <footer><span class="online"><i></i> FIND · Reconhecimento experimental</span><p>O microfone só é ativado ao tocar no botão. A assinatura é gerada neste dispositivo. Só ela é enviada para reconhecimento.</p></footer>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

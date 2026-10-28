@@ -1,0 +1,1 @@
+function e(e,t=0,n=new Date){let r=`${n.getFullYear()}-${String(n.getMonth()+1).padStart(2,`0`)}`;return[...new Set(e.filter(e=>Number.isFinite(e.listenedSeconds)&&e.listenedSeconds>0&&e.startedAt>=t).map(e=>{let t=new Date(e.startedAt);return`${t.getFullYear()}-${String(t.getMonth()+1).padStart(2,`0`)}`}))].filter(e=>e<r).sort().reverse()}export{e as t};

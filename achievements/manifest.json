@@ -761,7 +761,7 @@
   },
   {
     "id": "discovery-edicao-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-edicao-05.svg",
     "title": "Quem escreveu",
     "theme": "music",
@@ -861,7 +861,7 @@
   },
   {
     "id": "discovery-album-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-album-05.svg",
     "title": "Disco de cabeceira",
     "theme": "music",
@@ -961,7 +961,7 @@
   },
   {
     "id": "discovery-som-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-som-05.svg",
     "title": "Frequência documentada",
     "theme": "music",
@@ -1061,7 +1061,7 @@
   },
   {
     "id": "discovery-afetos-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-afetos-05.svg",
     "title": "Lembrança ilustrada",
     "theme": "music",
@@ -1161,7 +1161,7 @@
   },
   {
     "id": "discovery-curadoria-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-curadoria-05.svg",
     "title": "Vozes em roda",
     "theme": "music",
@@ -1261,7 +1261,7 @@
   },
   {
     "id": "discovery-descobertas-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-descobertas-05.svg",
     "title": "Outras embalagens",
     "theme": "music",
@@ -1361,7 +1361,7 @@
   },
   {
     "id": "discovery-pontes-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-pontes-05.svg",
     "title": "Cada faixa, uma voz",
     "theme": "music",
@@ -1461,7 +1461,7 @@
   },
   {
     "id": "discovery-epocas-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-epocas-05.svg",
     "title": "Noventa estações",
     "theme": "music",
@@ -1561,7 +1561,7 @@
   },
   {
     "id": "discovery-cenas-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-cenas-05.svg",
     "title": "Janela de bossa",
     "theme": "music",
@@ -1661,7 +1661,7 @@
   },
   {
     "id": "discovery-formatos-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-formatos-05.svg",
     "title": "Outra compressão",
     "theme": "music",
@@ -1761,7 +1761,7 @@
   },
   {
     "id": "discovery-versos-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-versos-05.svg",
     "title": "Verso encontrado",
     "theme": "music",
@@ -1861,7 +1861,7 @@
   },
   {
     "id": "discovery-creditos-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-creditos-05.svg",
     "title": "Uma voz atravessa o tempo",
     "theme": "music",
@@ -1961,7 +1961,7 @@
   },
   {
     "id": "discovery-inteligentes-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-inteligentes-05.svg",
     "title": "Rastro de descobertas",
     "theme": "music",
@@ -2061,7 +2061,7 @@
   },
   {
     "id": "discovery-reencontros-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-reencontros-05.svg",
     "title": "Cinco vozes de casa",
     "theme": "music",
@@ -2161,7 +2161,7 @@
   },
   {
     "id": "discovery-assinatura-05",
-    "rarity": "gold",
+    "rarity": "amethyst",
     "coinFile": "achievements/coins/music/discovery-assinatura-05.svg",
     "title": "Mapa de afetos",
     "theme": "music",
