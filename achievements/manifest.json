@@ -5,8 +5,9 @@
     "coinFile": "achievements/coins/music/first-listen.svg",
     "title": "Primeira audição",
     "theme": "music",
-    "motif": "Headphones",
-    "file": "achievements/music/first-listen.svg"
+    "motif": "filled:musical-note",
+    "file": "achievements/music/first-listen.svg",
+    "originalMotif": "Headphones"
   },
   {
     "id": "collector",
@@ -14,8 +15,9 @@
     "coinFile": "achievements/coins/music/collector.svg",
     "title": "Colecionador",
     "theme": "music",
-    "motif": "LibraryBig",
-    "file": "achievements/music/collector.svg"
+    "motif": "filled:archive-box",
+    "file": "achievements/music/collector.svg",
+    "originalMotif": "LibraryBig"
   },
   {
     "id": "playlist-maker",
@@ -23,8 +25,9 @@
     "coinFile": "achievements/coins/music/playlist-maker.svg",
     "title": "Criador de playlists",
     "theme": "music",
-    "motif": "ListMusic",
-    "file": "achievements/music/playlist-maker.svg"
+    "motif": "filled:queue-list",
+    "file": "achievements/music/playlist-maker.svg",
+    "originalMotif": "ListMusic"
   },
   {
     "id": "streak",
@@ -32,8 +35,9 @@
     "coinFile": "achievements/coins/music/streak.svg",
     "title": "Em sequência",
     "theme": "music",
-    "motif": "Flame",
-    "file": "achievements/music/streak.svg"
+    "motif": "filled:fire",
+    "file": "achievements/music/streak.svg",
+    "originalMotif": "Flame"
   },
   {
     "id": "thousand-minutes",
@@ -41,8 +45,9 @@
     "coinFile": "achievements/coins/music/thousand-minutes.svg",
     "title": "Mil minutos",
     "theme": "music",
-    "motif": "AudioLines",
-    "file": "achievements/music/thousand-minutes.svg"
+    "motif": "filled:clock",
+    "file": "achievements/music/thousand-minutes.svg",
+    "originalMotif": "AudioLines"
   },
   {
     "id": "discoverer",
@@ -50,8 +55,9 @@
     "coinFile": "achievements/coins/music/discoverer.svg",
     "title": "Explorador musical",
     "theme": "music",
-    "motif": "MicVocal",
-    "file": "achievements/music/discoverer.svg"
+    "motif": "filled:magnifying-glass",
+    "file": "achievements/music/discoverer.svg",
+    "originalMotif": "MicVocal"
   },
   {
     "id": "library-25",
@@ -59,8 +65,9 @@
     "coinFile": "achievements/coins/music/library-25.svg",
     "title": "Pequena coleção",
     "theme": "music",
-    "motif": "BookOpen",
-    "file": "achievements/music/library-25.svg"
+    "motif": "filled:building-library+building-library:milestone-1",
+    "file": "achievements/music/library-25.svg",
+    "originalMotif": "BookOpen"
   },
   {
     "id": "library-100",
@@ -68,8 +75,9 @@
     "coinFile": "achievements/coins/music/library-100.svg",
     "title": "Acervo em expansão",
     "theme": "music",
-    "motif": "Archive",
-    "file": "achievements/music/library-100.svg"
+    "motif": "filled:building-library+book-open:milestone-2",
+    "file": "achievements/music/library-100.svg",
+    "originalMotif": "Archive"
   },
   {
     "id": "library-500",
@@ -77,8 +85,9 @@
     "coinFile": "achievements/coins/music/library-500.svg",
     "title": "Arquivo musical",
     "theme": "music",
-    "motif": "Boxes",
-    "file": "achievements/music/library-500.svg"
+    "motif": "filled:building-library+archive-box:milestone-3",
+    "file": "achievements/music/library-500.svg",
+    "originalMotif": "Boxes"
   },
   {
     "id": "library-1000",
@@ -86,8 +95,9 @@
     "coinFile": "achievements/coins/music/library-1000.svg",
     "title": "Biblioteca de descobertas",
     "theme": "music",
-    "motif": "Layers",
-    "file": "achievements/music/library-1000.svg"
+    "motif": "filled:building-library+rectangle-stack:milestone-4",
+    "file": "achievements/music/library-1000.svg",
+    "originalMotif": "Layers"
   },
   {
     "id": "library-5000",
@@ -95,8 +105,9 @@
     "coinFile": "achievements/coins/music/library-5000.svg",
     "title": "Acervo diverso",
     "theme": "music",
-    "motif": "BookMarked",
-    "file": "achievements/music/library-5000.svg"
+    "motif": "filled:building-library+square-3-stack-3d:milestone-5",
+    "file": "achievements/music/library-5000.svg",
+    "originalMotif": "BookMarked"
   },
   {
     "id": "library-10000",
@@ -104,8 +115,9 @@
     "coinFile": "achievements/coins/music/library-10000.svg",
     "title": "Grande arquivo",
     "theme": "music",
-    "motif": "GalleryVerticalEnd",
-    "file": "achievements/music/library-10000.svg"
+    "motif": "filled:building-library+server:milestone-6",
+    "file": "achievements/music/library-10000.svg",
+    "originalMotif": "GalleryVerticalEnd"
   },
   {
     "id": "library-25000",
@@ -113,8 +125,9 @@
     "coinFile": "achievements/coins/music/library-25000.svg",
     "title": "Biblioteca monumental",
     "theme": "music",
-    "motif": "Database",
-    "file": "achievements/music/library-25000.svg"
+    "motif": "filled:building-library+building-library:milestone-7",
+    "file": "achievements/music/library-25000.svg",
+    "originalMotif": "Database"
   },
   {
     "id": "listening-minutes-10",
@@ -122,8 +135,9 @@
     "coinFile": "achievements/coins/music/listening-minutes-10.svg",
     "title": "Dez minutos de som",
     "theme": "music",
-    "motif": "Radio",
-    "file": "achievements/music/listening-minutes-10.svg"
+    "motif": "filled:clock+clock:milestone-1",
+    "file": "achievements/music/listening-minutes-10.svg",
+    "originalMotif": "Radio"
   },
   {
     "id": "listening-minutes-60",
@@ -131,8 +145,9 @@
     "coinFile": "achievements/coins/music/listening-minutes-60.svg",
     "title": "Uma hora de música",
     "theme": "music",
-    "motif": "CassetteTape",
-    "file": "achievements/music/listening-minutes-60.svg"
+    "motif": "filled:clock+headphones:milestone-2",
+    "file": "achievements/music/listening-minutes-60.svg",
+    "originalMotif": "CassetteTape"
   },
   {
     "id": "listening-minutes-120",
@@ -140,8 +155,9 @@
     "coinFile": "achievements/coins/music/listening-minutes-120.svg",
     "title": "Duas horas de trilha",
     "theme": "music",
-    "motif": "Podcast",
-    "file": "achievements/music/listening-minutes-120.svg"
+    "motif": "filled:clock+speaker-wave:milestone-3",
+    "file": "achievements/music/listening-minutes-120.svg",
+    "originalMotif": "Podcast"
   },
   {
     "id": "listening-minutes-250",
@@ -149,8 +165,9 @@
     "coinFile": "achievements/coins/music/listening-minutes-250.svg",
     "title": "Ouvinte constante",
     "theme": "music",
-    "motif": "Speaker",
-    "file": "achievements/music/listening-minutes-250.svg"
+    "motif": "filled:clock+radio:milestone-4",
+    "file": "achievements/music/listening-minutes-250.svg",
+    "originalMotif": "Speaker"
   },
   {
     "id": "listening-minutes-500",
@@ -158,8 +175,9 @@
     "coinFile": "achievements/coins/music/listening-minutes-500.svg",
     "title": "Longa jornada",
     "theme": "music",
-    "motif": "DiscAlbum",
-    "file": "achievements/music/listening-minutes-500.svg"
+    "motif": "filled:clock+wave:milestone-5",
+    "file": "achievements/music/listening-minutes-500.svg",
+    "originalMotif": "DiscAlbum"
   },
   {
     "id": "listening-minutes-1000",
@@ -167,8 +185,9 @@
     "coinFile": "achievements/coins/music/listening-minutes-1000.svg",
     "title": "Mil minutos",
     "theme": "music",
-    "motif": "AudioWaveform",
-    "file": "achievements/music/listening-minutes-1000.svg"
+    "motif": "filled:clock+musical-note:milestone-6",
+    "file": "achievements/music/listening-minutes-1000.svg",
+    "originalMotif": "AudioWaveform"
   },
   {
     "id": "listening-minutes-10000",
@@ -176,8 +195,9 @@
     "coinFile": "achievements/coins/music/listening-minutes-10000.svg",
     "title": "Lenda sonora",
     "theme": "music",
-    "motif": "Ear",
-    "file": "achievements/music/listening-minutes-10000.svg"
+    "motif": "filled:clock+headphones:milestone-7",
+    "file": "achievements/music/listening-minutes-10000.svg",
+    "originalMotif": "Ear"
   },
   {
     "id": "listening-minutes-50000",
@@ -185,8 +205,9 @@
     "coinFile": "achievements/coins/music/listening-minutes-50000.svg",
     "title": "Universo de som",
     "theme": "music",
-    "motif": "Waves",
-    "file": "achievements/music/listening-minutes-50000.svg"
+    "motif": "filled:clock+speaker-wave:milestone-8",
+    "file": "achievements/music/listening-minutes-50000.svg",
+    "originalMotif": "Waves"
   },
   {
     "id": "listening-minutes-100000",
@@ -194,8 +215,9 @@
     "coinFile": "achievements/coins/music/listening-minutes-100000.svg",
     "title": "Descobertas sem pressa",
     "theme": "music",
-    "motif": "Music4",
-    "file": "achievements/music/listening-minutes-100000.svg"
+    "motif": "filled:clock+wave:milestone-9",
+    "file": "achievements/music/listening-minutes-100000.svg",
+    "originalMotif": "Music4"
   },
   {
     "id": "listening-minutes-250000",
@@ -203,8 +225,9 @@
     "coinFile": "achievements/coins/music/listening-minutes-250000.svg",
     "title": "Mar de música",
     "theme": "music",
-    "motif": "BoomBox",
-    "file": "achievements/music/listening-minutes-250000.svg"
+    "motif": "filled:clock+radio:milestone-10",
+    "file": "achievements/music/listening-minutes-250000.svg",
+    "originalMotif": "BoomBox"
   },
   {
     "id": "listening-minutes-500000",
@@ -212,8 +235,9 @@
     "coinFile": "achievements/coins/music/listening-minutes-500000.svg",
     "title": "Constelação sonora",
     "theme": "music",
-    "motif": "Clock3",
-    "file": "achievements/music/listening-minutes-500000.svg"
+    "motif": "filled:clock+musical-note:milestone-11",
+    "file": "achievements/music/listening-minutes-500000.svg",
+    "originalMotif": "Clock3"
   },
   {
     "id": "listening-minutes-1000000",
@@ -221,8 +245,9 @@
     "coinFile": "achievements/coins/music/listening-minutes-1000000.svg",
     "title": "Trilha de uma vida",
     "theme": "music",
-    "motif": "Timer",
-    "file": "achievements/music/listening-minutes-1000000.svg"
+    "motif": "filled:clock+headphones:milestone-12",
+    "file": "achievements/music/listening-minutes-1000000.svg",
+    "originalMotif": "Timer"
   },
   {
     "id": "artists-10",
@@ -230,8 +255,9 @@
     "coinFile": "achievements/coins/music/artists-10.svg",
     "title": "Novas vozes",
     "theme": "music",
-    "motif": "Contact",
-    "file": "achievements/music/artists-10.svg"
+    "motif": "filled:microphone+microphone:milestone-1",
+    "file": "achievements/music/artists-10.svg",
+    "originalMotif": "Contact"
   },
   {
     "id": "artists-50",
@@ -239,8 +265,9 @@
     "coinFile": "achievements/coins/music/artists-50.svg",
     "title": "Explorador de cenas",
     "theme": "music",
-    "motif": "Compass",
-    "file": "achievements/music/artists-50.svg"
+    "motif": "filled:microphone+users:milestone-2",
+    "file": "achievements/music/artists-50.svg",
+    "originalMotif": "Compass"
   },
   {
     "id": "artists-250",
@@ -248,8 +275,9 @@
     "coinFile": "achievements/coins/music/artists-250.svg",
     "title": "Universo musical",
     "theme": "music",
-    "motif": "Orbit",
-    "file": "achievements/music/artists-250.svg"
+    "motif": "filled:microphone+globe-alt:milestone-3",
+    "file": "achievements/music/artists-250.svg",
+    "originalMotif": "Orbit"
   },
   {
     "id": "artists-1000",
@@ -257,8 +285,9 @@
     "coinFile": "achievements/coins/music/artists-1000.svg",
     "title": "Mapa de vozes",
     "theme": "music",
-    "motif": "MapPinned",
-    "file": "achievements/music/artists-1000.svg"
+    "motif": "filled:microphone+map:milestone-4",
+    "file": "achievements/music/artists-1000.svg",
+    "originalMotif": "MapPinned"
   },
   {
     "id": "artists-2500",
@@ -266,8 +295,9 @@
     "coinFile": "achievements/coins/music/artists-2500.svg",
     "title": "Cartógrafo de artistas",
     "theme": "music",
-    "motif": "TimerReset",
-    "file": "achievements/music/artists-2500.svg"
+    "motif": "filled:microphone+map-pin:milestone-5",
+    "file": "achievements/music/artists-2500.svg",
+    "originalMotif": "TimerReset"
   },
   {
     "id": "artists-5000",
@@ -275,8 +305,9 @@
     "coinFile": "achievements/coins/music/artists-5000.svg",
     "title": "Arquivo de vozes",
     "theme": "music",
-    "motif": "TimerOff",
-    "file": "achievements/music/artists-5000.svg"
+    "motif": "filled:microphone+user-group:milestone-6",
+    "file": "achievements/music/artists-5000.svg",
+    "originalMotif": "TimerOff"
   },
   {
     "id": "listens-10",
@@ -284,8 +315,9 @@
     "coinFile": "achievements/coins/music/listens-10.svg",
     "title": "Dez encontros",
     "theme": "music",
-    "motif": "Hourglass",
-    "file": "achievements/music/listens-10.svg"
+    "motif": "filled:play+play:milestone-1",
+    "file": "achievements/music/listens-10.svg",
+    "originalMotif": "Hourglass"
   },
   {
     "id": "listens-50",
@@ -293,8 +325,9 @@
     "coinFile": "achievements/coins/music/listens-50.svg",
     "title": "Presença constante",
     "theme": "music",
-    "motif": "History",
-    "file": "achievements/music/listens-50.svg"
+    "motif": "filled:play+headphones:milestone-2",
+    "file": "achievements/music/listens-50.svg",
+    "originalMotif": "History"
   },
   {
     "id": "listens-250",
@@ -302,8 +335,9 @@
     "coinFile": "achievements/coins/music/listens-250.svg",
     "title": "Trilha sonora pessoal",
     "theme": "music",
-    "motif": "Infinity",
-    "file": "achievements/music/listens-250.svg"
+    "motif": "filled:play+musical-note:milestone-3",
+    "file": "achievements/music/listens-250.svg",
+    "originalMotif": "Infinity"
   },
   {
     "id": "listens-1000",
@@ -311,8 +345,9 @@
     "coinFile": "achievements/coins/music/listens-1000.svg",
     "title": "Novos capítulos",
     "theme": "music",
-    "motif": "Play",
-    "file": "achievements/music/listens-1000.svg"
+    "motif": "filled:play+book-open:milestone-4",
+    "file": "achievements/music/listens-1000.svg",
+    "originalMotif": "Play"
   },
   {
     "id": "listens-10000",
@@ -320,8 +355,9 @@
     "coinFile": "achievements/coins/music/listens-10000.svg",
     "title": "Lembranças em discos",
     "theme": "music",
-    "motif": "Repeat",
-    "file": "achievements/music/listens-10000.svg"
+    "motif": "filled:play+disc:milestone-5",
+    "file": "achievements/music/listens-10000.svg",
+    "originalMotif": "Repeat"
   },
   {
     "id": "listens-50000",
@@ -329,8 +365,9 @@
     "coinFile": "achievements/coins/music/listens-50000.svg",
     "title": "Muitas voltas",
     "theme": "music",
-    "motif": "SkipForward",
-    "file": "achievements/music/listens-50000.svg"
+    "motif": "filled:play+arrow-path:milestone-6",
+    "file": "achievements/music/listens-50000.svg",
+    "originalMotif": "SkipForward"
   },
   {
     "id": "listens-100000",
@@ -338,8 +375,9 @@
     "coinFile": "achievements/coins/music/listens-100000.svg",
     "title": "Coleção viva",
     "theme": "music",
-    "motif": "Mic",
-    "file": "achievements/music/listens-100000.svg"
+    "motif": "filled:play+heart:milestone-7",
+    "file": "achievements/music/listens-100000.svg",
+    "originalMotif": "Mic"
   },
   {
     "id": "playlists-3",
@@ -347,8 +385,9 @@
     "coinFile": "achievements/coins/music/playlists-3.svg",
     "title": "Trio de seleções",
     "theme": "music",
-    "motif": "ListVideo",
-    "file": "achievements/music/playlists-3.svg"
+    "motif": "filled:queue-list+queue-list:milestone-1",
+    "file": "achievements/music/playlists-3.svg",
+    "originalMotif": "ListVideo"
   },
   {
     "id": "playlists-10",
@@ -356,8 +395,9 @@
     "coinFile": "achievements/coins/music/playlists-10.svg",
     "title": "Curador musical",
     "theme": "music",
-    "motif": "ListPlus",
-    "file": "achievements/music/playlists-10.svg"
+    "motif": "filled:queue-list+musical-note:milestone-2",
+    "file": "achievements/music/playlists-10.svg",
+    "originalMotif": "ListPlus"
   },
   {
     "id": "playlists-50",
@@ -365,8 +405,9 @@
     "coinFile": "achievements/coins/music/playlists-50.svg",
     "title": "Arquiteto de seleções",
     "theme": "music",
-    "motif": "ListOrdered",
-    "file": "achievements/music/playlists-50.svg"
+    "motif": "filled:queue-list+rectangle-stack:milestone-3",
+    "file": "achievements/music/playlists-50.svg",
+    "originalMotif": "ListOrdered"
   },
   {
     "id": "playlists-250",
@@ -374,8 +415,9 @@
     "coinFile": "achievements/coins/music/playlists-250.svg",
     "title": "Curador experiente",
     "theme": "music",
-    "motif": "SquareLibrary",
-    "file": "achievements/music/playlists-250.svg"
+    "motif": "filled:queue-list+archive-box:milestone-4",
+    "file": "achievements/music/playlists-250.svg",
+    "originalMotif": "SquareLibrary"
   },
   {
     "id": "playlists-500",
@@ -383,8 +425,9 @@
     "coinFile": "achievements/coins/music/playlists-500.svg",
     "title": "Mestre das coleções",
     "theme": "music",
-    "motif": "FolderHeart",
-    "file": "achievements/music/playlists-500.svg"
+    "motif": "filled:queue-list+building-library:milestone-5",
+    "file": "achievements/music/playlists-500.svg",
+    "originalMotif": "FolderHeart"
   },
   {
     "id": "playlists-1000",
@@ -392,8 +435,9 @@
     "coinFile": "achievements/coins/music/playlists-1000.svg",
     "title": "Bibliotecário supremo",
     "theme": "music",
-    "motif": "GalleryVertical",
-    "file": "achievements/music/playlists-1000.svg"
+    "motif": "filled:queue-list+book-open:milestone-6",
+    "file": "achievements/music/playlists-1000.svg",
+    "originalMotif": "GalleryVertical"
   },
   {
     "id": "favorites-1",
@@ -401,8 +445,9 @@
     "coinFile": "achievements/coins/music/favorites-1.svg",
     "title": "Primeiro favorito",
     "theme": "music",
-    "motif": "Heart",
-    "file": "achievements/music/favorites-1.svg"
+    "motif": "filled:heart+heart:milestone-1",
+    "file": "achievements/music/favorites-1.svg",
+    "originalMotif": "Heart"
   },
   {
     "id": "favorites-10",
@@ -410,8 +455,9 @@
     "coinFile": "achievements/coins/music/favorites-10.svg",
     "title": "Dez favoritas",
     "theme": "music",
-    "motif": "HeartPulse",
-    "file": "achievements/music/favorites-10.svg"
+    "motif": "filled:heart+heart:milestone-2",
+    "file": "achievements/music/favorites-10.svg",
+    "originalMotif": "HeartPulse"
   },
   {
     "id": "favorites-50",
@@ -419,8 +465,9 @@
     "coinFile": "achievements/coins/music/favorites-50.svg",
     "title": "Favoritos de sobra",
     "theme": "music",
-    "motif": "HeartPlus",
-    "file": "achievements/music/favorites-50.svg"
+    "motif": "filled:heart+heart:milestone-3",
+    "file": "achievements/music/favorites-50.svg",
+    "originalMotif": "HeartPlus"
   },
   {
     "id": "favorites-100",
@@ -428,8 +475,9 @@
     "coinFile": "achievements/coins/music/favorites-100.svg",
     "title": "Círculo de favoritas",
     "theme": "music",
-    "motif": "BadgeCheck",
-    "file": "achievements/music/favorites-100.svg"
+    "motif": "filled:heart+heart:milestone-4",
+    "file": "achievements/music/favorites-100.svg",
+    "originalMotif": "BadgeCheck"
   },
   {
     "id": "favorites-250",
@@ -437,8 +485,9 @@
     "coinFile": "achievements/coins/music/favorites-250.svg",
     "title": "Coleção de favoritos",
     "theme": "music",
-    "motif": "Sparkle",
-    "file": "achievements/music/favorites-250.svg"
+    "motif": "filled:heart+heart:milestone-5",
+    "file": "achievements/music/favorites-250.svg",
+    "originalMotif": "Sparkle"
   },
   {
     "id": "favorites-1000",
@@ -446,8 +495,9 @@
     "coinFile": "achievements/coins/music/favorites-1000.svg",
     "title": "Arquivo de afetos",
     "theme": "music",
-    "motif": "HeartOff",
-    "file": "achievements/music/favorites-1000.svg"
+    "motif": "filled:heart+heart:milestone-6",
+    "file": "achievements/music/favorites-1000.svg",
+    "originalMotif": "HeartOff"
   },
   {
     "id": "genres-3",
@@ -455,8 +505,9 @@
     "coinFile": "achievements/coins/music/genres-3.svg",
     "title": "Três estilos",
     "theme": "music",
-    "motif": "Guitar",
-    "file": "achievements/music/genres-3.svg"
+    "motif": "filled:musical-note+guitar:milestone-1",
+    "file": "achievements/music/genres-3.svg",
+    "originalMotif": "Guitar"
   },
   {
     "id": "genres-10",
@@ -464,8 +515,9 @@
     "coinFile": "achievements/coins/music/genres-10.svg",
     "title": "Caminhos do som",
     "theme": "music",
-    "motif": "Piano",
-    "file": "achievements/music/genres-10.svg"
+    "motif": "filled:musical-note+piano:milestone-2",
+    "file": "achievements/music/genres-10.svg",
+    "originalMotif": "Piano"
   },
   {
     "id": "genres-30",
@@ -473,8 +525,9 @@
     "coinFile": "achievements/coins/music/genres-30.svg",
     "title": "Todos os ritmos",
     "theme": "music",
-    "motif": "Drum",
-    "file": "achievements/music/genres-30.svg"
+    "motif": "filled:musical-note+drum:milestone-3",
+    "file": "achievements/music/genres-30.svg",
+    "originalMotif": "Drum"
   },
   {
     "id": "genres-100",
@@ -482,8 +535,9 @@
     "coinFile": "achievements/coins/music/genres-100.svg",
     "title": "Atlas dos gêneros",
     "theme": "music",
-    "motif": "Music3",
-    "file": "achievements/music/genres-100.svg"
+    "motif": "filled:musical-note+globe-alt:milestone-4",
+    "file": "achievements/music/genres-100.svg",
+    "originalMotif": "Music3"
   },
   {
     "id": "albums-5",
@@ -491,8 +545,9 @@
     "coinFile": "achievements/coins/music/albums-5.svg",
     "title": "Coleção de discos",
     "theme": "music",
-    "motif": "Album",
-    "file": "achievements/music/albums-5.svg"
+    "motif": "filled:disc+disc:milestone-1",
+    "file": "achievements/music/albums-5.svg",
+    "originalMotif": "Album"
   },
   {
     "id": "albums-50",
@@ -500,8 +555,9 @@
     "coinFile": "achievements/coins/music/albums-50.svg",
     "title": "Arquivo de álbuns",
     "theme": "music",
-    "motif": "Disc2",
-    "file": "achievements/music/albums-50.svg"
+    "motif": "filled:disc+disc:milestone-2",
+    "file": "achievements/music/albums-50.svg",
+    "originalMotif": "Disc2"
   },
   {
     "id": "albums-100",
@@ -509,8 +565,9 @@
     "coinFile": "achievements/coins/music/albums-100.svg",
     "title": "Arquivo de álbuns",
     "theme": "music",
-    "motif": "Disc3",
-    "file": "achievements/music/albums-100.svg"
+    "motif": "filled:disc+disc:milestone-3",
+    "file": "achievements/music/albums-100.svg",
+    "originalMotif": "Disc3"
   },
   {
     "id": "albums-500",
@@ -518,8 +575,9 @@
     "coinFile": "achievements/coins/music/albums-500.svg",
     "title": "Acervo de álbuns",
     "theme": "music",
-    "motif": "ContactRound",
-    "file": "achievements/music/albums-500.svg"
+    "motif": "filled:disc+disc:milestone-4",
+    "file": "achievements/music/albums-500.svg",
+    "originalMotif": "ContactRound"
   },
   {
     "id": "streak-7",
@@ -527,8 +585,9 @@
     "coinFile": "achievements/coins/music/streak-7.svg",
     "title": "Uma semana no ritmo",
     "theme": "music",
-    "motif": "FlameKindling",
-    "file": "achievements/music/streak-7.svg"
+    "motif": "filled:calendar-days+fire:milestone-1",
+    "file": "achievements/music/streak-7.svg",
+    "originalMotif": "FlameKindling"
   },
   {
     "id": "streak-30",
@@ -536,8 +595,9 @@
     "coinFile": "achievements/coins/music/streak-30.svg",
     "title": "Duas semanas em sintonia",
     "theme": "music",
-    "motif": "CalendarCheck",
-    "file": "achievements/music/streak-30.svg"
+    "motif": "filled:calendar-days+calendar-days:milestone-2",
+    "file": "achievements/music/streak-30.svg",
+    "originalMotif": "CalendarCheck"
   },
   {
     "id": "streak-60",
@@ -545,8 +605,9 @@
     "coinFile": "achievements/coins/music/streak-60.svg",
     "title": "Três semanas de música",
     "theme": "music",
-    "motif": "CalendarDays",
-    "file": "achievements/music/streak-60.svg"
+    "motif": "filled:calendar-days+calendar-days:milestone-3",
+    "file": "achievements/music/streak-60.svg",
+    "originalMotif": "CalendarDays"
   },
   {
     "id": "streak-100",
@@ -554,8 +615,9 @@
     "coinFile": "achievements/coins/music/streak-100.svg",
     "title": "Mês musical",
     "theme": "music",
-    "motif": "Sunrise",
-    "file": "achievements/music/streak-100.svg"
+    "motif": "filled:calendar-days+calendar-days:milestone-4",
+    "file": "achievements/music/streak-100.svg",
+    "originalMotif": "Sunrise"
   },
   {
     "id": "streak-365",
@@ -563,8 +625,9 @@
     "coinFile": "achievements/coins/music/streak-365.svg",
     "title": "Dois meses de descobertas",
     "theme": "music",
-    "motif": "Sun",
-    "file": "achievements/music/streak-365.svg"
+    "motif": "filled:calendar-days+calendar-days:milestone-5",
+    "file": "achievements/music/streak-365.svg",
+    "originalMotif": "Sun"
   },
   {
     "id": "streak-500",
@@ -572,8 +635,9 @@
     "coinFile": "achievements/coins/music/streak-500.svg",
     "title": "Estação musical",
     "theme": "music",
-    "motif": "Eclipse",
-    "file": "achievements/music/streak-500.svg"
+    "motif": "filled:calendar-days+calendar-days:milestone-6",
+    "file": "achievements/music/streak-500.svg",
+    "originalMotif": "Eclipse"
   },
   {
     "id": "streak-730",
@@ -581,8 +645,9 @@
     "coinFile": "achievements/coins/music/streak-730.svg",
     "title": "Quatro meses no ritmo",
     "theme": "music",
-    "motif": "MoonStar",
-    "file": "achievements/music/streak-730.svg"
+    "motif": "filled:calendar-days+calendar-days:milestone-7",
+    "file": "achievements/music/streak-730.svg",
+    "originalMotif": "MoonStar"
   },
   {
     "id": "streak-1000",
@@ -590,8 +655,9 @@
     "coinFile": "achievements/coins/music/streak-1000.svg",
     "title": "Meio ano em sintonia",
     "theme": "music",
-    "motif": "UserRoundSearch",
-    "file": "achievements/music/streak-1000.svg"
+    "motif": "filled:calendar-days+calendar-days:milestone-8",
+    "file": "achievements/music/streak-1000.svg",
+    "originalMotif": "UserRoundSearch"
   },
   {
     "id": "streak-1825",
@@ -599,8 +665,9 @@
     "coinFile": "achievements/coins/music/streak-1825.svg",
     "title": "Um ano de música",
     "theme": "music",
-    "motif": "RadioTower",
-    "file": "achievements/music/streak-1825.svg"
+    "motif": "filled:calendar-days+calendar-days:milestone-9",
+    "file": "achievements/music/streak-1825.svg",
+    "originalMotif": "RadioTower"
   },
   {
     "id": "aura-streak-1",
@@ -608,8 +675,9 @@
     "coinFile": "achievements/coins/music/aura-streak-1.svg",
     "title": "AURA Chama I desbloqueada",
     "theme": "music",
-    "motif": "Antenna",
-    "file": "achievements/music/aura-streak-1.svg"
+    "motif": "filled:wave+fire:milestone-1",
+    "file": "achievements/music/aura-streak-1.svg",
+    "originalMotif": "Antenna"
   },
   {
     "id": "aura-streak-25",
@@ -617,8 +685,9 @@
     "coinFile": "achievements/coins/music/aura-streak-25.svg",
     "title": "AURA Chama II desbloqueada",
     "theme": "music",
-    "motif": "Music",
-    "file": "achievements/music/aura-streak-25.svg"
+    "motif": "filled:wave+fire:milestone-2",
+    "file": "achievements/music/aura-streak-25.svg",
+    "originalMotif": "Music"
   },
   {
     "id": "aura-streak-50",
@@ -626,8 +695,9 @@
     "coinFile": "achievements/coins/music/aura-streak-50.svg",
     "title": "AURA Chama III desbloqueada",
     "theme": "music",
-    "motif": "ListChecks",
-    "file": "achievements/music/aura-streak-50.svg"
+    "motif": "filled:wave+fire:milestone-3",
+    "file": "achievements/music/aura-streak-50.svg",
+    "originalMotif": "ListChecks"
   },
   {
     "id": "aura-streak-100",
@@ -635,8 +705,9 @@
     "coinFile": "achievements/coins/music/aura-streak-100.svg",
     "title": "AURA Chama IV desbloqueada",
     "theme": "music",
-    "motif": "ListStart",
-    "file": "achievements/music/aura-streak-100.svg"
+    "motif": "filled:wave+fire:milestone-4",
+    "file": "achievements/music/aura-streak-100.svg",
+    "originalMotif": "ListStart"
   },
   {
     "id": "aura-streak-150",
@@ -644,8 +715,9 @@
     "coinFile": "achievements/coins/music/aura-streak-150.svg",
     "title": "AURA Chama V desbloqueada",
     "theme": "music",
-    "motif": "ListEnd",
-    "file": "achievements/music/aura-streak-150.svg"
+    "motif": "filled:wave+fire:milestone-5",
+    "file": "achievements/music/aura-streak-150.svg",
+    "originalMotif": "ListEnd"
   },
   {
     "id": "discovery-edicao-01",
@@ -653,8 +725,9 @@
     "coinFile": "achievements/coins/music/discovery-edicao-01.svg",
     "title": "Capa de respeito",
     "theme": "music",
-    "motif": "LibraryBig:Image",
-    "file": "achievements/music/discovery-edicao-01.svg"
+    "motif": "filled:building-library+photo:milestone-1",
+    "file": "achievements/music/discovery-edicao-01.svg",
+    "originalMotif": "LibraryBig:Image"
   },
   {
     "id": "discovery-edicao-02",
@@ -662,8 +735,9 @@
     "coinFile": "achievements/coins/music/discovery-edicao-02.svg",
     "title": "Ficha na mão",
     "theme": "music",
-    "motif": "LibraryBig:FileText",
-    "file": "achievements/music/discovery-edicao-02.svg"
+    "motif": "filled:building-library+document-text:milestone-2",
+    "file": "achievements/music/discovery-edicao-02.svg",
+    "originalMotif": "LibraryBig:FileText"
   },
   {
     "id": "discovery-edicao-03",
@@ -671,8 +745,9 @@
     "coinFile": "achievements/coins/music/discovery-edicao-03.svg",
     "title": "Prateleira em ordem",
     "theme": "music",
-    "motif": "LibraryBig:ListFilter",
-    "file": "achievements/music/discovery-edicao-03.svg"
+    "motif": "filled:building-library+funnel:milestone-3",
+    "file": "achievements/music/discovery-edicao-03.svg",
+    "originalMotif": "LibraryBig:ListFilter"
   },
   {
     "id": "discovery-edicao-04",
@@ -680,8 +755,9 @@
     "coinFile": "achievements/coins/music/discovery-edicao-04.svg",
     "title": "Data de nascimento",
     "theme": "music",
-    "motif": "LibraryBig:Calendar",
-    "file": "achievements/music/discovery-edicao-04.svg"
+    "motif": "filled:building-library+calendar:milestone-4",
+    "file": "achievements/music/discovery-edicao-04.svg",
+    "originalMotif": "LibraryBig:Calendar"
   },
   {
     "id": "discovery-edicao-05",
@@ -689,8 +765,9 @@
     "coinFile": "achievements/coins/music/discovery-edicao-05.svg",
     "title": "Quem escreveu",
     "theme": "music",
-    "motif": "LibraryBig:PenTool",
-    "file": "achievements/music/discovery-edicao-05.svg"
+    "motif": "filled:building-library+pencil:milestone-5",
+    "file": "achievements/music/discovery-edicao-05.svg",
+    "originalMotif": "LibraryBig:PenTool"
   },
   {
     "id": "discovery-edicao-06",
@@ -698,8 +775,9 @@
     "coinFile": "achievements/coins/music/discovery-edicao-06.svg",
     "title": "Identidade sonora",
     "theme": "music",
-    "motif": "LibraryBig:Fingerprint",
-    "file": "achievements/music/discovery-edicao-06.svg"
+    "motif": "filled:building-library+finger-print:milestone-6",
+    "file": "achievements/music/discovery-edicao-06.svg",
+    "originalMotif": "LibraryBig:Fingerprint"
   },
   {
     "id": "discovery-edicao-07",
@@ -707,8 +785,9 @@
     "coinFile": "achievements/coins/music/discovery-edicao-07.svg",
     "title": "Registro de estúdio",
     "theme": "music",
-    "motif": "LibraryBig:ScanLine",
-    "file": "achievements/music/discovery-edicao-07.svg"
+    "motif": "filled:building-library+viewfinder-circle:milestone-7",
+    "file": "achievements/music/discovery-edicao-07.svg",
+    "originalMotif": "LibraryBig:ScanLine"
   },
   {
     "id": "discovery-edicao-08",
@@ -716,8 +795,9 @@
     "coinFile": "achievements/coins/music/discovery-edicao-08.svg",
     "title": "Edição identificada",
     "theme": "music",
-    "motif": "LibraryBig:Barcode",
-    "file": "achievements/music/discovery-edicao-08.svg"
+    "motif": "filled:building-library+qr-code:milestone-8",
+    "file": "achievements/music/discovery-edicao-08.svg",
+    "originalMotif": "LibraryBig:Barcode"
   },
   {
     "id": "discovery-edicao-09",
@@ -725,8 +805,9 @@
     "coinFile": "achievements/coins/music/discovery-edicao-09.svg",
     "title": "Cada faixa no lugar",
     "theme": "music",
-    "motif": "LibraryBig:ListOrdered",
-    "file": "achievements/music/discovery-edicao-09.svg"
+    "motif": "filled:building-library+numbered-list:milestone-9",
+    "file": "achievements/music/discovery-edicao-09.svg",
+    "originalMotif": "LibraryBig:ListOrdered"
   },
   {
     "id": "discovery-edicao-10",
@@ -734,8 +815,9 @@
     "coinFile": "achievements/coins/music/discovery-edicao-10.svg",
     "title": "Encartes abertos",
     "theme": "music",
-    "motif": "LibraryBig:BookOpen",
-    "file": "achievements/music/discovery-edicao-10.svg"
+    "motif": "filled:building-library+book-open:milestone-10",
+    "file": "achievements/music/discovery-edicao-10.svg",
+    "originalMotif": "LibraryBig:BookOpen"
   },
   {
     "id": "discovery-album-01",
@@ -743,8 +825,9 @@
     "coinFile": "achievements/coins/music/discovery-album-01.svg",
     "title": "Sem faixa faltando",
     "theme": "music",
-    "motif": "DiscAlbum:CircleCheck",
-    "file": "achievements/music/discovery-album-01.svg"
+    "motif": "filled:disc+check-circle:milestone-1",
+    "file": "achievements/music/discovery-album-01.svg",
+    "originalMotif": "DiscAlbum:CircleCheck"
   },
   {
     "id": "discovery-album-02",
@@ -752,8 +835,9 @@
     "coinFile": "achievements/coins/music/discovery-album-02.svg",
     "title": "Dois lados da estante",
     "theme": "music",
-    "motif": "DiscAlbum:Users",
-    "file": "achievements/music/discovery-album-02.svg"
+    "motif": "filled:disc+users:milestone-2",
+    "file": "achievements/music/discovery-album-02.svg",
+    "originalMotif": "DiscAlbum:Users"
   },
   {
     "id": "discovery-album-03",
@@ -761,8 +845,9 @@
     "coinFile": "achievements/coins/music/discovery-album-03.svg",
     "title": "Galeria de encartes",
     "theme": "music",
-    "motif": "DiscAlbum:Images",
-    "file": "achievements/music/discovery-album-03.svg"
+    "motif": "filled:disc+rectangle-stack:milestone-3",
+    "file": "achievements/music/discovery-album-03.svg",
+    "originalMotif": "DiscAlbum:Images"
   },
   {
     "id": "discovery-album-04",
@@ -770,8 +855,9 @@
     "coinFile": "achievements/coins/music/discovery-album-04.svg",
     "title": "Do começo ao fim da lista",
     "theme": "music",
-    "motif": "DiscAlbum:ListStart",
-    "file": "achievements/music/discovery-album-04.svg"
+    "motif": "filled:disc+queue-list:milestone-4",
+    "file": "achievements/music/discovery-album-04.svg",
+    "originalMotif": "DiscAlbum:ListStart"
   },
   {
     "id": "discovery-album-05",
@@ -779,8 +865,9 @@
     "coinFile": "achievements/coins/music/discovery-album-05.svg",
     "title": "Disco de cabeceira",
     "theme": "music",
-    "motif": "DiscAlbum:Heart",
-    "file": "achievements/music/discovery-album-05.svg"
+    "motif": "filled:disc+heart:milestone-5",
+    "file": "achievements/music/discovery-album-05.svg",
+    "originalMotif": "DiscAlbum:Heart"
   },
   {
     "id": "discovery-album-06",
@@ -788,8 +875,9 @@
     "coinFile": "achievements/coins/music/discovery-album-06.svg",
     "title": "Caixa dupla",
     "theme": "music",
-    "motif": "DiscAlbum:Layers",
-    "file": "achievements/music/discovery-album-06.svg"
+    "motif": "filled:disc+square-3-stack-3d:milestone-6",
+    "file": "achievements/music/discovery-album-06.svg",
+    "originalMotif": "DiscAlbum:Layers"
   },
   {
     "id": "discovery-album-07",
@@ -797,8 +885,9 @@
     "coinFile": "achievements/coins/music/discovery-album-07.svg",
     "title": "Discoteca sem perdas",
     "theme": "music",
-    "motif": "DiscAlbum:ShieldCheck",
-    "file": "achievements/music/discovery-album-07.svg"
+    "motif": "filled:disc+shield-check:milestone-7",
+    "file": "achievements/music/discovery-album-07.svg",
+    "originalMotif": "DiscAlbum:ShieldCheck"
   },
   {
     "id": "discovery-album-08",
@@ -806,8 +895,9 @@
     "coinFile": "achievements/coins/music/discovery-album-08.svg",
     "title": "Encarte cantado",
     "theme": "music",
-    "motif": "DiscAlbum:Text",
-    "file": "achievements/music/discovery-album-08.svg"
+    "motif": "filled:disc+document-text:milestone-8",
+    "file": "achievements/music/discovery-album-08.svg",
+    "originalMotif": "DiscAlbum:Text"
   },
   {
     "id": "discovery-album-09",
@@ -815,8 +905,9 @@
     "coinFile": "achievements/coins/music/discovery-album-09.svg",
     "title": "Coleção de edições",
     "theme": "music",
-    "motif": "DiscAlbum:Archive",
-    "file": "achievements/music/discovery-album-09.svg"
+    "motif": "filled:disc+archive-box:milestone-9",
+    "file": "achievements/music/discovery-album-09.svg",
+    "originalMotif": "DiscAlbum:Archive"
   },
   {
     "id": "discovery-album-10",
@@ -824,8 +915,9 @@
     "coinFile": "achievements/coins/music/discovery-album-10.svg",
     "title": "Arquivo de referência",
     "theme": "music",
-    "motif": "DiscAlbum:Landmark",
-    "file": "achievements/music/discovery-album-10.svg"
+    "motif": "filled:disc+building-library:milestone-10",
+    "file": "achievements/music/discovery-album-10.svg",
+    "originalMotif": "DiscAlbum:Landmark"
   },
   {
     "id": "discovery-som-01",
@@ -833,8 +925,9 @@
     "coinFile": "achievements/coins/music/discovery-som-01.svg",
     "title": "Sem fio cortado",
     "theme": "music",
-    "motif": "AudioLines:Shield",
-    "file": "achievements/music/discovery-som-01.svg"
+    "motif": "filled:speaker-wave+shield-check:milestone-1",
+    "file": "achievements/music/discovery-som-01.svg",
+    "originalMotif": "AudioLines:Shield"
   },
   {
     "id": "discovery-som-02",
@@ -842,8 +935,9 @@
     "coinFile": "achievements/coins/music/discovery-som-02.svg",
     "title": "Dois canais",
     "theme": "music",
-    "motif": "AudioLines:Headphones",
-    "file": "achievements/music/discovery-som-02.svg"
+    "motif": "filled:speaker-wave+headphones:milestone-2",
+    "file": "achievements/music/discovery-som-02.svg",
+    "originalMotif": "AudioLines:Headphones"
   },
   {
     "id": "discovery-som-03",
@@ -851,8 +945,9 @@
     "coinFile": "achievements/coins/music/discovery-som-03.svg",
     "title": "Retrato em mono",
     "theme": "music",
-    "motif": "AudioLines:Speaker",
-    "file": "achievements/music/discovery-som-03.svg"
+    "motif": "filled:speaker-wave+speaker-wave:milestone-3",
+    "file": "achievements/music/discovery-som-03.svg",
+    "originalMotif": "AudioLines:Speaker"
   },
   {
     "id": "discovery-som-04",
@@ -860,8 +955,9 @@
     "coinFile": "achievements/coins/music/discovery-som-04.svg",
     "title": "Detalhe de origem",
     "theme": "music",
-    "motif": "AudioLines:Scan",
-    "file": "achievements/music/discovery-som-04.svg"
+    "motif": "filled:speaker-wave+viewfinder-circle:milestone-4",
+    "file": "achievements/music/discovery-som-04.svg",
+    "originalMotif": "AudioLines:Scan"
   },
   {
     "id": "discovery-som-05",
@@ -869,8 +965,9 @@
     "coinFile": "achievements/coins/music/discovery-som-05.svg",
     "title": "Frequência documentada",
     "theme": "music",
-    "motif": "AudioLines:Waves",
-    "file": "achievements/music/discovery-som-05.svg"
+    "motif": "filled:speaker-wave+wave:milestone-5",
+    "file": "achievements/music/discovery-som-05.svg",
+    "originalMotif": "AudioLines:Waves"
   },
   {
     "id": "discovery-som-06",
@@ -878,8 +975,9 @@
     "coinFile": "achievements/coins/music/discovery-som-06.svg",
     "title": "Níveis anotados",
     "theme": "music",
-    "motif": "AudioLines:SlidersHorizontal",
-    "file": "achievements/music/discovery-som-06.svg"
+    "motif": "filled:speaker-wave+adjustments-horizontal:milestone-6",
+    "file": "achievements/music/discovery-som-06.svg",
+    "originalMotif": "AudioLines:SlidersHorizontal"
   },
   {
     "id": "discovery-som-07",
@@ -887,8 +985,9 @@
     "coinFile": "achievements/coins/music/discovery-som-07.svg",
     "title": "Um disco, um nível",
     "theme": "music",
-    "motif": "AudioLines:Gauge",
-    "file": "achievements/music/discovery-som-07.svg"
+    "motif": "filled:speaker-wave+chart-bar:milestone-7",
+    "file": "achievements/music/discovery-som-07.svg",
+    "originalMotif": "AudioLines:Gauge"
   },
   {
     "id": "discovery-som-08",
@@ -896,8 +995,9 @@
     "coinFile": "achievements/coins/music/discovery-som-08.svg",
     "title": "Batida reconhecida",
     "theme": "music",
-    "motif": "AudioLines:Drum",
-    "file": "achievements/music/discovery-som-08.svg"
+    "motif": "filled:speaker-wave+drum:milestone-8",
+    "file": "achievements/music/discovery-som-08.svg",
+    "originalMotif": "AudioLines:Drum"
   },
   {
     "id": "discovery-som-09",
@@ -905,8 +1005,9 @@
     "coinFile": "achievements/coins/music/discovery-som-09.svg",
     "title": "Paleta da coleção",
     "theme": "music",
-    "motif": "AudioLines:Palette",
-    "file": "achievements/music/discovery-som-09.svg"
+    "motif": "filled:speaker-wave+swatch:milestone-9",
+    "file": "achievements/music/discovery-som-09.svg",
+    "originalMotif": "AudioLines:Palette"
   },
   {
     "id": "discovery-som-10",
@@ -914,8 +1015,9 @@
     "coinFile": "achievements/coins/music/discovery-som-10.svg",
     "title": "Áudio sob custódia",
     "theme": "music",
-    "motif": "AudioLines:HardDrive",
-    "file": "achievements/music/discovery-som-10.svg"
+    "motif": "filled:speaker-wave+server:milestone-10",
+    "file": "achievements/music/discovery-som-10.svg",
+    "originalMotif": "AudioLines:HardDrive"
   },
   {
     "id": "discovery-afetos-01",
@@ -923,8 +1025,9 @@
     "coinFile": "achievements/coins/music/discovery-afetos-01.svg",
     "title": "Três vozes favoritas",
     "theme": "music",
-    "motif": "HeartHandshake:Mic",
-    "file": "achievements/music/discovery-afetos-01.svg"
+    "motif": "filled:heart+microphone:milestone-1",
+    "file": "achievements/music/discovery-afetos-01.svg",
+    "originalMotif": "HeartHandshake:Mic"
   },
   {
     "id": "discovery-afetos-02",
@@ -932,8 +1035,9 @@
     "coinFile": "achievements/coins/music/discovery-afetos-02.svg",
     "title": "Gosto sem fronteira",
     "theme": "music",
-    "motif": "HeartHandshake:Compass",
-    "file": "achievements/music/discovery-afetos-02.svg"
+    "motif": "filled:heart+magnifying-glass:milestone-2",
+    "file": "achievements/music/discovery-afetos-02.svg",
+    "originalMotif": "HeartHandshake:Compass"
   },
   {
     "id": "discovery-afetos-03",
@@ -941,8 +1045,9 @@
     "coinFile": "achievements/coins/music/discovery-afetos-03.svg",
     "title": "Capítulos queridos",
     "theme": "music",
-    "motif": "HeartHandshake:Album",
-    "file": "achievements/music/discovery-afetos-03.svg"
+    "motif": "filled:heart+disc:milestone-3",
+    "file": "achievements/music/discovery-afetos-03.svg",
+    "originalMotif": "HeartHandshake:Album"
   },
   {
     "id": "discovery-afetos-04",
@@ -950,8 +1055,9 @@
     "coinFile": "achievements/coins/music/discovery-afetos-04.svg",
     "title": "Afeto atravessa décadas",
     "theme": "music",
-    "motif": "HeartHandshake:CalendarDays",
-    "file": "achievements/music/discovery-afetos-04.svg"
+    "motif": "filled:heart+calendar-days:milestone-4",
+    "file": "achievements/music/discovery-afetos-04.svg",
+    "originalMotif": "HeartHandshake:CalendarDays"
   },
   {
     "id": "discovery-afetos-05",
@@ -959,8 +1065,9 @@
     "coinFile": "achievements/coins/music/discovery-afetos-05.svg",
     "title": "Lembrança ilustrada",
     "theme": "music",
-    "motif": "HeartHandshake:Image",
-    "file": "achievements/music/discovery-afetos-05.svg"
+    "motif": "filled:heart+photo:milestone-5",
+    "file": "achievements/music/discovery-afetos-05.svg",
+    "originalMotif": "HeartHandshake:Image"
   },
   {
     "id": "discovery-afetos-06",
@@ -968,8 +1075,9 @@
     "coinFile": "achievements/coins/music/discovery-afetos-06.svg",
     "title": "Versos que ficam",
     "theme": "music",
-    "motif": "HeartHandshake:Quote",
-    "file": "achievements/music/discovery-afetos-06.svg"
+    "motif": "filled:heart+chat-bubble-bottom-center-text:milestone-6",
+    "file": "achievements/music/discovery-afetos-06.svg",
+    "originalMotif": "HeartHandshake:Quote"
   },
   {
     "id": "discovery-afetos-07",
@@ -977,8 +1085,9 @@
     "coinFile": "achievements/coins/music/discovery-afetos-07.svg",
     "title": "Carinho sem perdas",
     "theme": "music",
-    "motif": "HeartHandshake:ShieldCheck",
-    "file": "achievements/music/discovery-afetos-07.svg"
+    "motif": "filled:heart+shield-check:milestone-7",
+    "file": "achievements/music/discovery-afetos-07.svg",
+    "originalMotif": "HeartHandshake:ShieldCheck"
   },
   {
     "id": "discovery-afetos-08",
@@ -986,8 +1095,9 @@
     "coinFile": "achievements/coins/music/discovery-afetos-08.svg",
     "title": "Encontro de talentos",
     "theme": "music",
-    "motif": "HeartHandshake:Users",
-    "file": "achievements/music/discovery-afetos-08.svg"
+    "motif": "filled:heart+users:milestone-8",
+    "file": "achievements/music/discovery-afetos-08.svg",
+    "originalMotif": "HeartHandshake:Users"
   },
   {
     "id": "discovery-afetos-09",
@@ -995,8 +1105,9 @@
     "coinFile": "achievements/coins/music/discovery-afetos-09.svg",
     "title": "Clássico pessoal",
     "theme": "music",
-    "motif": "HeartHandshake:Gem",
-    "file": "achievements/music/discovery-afetos-09.svg"
+    "motif": "filled:heart+gem:milestone-9",
+    "file": "achievements/music/discovery-afetos-09.svg",
+    "originalMotif": "HeartHandshake:Gem"
   },
   {
     "id": "discovery-afetos-10",
@@ -1004,8 +1115,9 @@
     "coinFile": "achievements/coins/music/discovery-afetos-10.svg",
     "title": "Assinatura eclética",
     "theme": "music",
-    "motif": "HeartHandshake:Sparkles",
-    "file": "achievements/music/discovery-afetos-10.svg"
+    "motif": "filled:heart+sparkles:milestone-10",
+    "file": "achievements/music/discovery-afetos-10.svg",
+    "originalMotif": "HeartHandshake:Sparkles"
   },
   {
     "id": "discovery-curadoria-01",
@@ -1013,8 +1125,9 @@
     "coinFile": "achievements/coins/music/discovery-curadoria-01.svg",
     "title": "Capa de seleção",
     "theme": "music",
-    "motif": "ListMusic:Image",
-    "file": "achievements/music/discovery-curadoria-01.svg"
+    "motif": "filled:queue-list+photo:milestone-1",
+    "file": "achievements/music/discovery-curadoria-01.svg",
+    "originalMotif": "ListMusic:Image"
   },
   {
     "id": "discovery-curadoria-02",
@@ -1022,8 +1135,9 @@
     "coinFile": "achievements/coins/music/discovery-curadoria-02.svg",
     "title": "Nota do curador",
     "theme": "music",
-    "motif": "ListMusic:PenLine",
-    "file": "achievements/music/discovery-curadoria-02.svg"
+    "motif": "filled:queue-list+pencil-square:milestone-2",
+    "file": "achievements/music/discovery-curadoria-02.svg",
+    "originalMotif": "ListMusic:PenLine"
   },
   {
     "id": "discovery-curadoria-03",
@@ -1031,8 +1145,9 @@
     "coinFile": "achievements/coins/music/discovery-curadoria-03.svg",
     "title": "Sem eco na lista",
     "theme": "music",
-    "motif": "ListMusic:ListChecks",
-    "file": "achievements/music/discovery-curadoria-03.svg"
+    "motif": "filled:queue-list+clipboard-document-check:milestone-3",
+    "file": "achievements/music/discovery-curadoria-03.svg",
+    "originalMotif": "ListMusic:ListChecks"
   },
   {
     "id": "discovery-curadoria-04",
@@ -1040,8 +1155,9 @@
     "coinFile": "achievements/coins/music/discovery-curadoria-04.svg",
     "title": "Três caminhos",
     "theme": "music",
-    "motif": "ListMusic:Waypoints",
-    "file": "achievements/music/discovery-curadoria-04.svg"
+    "motif": "filled:queue-list+share:milestone-4",
+    "file": "achievements/music/discovery-curadoria-04.svg",
+    "originalMotif": "ListMusic:Waypoints"
   },
   {
     "id": "discovery-curadoria-05",
@@ -1049,8 +1165,9 @@
     "coinFile": "achievements/coins/music/discovery-curadoria-05.svg",
     "title": "Vozes em roda",
     "theme": "music",
-    "motif": "ListMusic:UsersRound",
-    "file": "achievements/music/discovery-curadoria-05.svg"
+    "motif": "filled:queue-list+user-group:milestone-5",
+    "file": "achievements/music/discovery-curadoria-05.svg",
+    "originalMotif": "ListMusic:UsersRound"
   },
   {
     "id": "discovery-curadoria-06",
@@ -1058,8 +1175,9 @@
     "coinFile": "achievements/coins/music/discovery-curadoria-06.svg",
     "title": "Páginas de discos",
     "theme": "music",
-    "motif": "ListMusic:Album",
-    "file": "achievements/music/discovery-curadoria-06.svg"
+    "motif": "filled:queue-list+disc:milestone-6",
+    "file": "achievements/music/discovery-curadoria-06.svg",
+    "originalMotif": "ListMusic:Album"
   },
   {
     "id": "discovery-curadoria-07",
@@ -1067,8 +1185,9 @@
     "coinFile": "achievements/coins/music/discovery-curadoria-07.svg",
     "title": "Máquina de épocas",
     "theme": "music",
-    "motif": "ListMusic:History",
-    "file": "achievements/music/discovery-curadoria-07.svg"
+    "motif": "filled:queue-list+clock:milestone-7",
+    "file": "achievements/music/discovery-curadoria-07.svg",
+    "originalMotif": "ListMusic:History"
   },
   {
     "id": "discovery-curadoria-08",
@@ -1076,8 +1195,9 @@
     "coinFile": "achievements/coins/music/discovery-curadoria-08.svg",
     "title": "Seleção do coração",
     "theme": "music",
-    "motif": "ListMusic:Heart",
-    "file": "achievements/music/discovery-curadoria-08.svg"
+    "motif": "filled:queue-list+heart:milestone-8",
+    "file": "achievements/music/discovery-curadoria-08.svg",
+    "originalMotif": "ListMusic:Heart"
   },
   {
     "id": "discovery-curadoria-09",
@@ -1085,8 +1205,9 @@
     "coinFile": "achievements/coins/music/discovery-curadoria-09.svg",
     "title": "Curadoria sem perdas",
     "theme": "music",
-    "motif": "ListMusic:ShieldCheck",
-    "file": "achievements/music/discovery-curadoria-09.svg"
+    "motif": "filled:queue-list+shield-check:milestone-9",
+    "file": "achievements/music/discovery-curadoria-09.svg",
+    "originalMotif": "ListMusic:ShieldCheck"
   },
   {
     "id": "discovery-curadoria-10",
@@ -1094,8 +1215,9 @@
     "coinFile": "achievements/coins/music/discovery-curadoria-10.svg",
     "title": "Cancioneiro pessoal",
     "theme": "music",
-    "motif": "ListMusic:BookOpen",
-    "file": "achievements/music/discovery-curadoria-10.svg"
+    "motif": "filled:queue-list+book-open:milestone-10",
+    "file": "achievements/music/discovery-curadoria-10.svg",
+    "originalMotif": "ListMusic:BookOpen"
   },
   {
     "id": "discovery-descobertas-01",
@@ -1103,8 +1225,9 @@
     "coinFile": "achievements/coins/music/discovery-descobertas-01.svg",
     "title": "Portas de entrada",
     "theme": "music",
-    "motif": "Compass:DoorOpen",
-    "file": "achievements/music/discovery-descobertas-01.svg"
+    "motif": "filled:magnifying-glass+arrow-right-start-on-rectangle:milestone-1",
+    "file": "achievements/music/discovery-descobertas-01.svg",
+    "originalMotif": "Compass:DoorOpen"
   },
   {
     "id": "discovery-descobertas-02",
@@ -1112,8 +1235,9 @@
     "coinFile": "achievements/coins/music/discovery-descobertas-02.svg",
     "title": "Mudança de paisagem",
     "theme": "music",
-    "motif": "Compass:Mountain",
-    "file": "achievements/music/discovery-descobertas-02.svg"
+    "motif": "filled:magnifying-glass+map:milestone-2",
+    "file": "achievements/music/discovery-descobertas-02.svg",
+    "originalMotif": "Compass:Mountain"
   },
   {
     "id": "discovery-descobertas-03",
@@ -1121,8 +1245,9 @@
     "coinFile": "achievements/coins/music/discovery-descobertas-03.svg",
     "title": "Outros capítulos",
     "theme": "music",
-    "motif": "Compass:Album",
-    "file": "achievements/music/discovery-descobertas-03.svg"
+    "motif": "filled:magnifying-glass+disc:milestone-3",
+    "file": "achievements/music/discovery-descobertas-03.svg",
+    "originalMotif": "Compass:Album"
   },
   {
     "id": "discovery-descobertas-04",
@@ -1130,8 +1255,9 @@
     "coinFile": "achievements/coins/music/discovery-descobertas-04.svg",
     "title": "Passaporte de épocas",
     "theme": "music",
-    "motif": "Compass:Tickets",
-    "file": "achievements/music/discovery-descobertas-04.svg"
+    "motif": "filled:magnifying-glass+ticket:milestone-4",
+    "file": "achievements/music/discovery-descobertas-04.svg",
+    "originalMotif": "Compass:Tickets"
   },
   {
     "id": "discovery-descobertas-05",
@@ -1139,8 +1265,9 @@
     "coinFile": "achievements/coins/music/discovery-descobertas-05.svg",
     "title": "Outras embalagens",
     "theme": "music",
-    "motif": "Compass:Package",
-    "file": "achievements/music/discovery-descobertas-05.svg"
+    "motif": "filled:magnifying-glass+cube:milestone-5",
+    "file": "achievements/music/discovery-descobertas-05.svg",
+    "originalMotif": "Compass:Package"
   },
   {
     "id": "discovery-descobertas-06",
@@ -1148,8 +1275,9 @@
     "coinFile": "achievements/coins/music/discovery-descobertas-06.svg",
     "title": "Descoberta com encarte",
     "theme": "music",
-    "motif": "Compass:BookOpen",
-    "file": "achievements/music/discovery-descobertas-06.svg"
+    "motif": "filled:magnifying-glass+book-open:milestone-6",
+    "file": "achievements/music/discovery-descobertas-06.svg",
+    "originalMotif": "Compass:BookOpen"
   },
   {
     "id": "discovery-descobertas-07",
@@ -1157,8 +1285,9 @@
     "coinFile": "achievements/coins/music/discovery-descobertas-07.svg",
     "title": "Descoberta cristalina",
     "theme": "music",
-    "motif": "Compass:Gem",
-    "file": "achievements/music/discovery-descobertas-07.svg"
+    "motif": "filled:magnifying-glass+gem:milestone-7",
+    "file": "achievements/music/discovery-descobertas-07.svg",
+    "originalMotif": "Compass:Gem"
   },
   {
     "id": "discovery-descobertas-08",
@@ -1166,8 +1295,9 @@
     "coinFile": "achievements/coins/music/discovery-descobertas-08.svg",
     "title": "Dueto descoberto",
     "theme": "music",
-    "motif": "Compass:Users",
-    "file": "achievements/music/discovery-descobertas-08.svg"
+    "motif": "filled:magnifying-glass+users:milestone-8",
+    "file": "achievements/music/discovery-descobertas-08.svg",
+    "originalMotif": "Compass:Users"
   },
   {
     "id": "discovery-descobertas-09",
@@ -1175,8 +1305,9 @@
     "coinFile": "achievements/coins/music/discovery-descobertas-09.svg",
     "title": "O segundo disco",
     "theme": "music",
-    "motif": "Compass:Disc2",
-    "file": "achievements/music/discovery-descobertas-09.svg"
+    "motif": "filled:magnifying-glass+disc:milestone-9",
+    "file": "achievements/music/discovery-descobertas-09.svg",
+    "originalMotif": "Compass:Disc2"
   },
   {
     "id": "discovery-descobertas-10",
@@ -1184,8 +1315,9 @@
     "coinFile": "achievements/coins/music/discovery-descobertas-10.svg",
     "title": "Mundo na estante",
     "theme": "music",
-    "motif": "Compass:Globe",
-    "file": "achievements/music/discovery-descobertas-10.svg"
+    "motif": "filled:magnifying-glass+globe-alt:milestone-10",
+    "file": "achievements/music/discovery-descobertas-10.svg",
+    "originalMotif": "Compass:Globe"
   },
   {
     "id": "discovery-pontes-01",
@@ -1193,8 +1325,9 @@
     "coinFile": "achievements/coins/music/discovery-pontes-01.svg",
     "title": "Meio século em uma lista",
     "theme": "music",
-    "motif": "Waypoints:History",
-    "file": "achievements/music/discovery-pontes-01.svg"
+    "motif": "filled:share+clock:milestone-1",
+    "file": "achievements/music/discovery-pontes-01.svg",
+    "originalMotif": "Waypoints:History"
   },
   {
     "id": "discovery-pontes-02",
@@ -1202,8 +1335,9 @@
     "coinFile": "achievements/coins/music/discovery-pontes-02.svg",
     "title": "Duas versões do recado",
     "theme": "music",
-    "motif": "Waypoints:MessageSquare",
-    "file": "achievements/music/discovery-pontes-02.svg"
+    "motif": "filled:share+chat-bubble-left-right:milestone-2",
+    "file": "achievements/music/discovery-pontes-02.svg",
+    "originalMotif": "Waypoints:MessageSquare"
   },
   {
     "id": "discovery-pontes-03",
@@ -1211,8 +1345,9 @@
     "coinFile": "achievements/coins/music/discovery-pontes-03.svg",
     "title": "Oito esquinas",
     "theme": "music",
-    "motif": "Waypoints:Map",
-    "file": "achievements/music/discovery-pontes-03.svg"
+    "motif": "filled:share+map:milestone-3",
+    "file": "achievements/music/discovery-pontes-03.svg",
+    "originalMotif": "Waypoints:Map"
   },
   {
     "id": "discovery-pontes-04",
@@ -1220,8 +1355,9 @@
     "coinFile": "achievements/coins/music/discovery-pontes-04.svg",
     "title": "Elenco ampliado",
     "theme": "music",
-    "motif": "Waypoints:UsersRound",
-    "file": "achievements/music/discovery-pontes-04.svg"
+    "motif": "filled:share+user-group:milestone-4",
+    "file": "achievements/music/discovery-pontes-04.svg",
+    "originalMotif": "Waypoints:UsersRound"
   },
   {
     "id": "discovery-pontes-05",
@@ -1229,8 +1365,9 @@
     "coinFile": "achievements/coins/music/discovery-pontes-05.svg",
     "title": "Cada faixa, uma voz",
     "theme": "music",
-    "motif": "Waypoints:Mic",
-    "file": "achievements/music/discovery-pontes-05.svg"
+    "motif": "filled:share+microphone:milestone-5",
+    "file": "achievements/music/discovery-pontes-05.svg",
+    "originalMotif": "Waypoints:Mic"
   },
   {
     "id": "discovery-pontes-06",
@@ -1238,8 +1375,9 @@
     "coinFile": "achievements/coins/music/discovery-pontes-06.svg",
     "title": "Exposição portátil",
     "theme": "music",
-    "motif": "Waypoints:Images",
-    "file": "achievements/music/discovery-pontes-06.svg"
+    "motif": "filled:share+rectangle-stack:milestone-6",
+    "file": "achievements/music/discovery-pontes-06.svg",
+    "originalMotif": "Waypoints:Images"
   },
   {
     "id": "discovery-pontes-07",
@@ -1247,8 +1385,9 @@
     "coinFile": "achievements/coins/music/discovery-pontes-07.svg",
     "title": "Linha do tempo",
     "theme": "music",
-    "motif": "Waypoints:ArrowUpRight",
-    "file": "achievements/music/discovery-pontes-07.svg"
+    "motif": "filled:share+arrow-trending-up:milestone-7",
+    "file": "achievements/music/discovery-pontes-07.svg",
+    "originalMotif": "Waypoints:ArrowUpRight"
   },
   {
     "id": "discovery-pontes-08",
@@ -1256,8 +1395,9 @@
     "coinFile": "achievements/coins/music/discovery-pontes-08.svg",
     "title": "Rebobinar a história",
     "theme": "music",
-    "motif": "Waypoints:Rewind",
-    "file": "achievements/music/discovery-pontes-08.svg"
+    "motif": "filled:share+backward:milestone-8",
+    "file": "achievements/music/discovery-pontes-08.svg",
+    "originalMotif": "Waypoints:Rewind"
   },
   {
     "id": "discovery-pontes-09",
@@ -1265,8 +1405,9 @@
     "coinFile": "achievements/coins/music/discovery-pontes-09.svg",
     "title": "Um ano, muitas histórias",
     "theme": "music",
-    "motif": "Waypoints:Calendar",
-    "file": "achievements/music/discovery-pontes-09.svg"
+    "motif": "filled:share+calendar:milestone-9",
+    "file": "achievements/music/discovery-pontes-09.svg",
+    "originalMotif": "Waypoints:Calendar"
   },
   {
     "id": "discovery-pontes-10",
@@ -1274,8 +1415,9 @@
     "coinFile": "achievements/coins/music/discovery-pontes-10.svg",
     "title": "Retrato de uma cena",
     "theme": "music",
-    "motif": "Waypoints:MapPin",
-    "file": "achievements/music/discovery-pontes-10.svg"
+    "motif": "filled:share+map-pin:milestone-10",
+    "file": "achievements/music/discovery-pontes-10.svg",
+    "originalMotif": "Waypoints:MapPin"
   },
   {
     "id": "discovery-epocas-01",
@@ -1283,8 +1425,9 @@
     "coinFile": "achievements/coins/music/discovery-epocas-01.svg",
     "title": "Antes do lado A",
     "theme": "music",
-    "motif": "CalendarDays:Disc",
-    "file": "achievements/music/discovery-epocas-01.svg"
+    "motif": "filled:calendar-days+disc:milestone-1",
+    "file": "achievements/music/discovery-epocas-01.svg",
+    "originalMotif": "CalendarDays:Disc"
   },
   {
     "id": "discovery-epocas-02",
@@ -1292,8 +1435,9 @@
     "coinFile": "achievements/coins/music/discovery-epocas-02.svg",
     "title": "Sessenta rotações",
     "theme": "music",
-    "motif": "CalendarDays:Radio",
-    "file": "achievements/music/discovery-epocas-02.svg"
+    "motif": "filled:calendar-days+radio:milestone-2",
+    "file": "achievements/music/discovery-epocas-02.svg",
+    "originalMotif": "CalendarDays:Radio"
   },
   {
     "id": "discovery-epocas-03",
@@ -1301,8 +1445,9 @@
     "coinFile": "achievements/coins/music/discovery-epocas-03.svg",
     "title": "Setenta caminhos",
     "theme": "music",
-    "motif": "CalendarDays:Guitar",
-    "file": "achievements/music/discovery-epocas-03.svg"
+    "motif": "filled:calendar-days+guitar:milestone-3",
+    "file": "achievements/music/discovery-epocas-03.svg",
+    "originalMotif": "CalendarDays:Guitar"
   },
   {
     "id": "discovery-epocas-04",
@@ -1310,8 +1455,9 @@
     "coinFile": "achievements/coins/music/discovery-epocas-04.svg",
     "title": "Oitenta frequências",
     "theme": "music",
-    "motif": "CalendarDays:CassetteTape",
-    "file": "achievements/music/discovery-epocas-04.svg"
+    "motif": "filled:calendar-days+cassette:milestone-4",
+    "file": "achievements/music/discovery-epocas-04.svg",
+    "originalMotif": "CalendarDays:CassetteTape"
   },
   {
     "id": "discovery-epocas-05",
@@ -1319,8 +1465,9 @@
     "coinFile": "achievements/coins/music/discovery-epocas-05.svg",
     "title": "Noventa estações",
     "theme": "music",
-    "motif": "CalendarDays:Disc3",
-    "file": "achievements/music/discovery-epocas-05.svg"
+    "motif": "filled:calendar-days+disc:milestone-5",
+    "file": "achievements/music/discovery-epocas-05.svg",
+    "originalMotif": "CalendarDays:Disc3"
   },
   {
     "id": "discovery-epocas-06",
@@ -1328,8 +1475,9 @@
     "coinFile": "achievements/coins/music/discovery-epocas-06.svg",
     "title": "Virada do disco",
     "theme": "music",
-    "motif": "CalendarDays:RotateCw",
-    "file": "achievements/music/discovery-epocas-06.svg"
+    "motif": "filled:calendar-days+arrow-path:milestone-6",
+    "file": "achievements/music/discovery-epocas-06.svg",
+    "originalMotif": "CalendarDays:RotateCw"
   },
   {
     "id": "discovery-epocas-07",
@@ -1337,8 +1485,9 @@
     "coinFile": "achievements/coins/music/discovery-epocas-07.svg",
     "title": "Década conectada",
     "theme": "music",
-    "motif": "CalendarDays:Network",
-    "file": "achievements/music/discovery-epocas-07.svg"
+    "motif": "filled:calendar-days+share:milestone-7",
+    "file": "achievements/music/discovery-epocas-07.svg",
+    "originalMotif": "CalendarDays:Network"
   },
   {
     "id": "discovery-epocas-08",
@@ -1346,8 +1495,9 @@
     "coinFile": "achievements/coins/music/discovery-epocas-08.svg",
     "title": "Agora é acervo",
     "theme": "music",
-    "motif": "CalendarDays:Sparkles",
-    "file": "achievements/music/discovery-epocas-08.svg"
+    "motif": "filled:calendar-days+sparkles:milestone-8",
+    "file": "achievements/music/discovery-epocas-08.svg",
+    "originalMotif": "CalendarDays:Sparkles"
   },
   {
     "id": "discovery-epocas-09",
@@ -1355,8 +1505,9 @@
     "coinFile": "achievements/coins/music/discovery-epocas-09.svg",
     "title": "Cinco décadas na sala",
     "theme": "music",
-    "motif": "CalendarDays:LibraryBig",
-    "file": "achievements/music/discovery-epocas-09.svg"
+    "motif": "filled:calendar-days+building-library:milestone-9",
+    "file": "achievements/music/discovery-epocas-09.svg",
+    "originalMotif": "CalendarDays:LibraryBig"
   },
   {
     "id": "discovery-epocas-10",
@@ -1364,8 +1515,9 @@
     "coinFile": "achievements/coins/music/discovery-epocas-10.svg",
     "title": "Arquivo de um século",
     "theme": "music",
-    "motif": "CalendarDays:Landmark",
-    "file": "achievements/music/discovery-epocas-10.svg"
+    "motif": "filled:calendar-days+building-library:milestone-10",
+    "file": "achievements/music/discovery-epocas-10.svg",
+    "originalMotif": "CalendarDays:Landmark"
   },
   {
     "id": "discovery-cenas-01",
@@ -1373,8 +1525,9 @@
     "coinFile": "achievements/coins/music/discovery-cenas-01.svg",
     "title": "Amplificadores ligados",
     "theme": "music",
-    "motif": "Music3:Guitar",
-    "file": "achievements/music/discovery-cenas-01.svg"
+    "motif": "filled:musical-note+guitar:milestone-1",
+    "file": "achievements/music/discovery-cenas-01.svg",
+    "originalMotif": "Music3:Guitar"
   },
   {
     "id": "discovery-cenas-02",
@@ -1382,8 +1535,9 @@
     "coinFile": "achievements/coins/music/discovery-cenas-02.svg",
     "title": "Mesa de improviso",
     "theme": "music",
-    "motif": "Music3:Piano",
-    "file": "achievements/music/discovery-cenas-02.svg"
+    "motif": "filled:musical-note+piano:milestone-2",
+    "file": "achievements/music/discovery-cenas-02.svg",
+    "originalMotif": "Music3:Piano"
   },
   {
     "id": "discovery-cenas-03",
@@ -1391,8 +1545,9 @@
     "coinFile": "achievements/coins/music/discovery-cenas-03.svg",
     "title": "Sala de concerto",
     "theme": "music",
-    "motif": "Music3:Music2",
-    "file": "achievements/music/discovery-cenas-03.svg"
+    "motif": "filled:musical-note+musical-note:milestone-3",
+    "file": "achievements/music/discovery-cenas-03.svg",
+    "originalMotif": "Music3:Music2"
   },
   {
     "id": "discovery-cenas-04",
@@ -1400,8 +1555,9 @@
     "coinFile": "achievements/coins/music/discovery-cenas-04.svg",
     "title": "Roda montada",
     "theme": "music",
-    "motif": "Music3:Drum",
-    "file": "achievements/music/discovery-cenas-04.svg"
+    "motif": "filled:musical-note+drum:milestone-4",
+    "file": "achievements/music/discovery-cenas-04.svg",
+    "originalMotif": "Music3:Drum"
   },
   {
     "id": "discovery-cenas-05",
@@ -1409,8 +1565,9 @@
     "coinFile": "achievements/coins/music/discovery-cenas-05.svg",
     "title": "Janela de bossa",
     "theme": "music",
-    "motif": "Music3:Sun",
-    "file": "achievements/music/discovery-cenas-05.svg"
+    "motif": "filled:musical-note+sun:milestone-5",
+    "file": "achievements/music/discovery-cenas-05.svg",
+    "originalMotif": "Music3:Sun"
   },
   {
     "id": "discovery-cenas-06",
@@ -1418,8 +1575,9 @@
     "coinFile": "achievements/coins/music/discovery-cenas-06.svg",
     "title": "Verso de rua",
     "theme": "music",
-    "motif": "Music3:MicVocal",
-    "file": "achievements/music/discovery-cenas-06.svg"
+    "motif": "filled:musical-note+microphone:milestone-6",
+    "file": "achievements/music/discovery-cenas-06.svg",
+    "originalMotif": "Music3:MicVocal"
   },
   {
     "id": "discovery-cenas-07",
@@ -1427,8 +1585,9 @@
     "coinFile": "achievements/coins/music/discovery-cenas-07.svg",
     "title": "Circuito aberto",
     "theme": "music",
-    "motif": "Music3:CircuitBoard",
-    "file": "achievements/music/discovery-cenas-07.svg"
+    "motif": "filled:musical-note+cpu-chip:milestone-7",
+    "file": "achievements/music/discovery-cenas-07.svg",
+    "originalMotif": "Music3:CircuitBoard"
   },
   {
     "id": "discovery-cenas-08",
@@ -1436,8 +1595,9 @@
     "coinFile": "achievements/coins/music/discovery-cenas-08.svg",
     "title": "Contratempo",
     "theme": "music",
-    "motif": "Music3:Waves",
-    "file": "achievements/music/discovery-cenas-08.svg"
+    "motif": "filled:musical-note+wave:milestone-8",
+    "file": "achievements/music/discovery-cenas-08.svg",
+    "originalMotif": "Music3:Waves"
   },
   {
     "id": "discovery-cenas-09",
@@ -1445,8 +1605,9 @@
     "coinFile": "achievements/coins/music/discovery-cenas-09.svg",
     "title": "Retratos do Brasil",
     "theme": "music",
-    "motif": "Music3:MapPin",
-    "file": "achievements/music/discovery-cenas-09.svg"
+    "motif": "filled:musical-note+map-pin:milestone-9",
+    "file": "achievements/music/discovery-cenas-09.svg",
+    "originalMotif": "Music3:MapPin"
   },
   {
     "id": "discovery-cenas-10",
@@ -1454,8 +1615,9 @@
     "coinFile": "achievements/coins/music/discovery-cenas-10.svg",
     "title": "Liga pesada",
     "theme": "music",
-    "motif": "Music3:Anvil",
-    "file": "achievements/music/discovery-cenas-10.svg"
+    "motif": "filled:musical-note+bolt:milestone-10",
+    "file": "achievements/music/discovery-cenas-10.svg",
+    "originalMotif": "Music3:Anvil"
   },
   {
     "id": "discovery-formatos-01",
@@ -1463,8 +1625,9 @@
     "coinFile": "achievements/coins/music/discovery-formatos-01.svg",
     "title": "Arquivo livre",
     "theme": "music",
-    "motif": "FileAudio:Leaf",
-    "file": "achievements/music/discovery-formatos-01.svg"
+    "motif": "filled:document+leaf:milestone-1",
+    "file": "achievements/music/discovery-formatos-01.svg",
+    "originalMotif": "FileAudio:Leaf"
   },
   {
     "id": "discovery-formatos-02",
@@ -1472,8 +1635,9 @@
     "coinFile": "achievements/coins/music/discovery-formatos-02.svg",
     "title": "Clássico digital",
     "theme": "music",
-    "motif": "FileAudio:Disc3",
-    "file": "achievements/music/discovery-formatos-02.svg"
+    "motif": "filled:document+disc:milestone-2",
+    "file": "achievements/music/discovery-formatos-02.svg",
+    "originalMotif": "FileAudio:Disc3"
   },
   {
     "id": "discovery-formatos-03",
@@ -1481,8 +1645,9 @@
     "coinFile": "achievements/coins/music/discovery-formatos-03.svg",
     "title": "Onda preservada",
     "theme": "music",
-    "motif": "FileAudio:Waves",
-    "file": "achievements/music/discovery-formatos-03.svg"
+    "motif": "filled:document+wave:milestone-3",
+    "file": "achievements/music/discovery-formatos-03.svg",
+    "originalMotif": "FileAudio:Waves"
   },
   {
     "id": "discovery-formatos-04",
@@ -1490,8 +1655,9 @@
     "coinFile": "achievements/coins/music/discovery-formatos-04.svg",
     "title": "Voz em Opus",
     "theme": "music",
-    "motif": "FileAudio:Mic",
-    "file": "achievements/music/discovery-formatos-04.svg"
+    "motif": "filled:document+microphone:milestone-4",
+    "file": "achievements/music/discovery-formatos-04.svg",
+    "originalMotif": "FileAudio:Mic"
   },
   {
     "id": "discovery-formatos-05",
@@ -1499,8 +1665,9 @@
     "coinFile": "achievements/coins/music/discovery-formatos-05.svg",
     "title": "Outra compressão",
     "theme": "music",
-    "motif": "FileAudio:Package",
-    "file": "achievements/music/discovery-formatos-05.svg"
+    "motif": "filled:document+cube:milestone-5",
+    "file": "achievements/music/discovery-formatos-05.svg",
+    "originalMotif": "FileAudio:Package"
   },
   {
     "id": "discovery-formatos-06",
@@ -1508,8 +1675,9 @@
     "coinFile": "achievements/coins/music/discovery-formatos-06.svg",
     "title": "Cápsula AAC",
     "theme": "music",
-    "motif": "FileAudio:File",
-    "file": "achievements/music/discovery-formatos-06.svg"
+    "motif": "filled:document+document:milestone-6",
+    "file": "achievements/music/discovery-formatos-06.svg",
+    "originalMotif": "FileAudio:File"
   },
   {
     "id": "discovery-formatos-07",
@@ -1517,8 +1685,9 @@
     "coinFile": "achievements/coins/music/discovery-formatos-07.svg",
     "title": "Edição Apple sem perdas",
     "theme": "music",
-    "motif": "FileAudio:Gem",
-    "file": "achievements/music/discovery-formatos-07.svg"
+    "motif": "filled:document+gem:milestone-7",
+    "file": "achievements/music/discovery-formatos-07.svg",
+    "originalMotif": "FileAudio:Gem"
   },
   {
     "id": "discovery-formatos-08",
@@ -1526,8 +1695,9 @@
     "coinFile": "achievements/coins/music/discovery-formatos-08.svg",
     "title": "Arquivo de estúdio",
     "theme": "music",
-    "motif": "FileAudio:Piano",
-    "file": "achievements/music/discovery-formatos-08.svg"
+    "motif": "filled:document+piano:milestone-8",
+    "file": "achievements/music/discovery-formatos-08.svg",
+    "originalMotif": "FileAudio:Piano"
   },
   {
     "id": "discovery-formatos-09",
@@ -1535,8 +1705,9 @@
     "coinFile": "achievements/coins/music/discovery-formatos-09.svg",
     "title": "Estante multiformato",
     "theme": "music",
-    "motif": "FileAudio:Boxes",
-    "file": "achievements/music/discovery-formatos-09.svg"
+    "motif": "filled:document+archive-box:milestone-9",
+    "file": "achievements/music/discovery-formatos-09.svg",
+    "originalMotif": "FileAudio:Boxes"
   },
   {
     "id": "discovery-formatos-10",
@@ -1544,8 +1715,9 @@
     "coinFile": "achievements/coins/music/discovery-formatos-10.svg",
     "title": "Mesmo artista, outras edições",
     "theme": "music",
-    "motif": "FileAudio:Copy",
-    "file": "achievements/music/discovery-formatos-10.svg"
+    "motif": "filled:document+document-duplicate:milestone-10",
+    "file": "achievements/music/discovery-formatos-10.svg",
+    "originalMotif": "FileAudio:Copy"
   },
   {
     "id": "discovery-versos-01",
@@ -1553,8 +1725,9 @@
     "coinFile": "achievements/coins/music/discovery-versos-01.svg",
     "title": "Verso anotado",
     "theme": "music",
-    "motif": "BookOpen:PenLine",
-    "file": "achievements/music/discovery-versos-01.svg"
+    "motif": "filled:book-open+pencil-square:milestone-1",
+    "file": "achievements/music/discovery-versos-01.svg",
+    "originalMotif": "BookOpen:PenLine"
   },
   {
     "id": "discovery-versos-02",
@@ -1562,8 +1735,9 @@
     "coinFile": "achievements/coins/music/discovery-versos-02.svg",
     "title": "Palavra no compasso",
     "theme": "music",
-    "motif": "BookOpen:AudioLines",
-    "file": "achievements/music/discovery-versos-02.svg"
+    "motif": "filled:book-open+speaker-wave:milestone-2",
+    "file": "achievements/music/discovery-versos-02.svg",
+    "originalMotif": "BookOpen:AudioLines"
   },
   {
     "id": "discovery-versos-03",
@@ -1571,8 +1745,9 @@
     "coinFile": "achievements/coins/music/discovery-versos-03.svg",
     "title": "Recado no arquivo",
     "theme": "music",
-    "motif": "BookOpen:FileText",
-    "file": "achievements/music/discovery-versos-03.svg"
+    "motif": "filled:book-open+document-text:milestone-3",
+    "file": "achievements/music/discovery-versos-03.svg",
+    "originalMotif": "BookOpen:FileText"
   },
   {
     "id": "discovery-versos-04",
@@ -1580,8 +1755,9 @@
     "coinFile": "achievements/coins/music/discovery-versos-04.svg",
     "title": "Encarte em movimento",
     "theme": "music",
-    "motif": "BookOpen:Disc3",
-    "file": "achievements/music/discovery-versos-04.svg"
+    "motif": "filled:book-open+disc:milestone-4",
+    "file": "achievements/music/discovery-versos-04.svg",
+    "originalMotif": "BookOpen:Disc3"
   },
   {
     "id": "discovery-versos-05",
@@ -1589,8 +1765,9 @@
     "coinFile": "achievements/coins/music/discovery-versos-05.svg",
     "title": "Verso encontrado",
     "theme": "music",
-    "motif": "BookOpen:Search",
-    "file": "achievements/music/discovery-versos-05.svg"
+    "motif": "filled:book-open+magnifying-glass:milestone-5",
+    "file": "achievements/music/discovery-versos-05.svg",
+    "originalMotif": "BookOpen:Search"
   },
   {
     "id": "discovery-versos-06",
@@ -1598,8 +1775,9 @@
     "coinFile": "achievements/coins/music/discovery-versos-06.svg",
     "title": "Sintonia encontrada",
     "theme": "music",
-    "motif": "BookOpen:Radio",
-    "file": "achievements/music/discovery-versos-06.svg"
+    "motif": "filled:book-open+radio:milestone-6",
+    "file": "achievements/music/discovery-versos-06.svg",
+    "originalMotif": "BookOpen:Radio"
   },
   {
     "id": "discovery-versos-07",
@@ -1607,8 +1785,9 @@
     "coinFile": "achievements/coins/music/discovery-versos-07.svg",
     "title": "Palavras queridas",
     "theme": "music",
-    "motif": "BookOpen:Heart",
-    "file": "achievements/music/discovery-versos-07.svg"
+    "motif": "filled:book-open+heart:milestone-7",
+    "file": "achievements/music/discovery-versos-07.svg",
+    "originalMotif": "BookOpen:Heart"
   },
   {
     "id": "discovery-versos-08",
@@ -1616,8 +1795,9 @@
     "coinFile": "achievements/coins/music/discovery-versos-08.svg",
     "title": "Poesia em muitas vozes",
     "theme": "music",
-    "motif": "BookOpen:Users",
-    "file": "achievements/music/discovery-versos-08.svg"
+    "motif": "filled:book-open+users:milestone-8",
+    "file": "achievements/music/discovery-versos-08.svg",
+    "originalMotif": "BookOpen:Users"
   },
   {
     "id": "discovery-versos-09",
@@ -1625,8 +1805,9 @@
     "coinFile": "achievements/coins/music/discovery-versos-09.svg",
     "title": "Linguagem dos estilos",
     "theme": "music",
-    "motif": "BookOpen:Compass",
-    "file": "achievements/music/discovery-versos-09.svg"
+    "motif": "filled:book-open+magnifying-glass:milestone-9",
+    "file": "achievements/music/discovery-versos-09.svg",
+    "originalMotif": "BookOpen:Compass"
   },
   {
     "id": "discovery-versos-10",
@@ -1634,8 +1815,9 @@
     "coinFile": "achievements/coins/music/discovery-versos-10.svg",
     "title": "Antologia de encartes",
     "theme": "music",
-    "motif": "BookOpen:LibraryBig",
-    "file": "achievements/music/discovery-versos-10.svg"
+    "motif": "filled:book-open+building-library:milestone-10",
+    "file": "achievements/music/discovery-versos-10.svg",
+    "originalMotif": "BookOpen:LibraryBig"
   },
   {
     "id": "discovery-creditos-01",
@@ -1643,8 +1825,9 @@
     "coinFile": "achievements/coins/music/discovery-creditos-01.svg",
     "title": "Encontro marcado",
     "theme": "music",
-    "motif": "Users:Handshake",
-    "file": "achievements/music/discovery-creditos-01.svg"
+    "motif": "filled:users+handshake:milestone-1",
+    "file": "achievements/music/discovery-creditos-01.svg",
+    "originalMotif": "Users:Handshake"
   },
   {
     "id": "discovery-creditos-02",
@@ -1652,8 +1835,9 @@
     "coinFile": "achievements/coins/music/discovery-creditos-02.svg",
     "title": "Assina o disco",
     "theme": "music",
-    "motif": "Users:PenTool",
-    "file": "achievements/music/discovery-creditos-02.svg"
+    "motif": "filled:users+pencil:milestone-2",
+    "file": "achievements/music/discovery-creditos-02.svg",
+    "originalMotif": "Users:PenTool"
   },
   {
     "id": "discovery-creditos-03",
@@ -1661,8 +1845,9 @@
     "coinFile": "achievements/coins/music/discovery-creditos-03.svg",
     "title": "Bastidores em comum",
     "theme": "music",
-    "motif": "Users:Network",
-    "file": "achievements/music/discovery-creditos-03.svg"
+    "motif": "filled:users+share:milestone-3",
+    "file": "achievements/music/discovery-creditos-03.svg",
+    "originalMotif": "Users:Network"
   },
   {
     "id": "discovery-creditos-04",
@@ -1670,8 +1855,9 @@
     "coinFile": "achievements/coins/music/discovery-creditos-04.svg",
     "title": "Três capítulos de uma voz",
     "theme": "music",
-    "motif": "Users:Album",
-    "file": "achievements/music/discovery-creditos-04.svg"
+    "motif": "filled:users+disc:milestone-4",
+    "file": "achievements/music/discovery-creditos-04.svg",
+    "originalMotif": "Users:Album"
   },
   {
     "id": "discovery-creditos-05",
@@ -1679,8 +1865,9 @@
     "coinFile": "achievements/coins/music/discovery-creditos-05.svg",
     "title": "Uma voz atravessa o tempo",
     "theme": "music",
-    "motif": "Users:Calendar",
-    "file": "achievements/music/discovery-creditos-05.svg"
+    "motif": "filled:users+calendar:milestone-5",
+    "file": "achievements/music/discovery-creditos-05.svg",
+    "originalMotif": "Users:Calendar"
   },
   {
     "id": "discovery-creditos-06",
@@ -1688,8 +1875,9 @@
     "coinFile": "achievements/coins/music/discovery-creditos-06.svg",
     "title": "Elenco de coletânea",
     "theme": "music",
-    "motif": "Users:Group",
-    "file": "achievements/music/discovery-creditos-06.svg"
+    "motif": "filled:users+user-group:milestone-6",
+    "file": "achievements/music/discovery-creditos-06.svg",
+    "originalMotif": "Users:Group"
   },
   {
     "id": "discovery-creditos-07",
@@ -1697,8 +1885,9 @@
     "coinFile": "achievements/coins/music/discovery-creditos-07.svg",
     "title": "Participações em destaque",
     "theme": "music",
-    "motif": "Users:ListMusic",
-    "file": "achievements/music/discovery-creditos-07.svg"
+    "motif": "filled:users+queue-list:milestone-7",
+    "file": "achievements/music/discovery-creditos-07.svg",
+    "originalMotif": "Users:ListMusic"
   },
   {
     "id": "discovery-creditos-08",
@@ -1706,8 +1895,9 @@
     "coinFile": "achievements/coins/music/discovery-creditos-08.svg",
     "title": "Afinidade coletiva",
     "theme": "music",
-    "motif": "Users:Heart",
-    "file": "achievements/music/discovery-creditos-08.svg"
+    "motif": "filled:users+heart:milestone-8",
+    "file": "achievements/music/discovery-creditos-08.svg",
+    "originalMotif": "Users:Heart"
   },
   {
     "id": "discovery-creditos-09",
@@ -1715,8 +1905,9 @@
     "coinFile": "achievements/coins/music/discovery-creditos-09.svg",
     "title": "O encontro aconteceu",
     "theme": "music",
-    "motif": "Users:Play",
-    "file": "achievements/music/discovery-creditos-09.svg"
+    "motif": "filled:users+play:milestone-9",
+    "file": "achievements/music/discovery-creditos-09.svg",
+    "originalMotif": "Users:Play"
   },
   {
     "id": "discovery-creditos-10",
@@ -1724,8 +1915,9 @@
     "coinFile": "achievements/coins/music/discovery-creditos-10.svg",
     "title": "Conexão entre cenas",
     "theme": "music",
-    "motif": "Users:Waypoints",
-    "file": "achievements/music/discovery-creditos-10.svg"
+    "motif": "filled:users+share:milestone-10",
+    "file": "achievements/music/discovery-creditos-10.svg",
+    "originalMotif": "Users:Waypoints"
   },
   {
     "id": "discovery-inteligentes-01",
@@ -1733,8 +1925,9 @@
     "coinFile": "achievements/coins/music/discovery-inteligentes-01.svg",
     "title": "O coração organiza",
     "theme": "music",
-    "motif": "ListFilter:Heart",
-    "file": "achievements/music/discovery-inteligentes-01.svg"
+    "motif": "filled:funnel+heart:milestone-1",
+    "file": "achievements/music/discovery-inteligentes-01.svg",
+    "originalMotif": "ListFilter:Heart"
   },
   {
     "id": "discovery-inteligentes-02",
@@ -1742,8 +1935,9 @@
     "coinFile": "achievements/coins/music/discovery-inteligentes-02.svg",
     "title": "Acabou de chegar",
     "theme": "music",
-    "motif": "ListFilter:Inbox",
-    "file": "achievements/music/discovery-inteligentes-02.svg"
+    "motif": "filled:funnel+inbox:milestone-2",
+    "file": "achievements/music/discovery-inteligentes-02.svg",
+    "originalMotif": "ListFilter:Inbox"
   },
   {
     "id": "discovery-inteligentes-03",
@@ -1751,8 +1945,9 @@
     "coinFile": "achievements/coins/music/discovery-inteligentes-03.svg",
     "title": "Os mais pedidos",
     "theme": "music",
-    "motif": "ListFilter:ChartNoAxesColumnIncreasing",
-    "file": "achievements/music/discovery-inteligentes-03.svg"
+    "motif": "filled:funnel+chart-bar:milestone-3",
+    "file": "achievements/music/discovery-inteligentes-03.svg",
+    "originalMotif": "ListFilter:ChartNoAxesColumnIncreasing"
   },
   {
     "id": "discovery-inteligentes-04",
@@ -1760,8 +1955,9 @@
     "coinFile": "achievements/coins/music/discovery-inteligentes-04.svg",
     "title": "Porta para o inédito",
     "theme": "music",
-    "motif": "ListFilter:DoorOpen",
-    "file": "achievements/music/discovery-inteligentes-04.svg"
+    "motif": "filled:funnel+arrow-right-start-on-rectangle:milestone-4",
+    "file": "achievements/music/discovery-inteligentes-04.svg",
+    "originalMotif": "ListFilter:DoorOpen"
   },
   {
     "id": "discovery-inteligentes-05",
@@ -1769,8 +1965,9 @@
     "coinFile": "achievements/coins/music/discovery-inteligentes-05.svg",
     "title": "Rastro de descobertas",
     "theme": "music",
-    "motif": "ListFilter:History",
-    "file": "achievements/music/discovery-inteligentes-05.svg"
+    "motif": "filled:funnel+clock:milestone-5",
+    "file": "achievements/music/discovery-inteligentes-05.svg",
+    "originalMotif": "ListFilter:History"
   },
   {
     "id": "discovery-inteligentes-06",
@@ -1778,8 +1975,9 @@
     "coinFile": "achievements/coins/music/discovery-inteligentes-06.svg",
     "title": "Filtro de cena",
     "theme": "music",
-    "motif": "ListFilter:Guitar",
-    "file": "achievements/music/discovery-inteligentes-06.svg"
+    "motif": "filled:funnel+guitar:milestone-6",
+    "file": "achievements/music/discovery-inteligentes-06.svg",
+    "originalMotif": "ListFilter:Guitar"
   },
   {
     "id": "discovery-inteligentes-07",
@@ -1787,8 +1985,9 @@
     "coinFile": "achievements/coins/music/discovery-inteligentes-07.svg",
     "title": "Filtro de voz",
     "theme": "music",
-    "motif": "ListFilter:Mic",
-    "file": "achievements/music/discovery-inteligentes-07.svg"
+    "motif": "filled:funnel+microphone:milestone-7",
+    "file": "achievements/music/discovery-inteligentes-07.svg",
+    "originalMotif": "ListFilter:Mic"
   },
   {
     "id": "discovery-inteligentes-08",
@@ -1796,8 +1995,9 @@
     "coinFile": "achievements/coins/music/discovery-inteligentes-08.svg",
     "title": "Filtro de época",
     "theme": "music",
-    "motif": "ListFilter:Calendar",
-    "file": "achievements/music/discovery-inteligentes-08.svg"
+    "motif": "filled:funnel+calendar:milestone-8",
+    "file": "achievements/music/discovery-inteligentes-08.svg",
+    "originalMotif": "ListFilter:Calendar"
   },
   {
     "id": "discovery-inteligentes-09",
@@ -1805,8 +2005,9 @@
     "coinFile": "achievements/coins/music/discovery-inteligentes-09.svg",
     "title": "Tudo se encaixa",
     "theme": "music",
-    "motif": "ListFilter:ListChecks",
-    "file": "achievements/music/discovery-inteligentes-09.svg"
+    "motif": "filled:funnel+clipboard-document-check:milestone-9",
+    "file": "achievements/music/discovery-inteligentes-09.svg",
+    "originalMotif": "ListFilter:ListChecks"
   },
   {
     "id": "discovery-inteligentes-10",
@@ -1814,8 +2015,9 @@
     "coinFile": "achievements/coins/music/discovery-inteligentes-10.svg",
     "title": "Mais de um caminho",
     "theme": "music",
-    "motif": "ListFilter:GitBranch",
-    "file": "achievements/music/discovery-inteligentes-10.svg"
+    "motif": "filled:funnel+share:milestone-10",
+    "file": "achievements/music/discovery-inteligentes-10.svg",
+    "originalMotif": "ListFilter:GitBranch"
   },
   {
     "id": "discovery-reencontros-01",
@@ -1823,8 +2025,9 @@
     "coinFile": "achievements/coins/music/discovery-reencontros-01.svg",
     "title": "Pedi bis",
     "theme": "music",
-    "motif": "Repeat:Play",
-    "file": "achievements/music/discovery-reencontros-01.svg"
+    "motif": "filled:arrow-path+play:milestone-1",
+    "file": "achievements/music/discovery-reencontros-01.svg",
+    "originalMotif": "Repeat:Play"
   },
   {
     "id": "discovery-reencontros-02",
@@ -1832,8 +2035,9 @@
     "coinFile": "achievements/coins/music/discovery-reencontros-02.svg",
     "title": "Afeto ouvido",
     "theme": "music",
-    "motif": "Repeat:Heart",
-    "file": "achievements/music/discovery-reencontros-02.svg"
+    "motif": "filled:arrow-path+heart:milestone-2",
+    "file": "achievements/music/discovery-reencontros-02.svg",
+    "originalMotif": "Repeat:Heart"
   },
   {
     "id": "discovery-reencontros-03",
@@ -1841,8 +2045,9 @@
     "coinFile": "achievements/coins/music/discovery-reencontros-03.svg",
     "title": "O disco entrou na roda",
     "theme": "music",
-    "motif": "Repeat:Disc3",
-    "file": "achievements/music/discovery-reencontros-03.svg"
+    "motif": "filled:arrow-path+disc:milestone-3",
+    "file": "achievements/music/discovery-reencontros-03.svg",
+    "originalMotif": "Repeat:Disc3"
   },
   {
     "id": "discovery-reencontros-04",
@@ -1850,8 +2055,9 @@
     "coinFile": "achievements/coins/music/discovery-reencontros-04.svg",
     "title": "Favoritos sem rótulo único",
     "theme": "music",
-    "motif": "Repeat:Compass",
-    "file": "achievements/music/discovery-reencontros-04.svg"
+    "motif": "filled:arrow-path+magnifying-glass:milestone-4",
+    "file": "achievements/music/discovery-reencontros-04.svg",
+    "originalMotif": "Repeat:Compass"
   },
   {
     "id": "discovery-reencontros-05",
@@ -1859,8 +2065,9 @@
     "coinFile": "achievements/coins/music/discovery-reencontros-05.svg",
     "title": "Cinco vozes de casa",
     "theme": "music",
-    "motif": "Repeat:Users",
-    "file": "achievements/music/discovery-reencontros-05.svg"
+    "motif": "filled:arrow-path+users:milestone-5",
+    "file": "achievements/music/discovery-reencontros-05.svg",
+    "originalMotif": "Repeat:Users"
   },
   {
     "id": "discovery-reencontros-06",
@@ -1868,8 +2075,9 @@
     "coinFile": "achievements/coins/music/discovery-reencontros-06.svg",
     "title": "Fora da zona favorita",
     "theme": "music",
-    "motif": "Repeat:DoorOpen",
-    "file": "achievements/music/discovery-reencontros-06.svg"
+    "motif": "filled:arrow-path+arrow-right-start-on-rectangle:milestone-6",
+    "file": "achievements/music/discovery-reencontros-06.svg",
+    "originalMotif": "Repeat:DoorOpen"
   },
   {
     "id": "discovery-reencontros-07",
@@ -1877,8 +2085,9 @@
     "coinFile": "achievements/coins/music/discovery-reencontros-07.svg",
     "title": "A outra metade da caixa",
     "theme": "music",
-    "motif": "Repeat:Layers",
-    "file": "achievements/music/discovery-reencontros-07.svg"
+    "motif": "filled:arrow-path+square-3-stack-3d:milestone-7",
+    "file": "achievements/music/discovery-reencontros-07.svg",
+    "originalMotif": "Repeat:Layers"
   },
   {
     "id": "discovery-reencontros-08",
@@ -1886,8 +2095,9 @@
     "coinFile": "achievements/coins/music/discovery-reencontros-08.svg",
     "title": "A seleção ganhou voz",
     "theme": "music",
-    "motif": "Repeat:ListMusic",
-    "file": "achievements/music/discovery-reencontros-08.svg"
+    "motif": "filled:arrow-path+queue-list:milestone-8",
+    "file": "achievements/music/discovery-reencontros-08.svg",
+    "originalMotif": "Repeat:ListMusic"
   },
   {
     "id": "discovery-reencontros-09",
@@ -1895,8 +2105,9 @@
     "coinFile": "achievements/coins/music/discovery-reencontros-09.svg",
     "title": "Álbum que pede volta",
     "theme": "music",
-    "motif": "Repeat:Album",
-    "file": "achievements/music/discovery-reencontros-09.svg"
+    "motif": "filled:arrow-path+disc:milestone-9",
+    "file": "achievements/music/discovery-reencontros-09.svg",
+    "originalMotif": "Repeat:Album"
   },
   {
     "id": "discovery-reencontros-10",
@@ -1904,8 +2115,9 @@
     "coinFile": "achievements/coins/music/discovery-reencontros-10.svg",
     "title": "Vinte anos da mesma voz",
     "theme": "music",
-    "motif": "Repeat:History",
-    "file": "achievements/music/discovery-reencontros-10.svg"
+    "motif": "filled:arrow-path+clock:milestone-10",
+    "file": "achievements/music/discovery-reencontros-10.svg",
+    "originalMotif": "Repeat:History"
   },
   {
     "id": "discovery-assinatura-01",
@@ -1913,8 +2125,9 @@
     "coinFile": "achievements/coins/music/discovery-assinatura-01.svg",
     "title": "Capa, verso e ficha",
     "theme": "music",
-    "motif": "Gem:BookOpen",
-    "file": "achievements/music/discovery-assinatura-01.svg"
+    "motif": "filled:gem+book-open:milestone-1",
+    "file": "achievements/music/discovery-assinatura-01.svg",
+    "originalMotif": "Gem:BookOpen"
   },
   {
     "id": "discovery-assinatura-02",
@@ -1922,8 +2135,9 @@
     "coinFile": "achievements/coins/music/discovery-assinatura-02.svg",
     "title": "Seleção com identidade",
     "theme": "music",
-    "motif": "Gem:ListMusic",
-    "file": "achievements/music/discovery-assinatura-02.svg"
+    "motif": "filled:gem+queue-list:milestone-2",
+    "file": "achievements/music/discovery-assinatura-02.svg",
+    "originalMotif": "Gem:ListMusic"
   },
   {
     "id": "discovery-assinatura-03",
@@ -1931,8 +2145,9 @@
     "coinFile": "achievements/coins/music/discovery-assinatura-03.svg",
     "title": "Coração panorâmico",
     "theme": "music",
-    "motif": "Gem:Heart",
-    "file": "achievements/music/discovery-assinatura-03.svg"
+    "motif": "filled:gem+heart:milestone-3",
+    "file": "achievements/music/discovery-assinatura-03.svg",
+    "originalMotif": "Gem:Heart"
   },
   {
     "id": "discovery-assinatura-04",
@@ -1940,8 +2155,9 @@
     "coinFile": "achievements/coins/music/discovery-assinatura-04.svg",
     "title": "Estante plural",
     "theme": "music",
-    "motif": "Gem:LibraryBig",
-    "file": "achievements/music/discovery-assinatura-04.svg"
+    "motif": "filled:gem+building-library:milestone-4",
+    "file": "achievements/music/discovery-assinatura-04.svg",
+    "originalMotif": "Gem:LibraryBig"
   },
   {
     "id": "discovery-assinatura-05",
@@ -1949,8 +2165,9 @@
     "coinFile": "achievements/coins/music/discovery-assinatura-05.svg",
     "title": "Mapa de afetos",
     "theme": "music",
-    "motif": "Gem:Map",
-    "file": "achievements/music/discovery-assinatura-05.svg"
+    "motif": "filled:gem+map:milestone-5",
+    "file": "achievements/music/discovery-assinatura-05.svg",
+    "originalMotif": "Gem:Map"
   },
   {
     "id": "discovery-assinatura-06",
@@ -1958,8 +2175,9 @@
     "coinFile": "achievements/coins/music/discovery-assinatura-06.svg",
     "title": "Edições em paralelo",
     "theme": "music",
-    "motif": "Gem:Copy",
-    "file": "achievements/music/discovery-assinatura-06.svg"
+    "motif": "filled:gem+document-duplicate:milestone-6",
+    "file": "achievements/music/discovery-assinatura-06.svg",
+    "originalMotif": "Gem:Copy"
   },
   {
     "id": "discovery-assinatura-07",
@@ -1967,8 +2185,9 @@
     "coinFile": "achievements/coins/music/discovery-assinatura-07.svg",
     "title": "Acervo bem documentado",
     "theme": "music",
-    "motif": "Gem:FileCheck",
-    "file": "achievements/music/discovery-assinatura-07.svg"
+    "motif": "filled:gem+document-check:milestone-7",
+    "file": "achievements/music/discovery-assinatura-07.svg",
+    "originalMotif": "Gem:FileCheck"
   },
   {
     "id": "discovery-assinatura-08",
@@ -1976,8 +2195,9 @@
     "coinFile": "achievements/coins/music/discovery-assinatura-08.svg",
     "title": "Favorito em alta definição",
     "theme": "music",
-    "motif": "Gem:Sparkles",
-    "file": "achievements/music/discovery-assinatura-08.svg"
+    "motif": "filled:gem+sparkles:milestone-8",
+    "file": "achievements/music/discovery-assinatura-08.svg",
+    "originalMotif": "Gem:Sparkles"
   },
   {
     "id": "discovery-assinatura-09",
@@ -1985,8 +2205,9 @@
     "coinFile": "achievements/coins/music/discovery-assinatura-09.svg",
     "title": "Edição de colecionador",
     "theme": "music",
-    "motif": "Gem:Archive",
-    "file": "achievements/music/discovery-assinatura-09.svg"
+    "motif": "filled:gem+archive-box:milestone-9",
+    "file": "achievements/music/discovery-assinatura-09.svg",
+    "originalMotif": "Gem:Archive"
   },
   {
     "id": "discovery-assinatura-10",
@@ -1994,8 +2215,9 @@
     "coinFile": "achievements/coins/music/discovery-assinatura-10.svg",
     "title": "A coleção tem a sua cara",
     "theme": "music",
-    "motif": "Gem:Crown",
-    "file": "achievements/music/discovery-assinatura-10.svg"
+    "motif": "filled:gem+trophy:milestone-10",
+    "file": "achievements/music/discovery-assinatura-10.svg",
+    "originalMotif": "Gem:Crown"
   },
   {
     "id": "fitness-primeiro-movimento",
@@ -2003,8 +2225,9 @@
     "coinFile": "achievements/coins/fitness/fitness-primeiro-movimento.svg",
     "title": "Primeiro movimento",
     "theme": "fitness",
-    "motif": "Footprints",
-    "file": "achievements/fitness/fitness-primeiro-movimento.svg"
+    "motif": "filled:flag:milestone-1",
+    "file": "achievements/fitness/fitness-primeiro-movimento.svg",
+    "originalMotif": "Footprints"
   },
   {
     "id": "fitness-tres-atividades",
@@ -2012,8 +2235,9 @@
     "coinFile": "achievements/coins/fitness/fitness-tres-atividades.svg",
     "title": "Três atividades",
     "theme": "fitness",
-    "motif": "Route",
-    "file": "achievements/fitness/fitness-tres-atividades.svg"
+    "motif": "filled:flag:milestone-2",
+    "file": "achievements/fitness/fitness-tres-atividades.svg",
+    "originalMotif": "Route"
   },
   {
     "id": "fitness-ritmo-constante",
@@ -2021,8 +2245,9 @@
     "coinFile": "achievements/coins/fitness/fitness-ritmo-constante.svg",
     "title": "Ritmo constante",
     "theme": "fitness",
-    "motif": "Activity",
-    "file": "achievements/fitness/fitness-ritmo-constante.svg"
+    "motif": "filled:flag:milestone-3",
+    "file": "achievements/fitness/fitness-ritmo-constante.svg",
+    "originalMotif": "Activity"
   },
   {
     "id": "fitness-dez-atividades",
@@ -2030,8 +2255,9 @@
     "coinFile": "achievements/coins/fitness/fitness-dez-atividades.svg",
     "title": "Dez atividades",
     "theme": "fitness",
-    "motif": "Mountain",
-    "file": "achievements/fitness/fitness-dez-atividades.svg"
+    "motif": "filled:flag:milestone-4",
+    "file": "achievements/fitness/fitness-dez-atividades.svg",
+    "originalMotif": "Mountain"
   },
   {
     "id": "fitness-movimento-frequente",
@@ -2039,8 +2265,9 @@
     "coinFile": "achievements/coins/fitness/fitness-movimento-frequente.svg",
     "title": "Movimento frequente",
     "theme": "fitness",
-    "motif": "Flag",
-    "file": "achievements/fitness/fitness-movimento-frequente.svg"
+    "motif": "filled:flag:milestone-5",
+    "file": "achievements/fitness/fitness-movimento-frequente.svg",
+    "originalMotif": "Flag"
   },
   {
     "id": "fitness-um-mes-em-movimento",
@@ -2048,8 +2275,9 @@
     "coinFile": "achievements/coins/fitness/fitness-um-mes-em-movimento.svg",
     "title": "Um mês em movimento",
     "theme": "fitness",
-    "motif": "Navigation",
-    "file": "achievements/fitness/fitness-um-mes-em-movimento.svg"
+    "motif": "filled:flag:milestone-6",
+    "file": "achievements/fitness/fitness-um-mes-em-movimento.svg",
+    "originalMotif": "Navigation"
   },
   {
     "id": "fitness-cinquenta-jornadas",
@@ -2057,8 +2285,9 @@
     "coinFile": "achievements/coins/fitness/fitness-cinquenta-jornadas.svg",
     "title": "Cinquenta jornadas",
     "theme": "fitness",
-    "motif": "Milestone",
-    "file": "achievements/fitness/fitness-cinquenta-jornadas.svg"
+    "motif": "filled:flag:milestone-7",
+    "file": "achievements/fitness/fitness-cinquenta-jornadas.svg",
+    "originalMotif": "Milestone"
   },
   {
     "id": "fitness-passo-de-explorador",
@@ -2066,8 +2295,9 @@
     "coinFile": "achievements/coins/fitness/fitness-passo-de-explorador.svg",
     "title": "Passo de explorador",
     "theme": "fitness",
-    "motif": "Bike",
-    "file": "achievements/fitness/fitness-passo-de-explorador.svg"
+    "motif": "filled:map-pin:milestone-1",
+    "file": "achievements/fitness/fitness-passo-de-explorador.svg",
+    "originalMotif": "Bike"
   },
   {
     "id": "fitness-centena-ativa",
@@ -2075,8 +2305,9 @@
     "coinFile": "achievements/coins/fitness/fitness-centena-ativa.svg",
     "title": "Centena ativa",
     "theme": "fitness",
-    "motif": "MountainSnow",
-    "file": "achievements/fitness/fitness-centena-ativa.svg"
+    "motif": "filled:flag:milestone-8",
+    "file": "achievements/fitness/fitness-centena-ativa.svg",
+    "originalMotif": "MountainSnow"
   },
   {
     "id": "fitness-lenda-do-movimento",
@@ -2084,8 +2315,9 @@
     "coinFile": "achievements/coins/fitness/fitness-lenda-do-movimento.svg",
     "title": "Lenda do movimento",
     "theme": "fitness",
-    "motif": "Trees",
-    "file": "achievements/fitness/fitness-lenda-do-movimento.svg"
+    "motif": "filled:flag:milestone-9",
+    "file": "achievements/fitness/fitness-lenda-do-movimento.svg",
+    "originalMotif": "Trees"
   },
   {
     "id": "fitness-quinhentas-jornadas",
@@ -2093,8 +2325,9 @@
     "coinFile": "achievements/coins/fitness/fitness-quinhentas-jornadas.svg",
     "title": "Quinhentas jornadas",
     "theme": "fitness",
-    "motif": "TreePine",
-    "file": "achievements/fitness/fitness-quinhentas-jornadas.svg"
+    "motif": "filled:flag:milestone-10",
+    "file": "achievements/fitness/fitness-quinhentas-jornadas.svg",
+    "originalMotif": "TreePine"
   },
   {
     "id": "fitness-mil-vezes-em-movimento",
@@ -2102,8 +2335,9 @@
     "coinFile": "achievements/coins/fitness/fitness-mil-vezes-em-movimento.svg",
     "title": "Mil vezes em movimento",
     "theme": "fitness",
-    "motif": "CloudSun",
-    "file": "achievements/fitness/fitness-mil-vezes-em-movimento.svg"
+    "motif": "filled:flag:milestone-11",
+    "file": "achievements/fitness/fitness-mil-vezes-em-movimento.svg",
+    "originalMotif": "CloudSun"
   },
   {
     "id": "fitness-movimento-extraordinario",
@@ -2111,8 +2345,9 @@
     "coinFile": "achievements/coins/fitness/fitness-movimento-extraordinario.svg",
     "title": "Movimento extraordinário",
     "theme": "fitness",
-    "motif": "Wind",
-    "file": "achievements/fitness/fitness-movimento-extraordinario.svg"
+    "motif": "filled:flag:milestone-12",
+    "file": "achievements/fitness/fitness-movimento-extraordinario.svg",
+    "originalMotif": "Wind"
   },
   {
     "id": "fitness-primeiro-quilometro",
@@ -2120,8 +2355,9 @@
     "coinFile": "achievements/coins/fitness/fitness-primeiro-quilometro.svg",
     "title": "Primeiro quilômetro",
     "theme": "fitness",
-    "motif": "FlagTriangleRight",
-    "file": "achievements/fitness/fitness-primeiro-quilometro.svg"
+    "motif": "filled:map:milestone-1",
+    "file": "achievements/fitness/fitness-primeiro-quilometro.svg",
+    "originalMotif": "FlagTriangleRight"
   },
   {
     "id": "fitness-3-km-de-percurso",
@@ -2129,8 +2365,9 @@
     "coinFile": "achievements/coins/fitness/fitness-3-km-de-percurso.svg",
     "title": "3 km de percurso",
     "theme": "fitness",
-    "motif": "Goal",
-    "file": "achievements/fitness/fitness-3-km-de-percurso.svg"
+    "motif": "filled:map:milestone-2",
+    "file": "achievements/fitness/fitness-3-km-de-percurso.svg",
+    "originalMotif": "Goal"
   },
   {
     "id": "fitness-5-km-acumulados",
@@ -2138,8 +2375,9 @@
     "coinFile": "achievements/coins/fitness/fitness-5-km-acumulados.svg",
     "title": "5 km acumulados",
     "theme": "fitness",
-    "motif": "Target",
-    "file": "achievements/fitness/fitness-5-km-acumulados.svg"
+    "motif": "filled:map:milestone-3",
+    "file": "achievements/fitness/fitness-5-km-acumulados.svg",
+    "originalMotif": "Target"
   },
   {
     "id": "fitness-10-km-explorados",
@@ -2147,8 +2385,9 @@
     "coinFile": "achievements/coins/fitness/fitness-10-km-explorados.svg",
     "title": "10 km explorados",
     "theme": "fitness",
-    "motif": "LocateFixed",
-    "file": "achievements/fitness/fitness-10-km-explorados.svg"
+    "motif": "filled:map:milestone-4",
+    "file": "achievements/fitness/fitness-10-km-explorados.svg",
+    "originalMotif": "LocateFixed"
   },
   {
     "id": "fitness-trilha-de-15-km",
@@ -2156,8 +2395,9 @@
     "coinFile": "achievements/coins/fitness/fitness-trilha-de-15-km.svg",
     "title": "Trilha de 15 km",
     "theme": "fitness",
-    "motif": "MapPinCheck",
-    "file": "achievements/fitness/fitness-trilha-de-15-km.svg"
+    "motif": "filled:map:milestone-5",
+    "file": "achievements/fitness/fitness-trilha-de-15-km.svg",
+    "originalMotif": "MapPinCheck"
   },
   {
     "id": "fitness-25-km-de-jornada",
@@ -2165,8 +2405,9 @@
     "coinFile": "achievements/coins/fitness/fitness-25-km-de-jornada.svg",
     "title": "25 km de jornada",
     "theme": "fitness",
-    "motif": "MapPinPlus",
-    "file": "achievements/fitness/fitness-25-km-de-jornada.svg"
+    "motif": "filled:map:milestone-6",
+    "file": "achievements/fitness/fitness-25-km-de-jornada.svg",
+    "originalMotif": "MapPinPlus"
   },
   {
     "id": "fitness-50-km-conquistados",
@@ -2174,8 +2415,9 @@
     "coinFile": "achievements/coins/fitness/fitness-50-km-conquistados.svg",
     "title": "50 km conquistados",
     "theme": "fitness",
-    "motif": "Map",
-    "file": "achievements/fitness/fitness-50-km-conquistados.svg"
+    "motif": "filled:map:milestone-7",
+    "file": "achievements/fitness/fitness-50-km-conquistados.svg",
+    "originalMotif": "Map"
   },
   {
     "id": "fitness-horizonte-de-100-km",
@@ -2183,8 +2425,9 @@
     "coinFile": "achievements/coins/fitness/fitness-horizonte-de-100-km.svg",
     "title": "Horizonte de 100 km",
     "theme": "fitness",
-    "motif": "MapPlus",
-    "file": "achievements/fitness/fitness-horizonte-de-100-km.svg"
+    "motif": "filled:map:milestone-8",
+    "file": "achievements/fitness/fitness-horizonte-de-100-km.svg",
+    "originalMotif": "MapPlus"
   },
   {
     "id": "fitness-grande-travessia",
@@ -2192,8 +2435,9 @@
     "coinFile": "achievements/coins/fitness/fitness-grande-travessia.svg",
     "title": "Grande travessia",
     "theme": "fitness",
-    "motif": "MapPin",
-    "file": "achievements/fitness/fitness-grande-travessia.svg"
+    "motif": "filled:map:milestone-9",
+    "file": "achievements/fitness/fitness-grande-travessia.svg",
+    "originalMotif": "MapPin"
   },
   {
     "id": "fitness-meio-milhao-de-metros",
@@ -2201,8 +2445,9 @@
     "coinFile": "achievements/coins/fitness/fitness-meio-milhao-de-metros.svg",
     "title": "Meio milhão de metros",
     "theme": "fitness",
-    "motif": "Clock4",
-    "file": "achievements/fitness/fitness-meio-milhao-de-metros.svg"
+    "motif": "filled:map:milestone-10",
+    "file": "achievements/fitness/fitness-meio-milhao-de-metros.svg",
+    "originalMotif": "Clock4"
   },
   {
     "id": "fitness-rota-de-750-km",
@@ -2210,8 +2455,9 @@
     "coinFile": "achievements/coins/fitness/fitness-rota-de-750-km.svg",
     "title": "Rota de 750 km",
     "theme": "fitness",
-    "motif": "Clock8",
-    "file": "achievements/fitness/fitness-rota-de-750-km.svg"
+    "motif": "filled:map:milestone-11",
+    "file": "achievements/fitness/fitness-rota-de-750-km.svg",
+    "originalMotif": "Clock8"
   },
   {
     "id": "fitness-mil-quilometros",
@@ -2219,8 +2465,9 @@
     "coinFile": "achievements/coins/fitness/fitness-mil-quilometros.svg",
     "title": "Mil quilômetros",
     "theme": "fitness",
-    "motif": "CalendarClock",
-    "file": "achievements/fitness/fitness-mil-quilometros.svg"
+    "motif": "filled:map:milestone-12",
+    "file": "achievements/fitness/fitness-mil-quilometros.svg",
+    "originalMotif": "CalendarClock"
   },
   {
     "id": "fitness-caminhos-sem-fim",
@@ -2228,8 +2475,9 @@
     "coinFile": "achievements/coins/fitness/fitness-caminhos-sem-fim.svg",
     "title": "Caminhos sem fim",
     "theme": "fitness",
-    "motif": "CalendarHeart",
-    "file": "achievements/fitness/fitness-caminhos-sem-fim.svg"
+    "motif": "filled:map:milestone-13",
+    "file": "achievements/fitness/fitness-caminhos-sem-fim.svg",
+    "originalMotif": "CalendarHeart"
   },
   {
     "id": "fitness-dez-minutos-ativo",
@@ -2237,8 +2485,9 @@
     "coinFile": "achievements/coins/fitness/fitness-dez-minutos-ativo.svg",
     "title": "Dez minutos ativo",
     "theme": "fitness",
-    "motif": "CalendarRange",
-    "file": "achievements/fitness/fitness-dez-minutos-ativo.svg"
+    "motif": "filled:clock:milestone-1",
+    "file": "achievements/fitness/fitness-dez-minutos-ativo.svg",
+    "originalMotif": "CalendarRange"
   },
   {
     "id": "fitness-meia-hora-ativa",
@@ -2246,8 +2495,9 @@
     "coinFile": "achievements/coins/fitness/fitness-meia-hora-ativa.svg",
     "title": "Meia hora ativa",
     "theme": "fitness",
-    "motif": "CalendarSync",
-    "file": "achievements/fitness/fitness-meia-hora-ativa.svg"
+    "motif": "filled:clock:milestone-2",
+    "file": "achievements/fitness/fitness-meia-hora-ativa.svg",
+    "originalMotif": "CalendarSync"
   },
   {
     "id": "fitness-uma-hora-em-movimento",
@@ -2255,8 +2505,9 @@
     "coinFile": "achievements/coins/fitness/fitness-uma-hora-em-movimento.svg",
     "title": "Uma hora em movimento",
     "theme": "fitness",
-    "motif": "CalendarCheck2",
-    "file": "achievements/fitness/fitness-uma-hora-em-movimento.svg"
+    "motif": "filled:clock:milestone-3",
+    "file": "achievements/fitness/fitness-uma-hora-em-movimento.svg",
+    "originalMotif": "CalendarCheck2"
   },
   {
     "id": "fitness-duas-horas-ativas",
@@ -2264,8 +2515,9 @@
     "coinFile": "achievements/coins/fitness/fitness-duas-horas-ativas.svg",
     "title": "Duas horas ativas",
     "theme": "fitness",
-    "motif": "Zap",
-    "file": "achievements/fitness/fitness-duas-horas-ativas.svg"
+    "motif": "filled:clock:milestone-4",
+    "file": "achievements/fitness/fitness-duas-horas-ativas.svg",
+    "originalMotif": "Zap"
   },
   {
     "id": "fitness-cinco-horas-ativo",
@@ -2273,8 +2525,9 @@
     "coinFile": "achievements/coins/fitness/fitness-cinco-horas-ativo.svg",
     "title": "Cinco horas ativo",
     "theme": "fitness",
-    "motif": "BatteryCharging",
-    "file": "achievements/fitness/fitness-cinco-horas-ativo.svg"
+    "motif": "filled:clock:milestone-5",
+    "file": "achievements/fitness/fitness-cinco-horas-ativo.svg",
+    "originalMotif": "BatteryCharging"
   },
   {
     "id": "fitness-dez-horas-em-movimento",
@@ -2282,8 +2535,9 @@
     "coinFile": "achievements/coins/fitness/fitness-dez-horas-em-movimento.svg",
     "title": "Dez horas em movimento",
     "theme": "fitness",
-    "motif": "MoveUpRight",
-    "file": "achievements/fitness/fitness-dez-horas-em-movimento.svg"
+    "motif": "filled:clock:milestone-6",
+    "file": "achievements/fitness/fitness-dez-horas-em-movimento.svg",
+    "originalMotif": "MoveUpRight"
   },
   {
     "id": "fitness-25-horas-ativo",
@@ -2291,8 +2545,9 @@
     "coinFile": "achievements/coins/fitness/fitness-25-horas-ativo.svg",
     "title": "25 horas ativo",
     "theme": "fitness",
-    "motif": "TrendingUp",
-    "file": "achievements/fitness/fitness-25-horas-ativo.svg"
+    "motif": "filled:clock:milestone-7",
+    "file": "achievements/fitness/fitness-25-horas-ativo.svg",
+    "originalMotif": "TrendingUp"
   },
   {
     "id": "fitness-50-horas-em-movimento",
@@ -2300,8 +2555,9 @@
     "coinFile": "achievements/coins/fitness/fitness-50-horas-em-movimento.svg",
     "title": "50 horas em movimento",
     "theme": "fitness",
-    "motif": "ChartNoAxesCombined",
-    "file": "achievements/fitness/fitness-50-horas-em-movimento.svg"
+    "motif": "filled:clock:milestone-8",
+    "file": "achievements/fitness/fitness-50-horas-em-movimento.svg",
+    "originalMotif": "ChartNoAxesCombined"
   },
   {
     "id": "fitness-100-horas-ativo",
@@ -2309,8 +2565,9 @@
     "coinFile": "achievements/coins/fitness/fitness-100-horas-ativo.svg",
     "title": "100 horas ativo",
     "theme": "fitness",
-    "motif": "ChartSpline",
-    "file": "achievements/fitness/fitness-100-horas-ativo.svg"
+    "motif": "filled:clock:milestone-9",
+    "file": "achievements/fitness/fitness-100-horas-ativo.svg",
+    "originalMotif": "ChartSpline"
   },
   {
     "id": "fitness-lenda-incansavel",
@@ -2318,8 +2575,9 @@
     "coinFile": "achievements/coins/fitness/fitness-lenda-incansavel.svg",
     "title": "Lenda incansável",
     "theme": "fitness",
-    "motif": "ChartLine",
-    "file": "achievements/fitness/fitness-lenda-incansavel.svg"
+    "motif": "filled:clock:milestone-10",
+    "file": "achievements/fitness/fitness-lenda-incansavel.svg",
+    "originalMotif": "ChartLine"
   },
   {
     "id": "fitness-quinhentas-horas",
@@ -2327,8 +2585,9 @@
     "coinFile": "achievements/coins/fitness/fitness-quinhentas-horas.svg",
     "title": "Quinhentas horas",
     "theme": "fitness",
-    "motif": "Gauge",
-    "file": "achievements/fitness/fitness-quinhentas-horas.svg"
+    "motif": "filled:clock:milestone-11",
+    "file": "achievements/fitness/fitness-quinhentas-horas.svg",
+    "originalMotif": "Gauge"
   },
   {
     "id": "fitness-mil-horas-em-movimento",
@@ -2336,8 +2595,9 @@
     "coinFile": "achievements/coins/fitness/fitness-mil-horas-em-movimento.svg",
     "title": "Mil horas em movimento",
     "theme": "fitness",
-    "motif": "PersonStanding",
-    "file": "achievements/fitness/fitness-mil-horas-em-movimento.svg"
+    "motif": "filled:clock:milestone-12",
+    "file": "achievements/fitness/fitness-mil-horas-em-movimento.svg",
+    "originalMotif": "PersonStanding"
   },
   {
     "id": "fitness-primeiro-percurso-longo",
@@ -2345,8 +2605,9 @@
     "coinFile": "achievements/coins/fitness/fitness-primeiro-percurso-longo.svg",
     "title": "Primeiro percurso longo",
     "theme": "fitness",
-    "motif": "Accessibility",
-    "file": "achievements/fitness/fitness-primeiro-percurso-longo.svg"
+    "motif": "filled:map:milestone-14",
+    "file": "achievements/fitness/fitness-primeiro-percurso-longo.svg",
+    "originalMotif": "Accessibility"
   },
   {
     "id": "fitness-tres-quilometros-de-uma-vez",
@@ -2354,8 +2615,9 @@
     "coinFile": "achievements/coins/fitness/fitness-tres-quilometros-de-uma-vez.svg",
     "title": "Três quilômetros de uma vez",
     "theme": "fitness",
-    "motif": "Medal",
-    "file": "achievements/fitness/fitness-tres-quilometros-de-uma-vez.svg"
+    "motif": "filled:map:milestone-15",
+    "file": "achievements/fitness/fitness-tres-quilometros-de-uma-vez.svg",
+    "originalMotif": "Medal"
   },
   {
     "id": "fitness-desafio-dos-cinco",
@@ -2363,8 +2625,9 @@
     "coinFile": "achievements/coins/fitness/fitness-desafio-dos-cinco.svg",
     "title": "Desafio dos cinco",
     "theme": "fitness",
-    "motif": "Award",
-    "file": "achievements/fitness/fitness-desafio-dos-cinco.svg"
+    "motif": "filled:flag:milestone-13",
+    "file": "achievements/fitness/fitness-desafio-dos-cinco.svg",
+    "originalMotif": "Award"
   },
   {
     "id": "fitness-dez-quilometros-em-um-treino",
@@ -2372,8 +2635,9 @@
     "coinFile": "achievements/coins/fitness/fitness-dez-quilometros-em-um-treino.svg",
     "title": "Dez quilômetros em um treino",
     "theme": "fitness",
-    "motif": "Trophy",
-    "file": "achievements/fitness/fitness-dez-quilometros-em-um-treino.svg"
+    "motif": "filled:map:milestone-16",
+    "file": "achievements/fitness/fitness-dez-quilometros-em-um-treino.svg",
+    "originalMotif": "Trophy"
   },
   {
     "id": "fitness-meia-maratona",
@@ -2381,8 +2645,9 @@
     "coinFile": "achievements/coins/fitness/fitness-meia-maratona.svg",
     "title": "Meia maratona",
     "theme": "fitness",
-    "motif": "Crown",
-    "file": "achievements/fitness/fitness-meia-maratona.svg"
+    "motif": "filled:bolt:milestone-1",
+    "file": "achievements/fitness/fitness-meia-maratona.svg",
+    "originalMotif": "Crown"
   },
   {
     "id": "fitness-maratona-pessoal",
@@ -2390,8 +2655,9 @@
     "coinFile": "achievements/coins/fitness/fitness-maratona-pessoal.svg",
     "title": "Maratona pessoal",
     "theme": "fitness",
-    "motif": "Sunset",
-    "file": "achievements/fitness/fitness-maratona-pessoal.svg"
+    "motif": "filled:bolt:milestone-2",
+    "file": "achievements/fitness/fitness-maratona-pessoal.svg",
+    "originalMotif": "Sunset"
   },
   {
     "id": "fitness-dez-mil-passos-estimados",
@@ -2399,8 +2665,9 @@
     "coinFile": "achievements/coins/fitness/fitness-dez-mil-passos-estimados.svg",
     "title": "Dez mil passos estimados",
     "theme": "fitness",
-    "motif": "Rocket",
-    "file": "achievements/fitness/fitness-dez-mil-passos-estimados.svg"
+    "motif": "filled:map-pin:milestone-2",
+    "file": "achievements/fitness/fitness-dez-mil-passos-estimados.svg",
+    "originalMotif": "Rocket"
   },
   {
     "id": "fitness-cem-mil-passos",
@@ -2408,8 +2675,9 @@
     "coinFile": "achievements/coins/fitness/fitness-cem-mil-passos.svg",
     "title": "Cem mil passos",
     "theme": "fitness",
-    "motif": "Flower",
-    "file": "achievements/fitness/fitness-cem-mil-passos.svg"
+    "motif": "filled:map-pin:milestone-3",
+    "file": "achievements/fitness/fitness-cem-mil-passos.svg",
+    "originalMotif": "Flower"
   },
   {
     "id": "fitness-meio-milhao-de-passos",
@@ -2417,8 +2685,9 @@
     "coinFile": "achievements/coins/fitness/fitness-meio-milhao-de-passos.svg",
     "title": "Meio milhão de passos",
     "theme": "fitness",
-    "motif": "Leaf",
-    "file": "achievements/fitness/fitness-meio-milhao-de-passos.svg"
+    "motif": "filled:map-pin:milestone-4",
+    "file": "achievements/fitness/fitness-meio-milhao-de-passos.svg",
+    "originalMotif": "Leaf"
   },
   {
     "id": "fitness-um-milhao-de-passos",
@@ -2426,8 +2695,9 @@
     "coinFile": "achievements/coins/fitness/fitness-um-milhao-de-passos.svg",
     "title": "Um milhão de passos",
     "theme": "fitness",
-    "motif": "Tent",
-    "file": "achievements/fitness/fitness-um-milhao-de-passos.svg"
+    "motif": "filled:map-pin:milestone-5",
+    "file": "achievements/fitness/fitness-um-milhao-de-passos.svg",
+    "originalMotif": "Tent"
   },
   {
     "id": "fitness-passos-de-uma-vida",
@@ -2435,8 +2705,9 @@
     "coinFile": "achievements/coins/fitness/fitness-passos-de-uma-vida.svg",
     "title": "Passos de uma vida",
     "theme": "fitness",
-    "motif": "TentTree",
-    "file": "achievements/fitness/fitness-passos-de-uma-vida.svg"
+    "motif": "filled:map-pin:milestone-6",
+    "file": "achievements/fitness/fitness-passos-de-uma-vida.svg",
+    "originalMotif": "TentTree"
   },
   {
     "id": "fitness-caminhante-dedicado",
@@ -2444,8 +2715,9 @@
     "coinFile": "achievements/coins/fitness/fitness-caminhante-dedicado.svg",
     "title": "Caminhante dedicado",
     "theme": "fitness",
-    "motif": "Signpost",
-    "file": "achievements/fitness/fitness-caminhante-dedicado.svg"
+    "motif": "filled:flag:milestone-14",
+    "file": "achievements/fitness/fitness-caminhante-dedicado.svg",
+    "originalMotif": "Signpost"
   },
   {
     "id": "fitness-explorador-a-pe",
@@ -2453,8 +2725,9 @@
     "coinFile": "achievements/coins/fitness/fitness-explorador-a-pe.svg",
     "title": "Explorador a pé",
     "theme": "fitness",
-    "motif": "MapPinHouse",
-    "file": "achievements/fitness/fitness-explorador-a-pe.svg"
+    "motif": "filled:map-pin:milestone-7",
+    "file": "achievements/fitness/fitness-explorador-a-pe.svg",
+    "originalMotif": "MapPinHouse"
   },
   {
     "id": "fitness-cem-caminhadas",
@@ -2462,8 +2735,9 @@
     "coinFile": "achievements/coins/fitness/fitness-cem-caminhadas.svg",
     "title": "Cem caminhadas",
     "theme": "fitness",
-    "motif": "Waypoints",
-    "file": "achievements/fitness/fitness-cem-caminhadas.svg"
+    "motif": "filled:map-pin:milestone-8",
+    "file": "achievements/fitness/fitness-cem-caminhadas.svg",
+    "originalMotif": "Waypoints"
   },
   {
     "id": "fitness-primeira-corrida",
@@ -2471,8 +2745,9 @@
     "coinFile": "achievements/coins/fitness/fitness-primeira-corrida.svg",
     "title": "Primeira corrida",
     "theme": "fitness",
-    "motif": "Rabbit",
-    "file": "achievements/fitness/fitness-primeira-corrida.svg"
+    "motif": "filled:bolt:milestone-3",
+    "file": "achievements/fitness/fitness-primeira-corrida.svg",
+    "originalMotif": "Rabbit"
   },
   {
     "id": "fitness-corredor-constante",
@@ -2480,8 +2755,9 @@
     "coinFile": "achievements/coins/fitness/fitness-corredor-constante.svg",
     "title": "Corredor constante",
     "theme": "fitness",
-    "motif": "CloudSunRain",
-    "file": "achievements/fitness/fitness-corredor-constante.svg"
+    "motif": "filled:flag:milestone-15",
+    "file": "achievements/fitness/fitness-corredor-constante.svg",
+    "originalMotif": "CloudSunRain"
   },
   {
     "id": "fitness-cinquenta-corridas",
@@ -2489,8 +2765,9 @@
     "coinFile": "achievements/coins/fitness/fitness-cinquenta-corridas.svg",
     "title": "Cinquenta corridas",
     "theme": "fitness",
-    "motif": "Binoculars",
-    "file": "achievements/fitness/fitness-cinquenta-corridas.svg"
+    "motif": "filled:bolt:milestone-4",
+    "file": "achievements/fitness/fitness-cinquenta-corridas.svg",
+    "originalMotif": "Binoculars"
   },
   {
     "id": "fitness-centena-de-corridas",
@@ -2498,8 +2775,9 @@
     "coinFile": "achievements/coins/fitness/fitness-centena-de-corridas.svg",
     "title": "Centena de corridas",
     "theme": "fitness",
-    "motif": "Radar",
-    "file": "achievements/fitness/fitness-centena-de-corridas.svg"
+    "motif": "filled:bolt:milestone-5",
+    "file": "achievements/fitness/fitness-centena-de-corridas.svg",
+    "originalMotif": "Radar"
   },
   {
     "id": "friends-1",
@@ -2507,8 +2785,9 @@
     "coinFile": "achievements/coins/friends/friends-1.svg",
     "title": "Primeiro laço",
     "theme": "friends",
-    "motif": "Handshake",
-    "file": "achievements/friends/friends-1.svg"
+    "motif": "filled:handshake",
+    "file": "achievements/friends/friends-1.svg",
+    "originalMotif": "Handshake"
   },
   {
     "id": "friends-3",
@@ -2516,8 +2795,9 @@
     "coinFile": "achievements/coins/friends/friends-3.svg",
     "title": "Pequeno círculo",
     "theme": "friends",
-    "motif": "UserRoundPlus",
-    "file": "achievements/friends/friends-3.svg"
+    "motif": "filled:users",
+    "file": "achievements/friends/friends-3.svg",
+    "originalMotif": "UserRoundPlus"
   },
   {
     "id": "friends-5",
@@ -2525,8 +2805,9 @@
     "coinFile": "achievements/coins/friends/friends-5.svg",
     "title": "Roda de amizade",
     "theme": "friends",
-    "motif": "Network",
-    "file": "achievements/friends/friends-5.svg"
+    "motif": "filled:user-group",
+    "file": "achievements/friends/friends-5.svg",
+    "originalMotif": "Network"
   },
   {
     "id": "friends-10",
@@ -2534,8 +2815,9 @@
     "coinFile": "achievements/coins/friends/friends-10.svg",
     "title": "Rede de confiança",
     "theme": "friends",
-    "motif": "Link",
-    "file": "achievements/friends/friends-10.svg"
+    "motif": "filled:users+shield-check",
+    "file": "achievements/friends/friends-10.svg",
+    "originalMotif": "Link"
   },
   {
     "id": "friends-25",
@@ -2543,8 +2825,9 @@
     "coinFile": "achievements/coins/friends/friends-25.svg",
     "title": "Grande comunidade",
     "theme": "friends",
-    "motif": "HandHeart",
-    "file": "achievements/friends/friends-25.svg"
+    "motif": "filled:user-group+heart",
+    "file": "achievements/friends/friends-25.svg",
+    "originalMotif": "HandHeart"
   },
   {
     "id": "shared-playlists-1",
@@ -2552,8 +2835,9 @@
     "coinFile": "achievements/coins/friends/shared-playlists-1.svg",
     "title": "Primeira playlist a dois",
     "theme": "friends",
-    "motif": "ListTree",
-    "file": "achievements/friends/shared-playlists-1.svg"
+    "motif": "filled:users+link:milestone-1",
+    "file": "achievements/friends/shared-playlists-1.svg",
+    "originalMotif": "ListTree"
   },
   {
     "id": "shared-playlists-3",
@@ -2561,8 +2845,9 @@
     "coinFile": "achievements/coins/friends/shared-playlists-3.svg",
     "title": "Troca de descobertas",
     "theme": "friends",
-    "motif": "UsersRound",
-    "file": "achievements/friends/shared-playlists-3.svg"
+    "motif": "filled:users+share:milestone-2",
+    "file": "achievements/friends/shared-playlists-3.svg",
+    "originalMotif": "UsersRound"
   },
   {
     "id": "shared-playlists-10",
@@ -2570,8 +2855,9 @@
     "coinFile": "achievements/coins/friends/shared-playlists-10.svg",
     "title": "Curador compartilhado",
     "theme": "friends",
-    "motif": "UserRoundCheck",
-    "file": "achievements/friends/shared-playlists-10.svg"
+    "motif": "filled:users+queue-list:milestone-3",
+    "file": "achievements/friends/shared-playlists-10.svg",
+    "originalMotif": "UserRoundCheck"
   },
   {
     "id": "shared-playlists-25",
@@ -2579,8 +2865,9 @@
     "coinFile": "achievements/coins/friends/shared-playlists-25.svg",
     "title": "Biblioteca coletiva",
     "theme": "friends",
-    "motif": "Users",
-    "file": "achievements/friends/shared-playlists-25.svg"
+    "motif": "filled:users+building-library:milestone-4",
+    "file": "achievements/friends/shared-playlists-25.svg",
+    "originalMotif": "Users"
   },
   {
     "id": "challenges-created-1",
@@ -2588,8 +2875,9 @@
     "coinFile": "achievements/coins/friends/challenges-created-1.svg",
     "title": "Primeiro desafio",
     "theme": "friends",
-    "motif": "Swords",
-    "file": "achievements/friends/challenges-created-1.svg"
+    "motif": "filled:flag+flag:milestone-1",
+    "file": "achievements/friends/challenges-created-1.svg",
+    "originalMotif": "Swords"
   },
   {
     "id": "challenges-created-3",
@@ -2597,8 +2885,9 @@
     "coinFile": "achievements/coins/friends/challenges-created-3.svg",
     "title": "Desafiante",
     "theme": "friends",
-    "motif": "Share2",
-    "file": "achievements/friends/challenges-created-3.svg"
+    "motif": "filled:flag+flag:milestone-2",
+    "file": "achievements/friends/challenges-created-3.svg",
+    "originalMotif": "Share2"
   },
   {
     "id": "challenges-created-10",
@@ -2606,8 +2895,9 @@
     "coinFile": "achievements/coins/friends/challenges-created-10.svg",
     "title": "Mestre dos desafios",
     "theme": "friends",
-    "motif": "MessagesSquare",
-    "file": "achievements/friends/challenges-created-10.svg"
+    "motif": "filled:flag+flag:milestone-3",
+    "file": "achievements/friends/challenges-created-10.svg",
+    "originalMotif": "MessagesSquare"
   },
   {
     "id": "challenges-completed-1",
@@ -2615,8 +2905,9 @@
     "coinFile": "achievements/coins/friends/challenges-completed-1.svg",
     "title": "Meta alcançada em equipe",
     "theme": "friends",
-    "motif": "GitMerge",
-    "file": "achievements/friends/challenges-completed-1.svg"
+    "motif": "filled:trophy+trophy:milestone-1",
+    "file": "achievements/friends/challenges-completed-1.svg",
+    "originalMotif": "GitMerge"
   },
   {
     "id": "challenges-completed-3",
@@ -2624,8 +2915,9 @@
     "coinFile": "achievements/coins/friends/challenges-completed-3.svg",
     "title": "Trinca de vitórias",
     "theme": "friends",
-    "motif": "Group",
-    "file": "achievements/friends/challenges-completed-3.svg"
+    "motif": "filled:trophy+trophy:milestone-2",
+    "file": "achievements/friends/challenges-completed-3.svg",
+    "originalMotif": "Group"
   },
   {
     "id": "challenges-completed-10",
@@ -2633,8 +2925,9 @@
     "coinFile": "achievements/coins/friends/challenges-completed-10.svg",
     "title": "Lenda dos desafios",
     "theme": "friends",
-    "motif": "Gem",
-    "file": "achievements/friends/challenges-completed-10.svg"
+    "motif": "filled:trophy+trophy:milestone-3",
+    "file": "achievements/friends/challenges-completed-10.svg",
+    "originalMotif": "Gem"
   },
   {
     "id": "challenges-joined-1",
@@ -2642,8 +2935,9 @@
     "coinFile": "achievements/coins/friends/challenges-joined-1.svg",
     "title": "Entrou na roda",
     "theme": "friends",
-    "motif": "Sparkles",
-    "file": "achievements/friends/challenges-joined-1.svg"
+    "motif": "filled:users+users:milestone-1",
+    "file": "achievements/friends/challenges-joined-1.svg",
+    "originalMotif": "Sparkles"
   },
   {
     "id": "challenges-joined-3",
@@ -2651,8 +2945,9 @@
     "coinFile": "achievements/coins/friends/challenges-joined-3.svg",
     "title": "Parceiro de escuta",
     "theme": "friends",
-    "motif": "Workflow",
-    "file": "achievements/friends/challenges-joined-3.svg"
+    "motif": "filled:users+headphones:milestone-2",
+    "file": "achievements/friends/challenges-joined-3.svg",
+    "originalMotif": "Workflow"
   },
   {
     "id": "challenges-joined-10",
@@ -2660,8 +2955,9 @@
     "coinFile": "achievements/coins/friends/challenges-joined-10.svg",
     "title": "Companheiro de jornada",
     "theme": "friends",
-    "motif": "CircleUserRound",
-    "file": "achievements/friends/challenges-joined-10.svg"
+    "motif": "filled:users+users:milestone-3",
+    "file": "achievements/friends/challenges-joined-10.svg",
+    "originalMotif": "CircleUserRound"
   },
   {
     "id": "aura-crystal-bonds",
@@ -2669,8 +2965,9 @@
     "coinFile": "achievements/coins/friends/aura-crystal-bonds.svg",
     "title": "Cristal da Sintonia",
     "theme": "friends",
-    "motif": "HeartHandshake",
-    "file": "achievements/friends/aura-crystal-bonds.svg"
+    "motif": "filled:users+heart",
+    "file": "achievements/friends/aura-crystal-bonds.svg",
+    "originalMotif": "HeartHandshake"
   },
   {
     "id": "aura-crystal-curator",
@@ -2678,8 +2975,9 @@
     "coinFile": "achievements/coins/friends/aura-crystal-curator.svg",
     "title": "Cristal de Aura",
     "theme": "friends",
-    "motif": "UserCheck",
-    "file": "achievements/friends/aura-crystal-curator.svg"
+    "motif": "filled:queue-list+users",
+    "file": "achievements/friends/aura-crystal-curator.svg",
+    "originalMotif": "UserCheck"
   },
   {
     "id": "aura-crystal-harmony",
@@ -2687,7 +2985,8 @@
     "coinFile": "achievements/coins/friends/aura-crystal-harmony.svg",
     "title": "Conexão lendária",
     "theme": "friends",
-    "motif": "UserPlus",
-    "file": "achievements/friends/aura-crystal-harmony.svg"
+    "motif": "filled:user-plus",
+    "file": "achievements/friends/aura-crystal-harmony.svg",
+    "originalMotif": "UserPlus"
   }
 ]

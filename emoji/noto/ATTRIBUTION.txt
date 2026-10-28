@@ -1,0 +1,5 @@
+Animated Noto Emoji by Google. CC BY 4.0. https://googlefonts.github.io/noto-emoji-files/?view=docs
+https://creativecommons.org/licenses/by/4.0/
+Original assets; Sphere adds CSS heartbeat scaling and shadow to heart presentation.
+
+A-button.svg: original Sphere vector artwork with CSS animation, representing Unicode U+1F170. Heart-reference.webp: user-supplied reference, separate from Noto.

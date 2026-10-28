@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><linearGradient id="red" x2="0" y2="1"><stop stop-color="#ff755e"/><stop offset=".38" stop-color="#fa291b"/><stop offset="1" stop-color="#ce1008"/></linearGradient><linearGradient id="shine" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".65"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs><rect x="6" y="5" width="116" height="118" rx="28" fill="#b71a10"/><rect x="9" y="6" width="110" height="110" rx="25" fill="url(#red)"/><rect x="16" y="12" width="96" height="40" rx="19" fill="url(#shine)"/><style>
+.a-stroke{fill:none;stroke:#fff;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:0}
+.a-sides{animation:a-write 3.8s ease-in-out infinite}.a-cross{animation:a-cross 3.8s ease-in-out infinite}
+.a-letter{transform-origin:64px 68px;animation:a-settle 3.8s ease-in-out infinite}
+@keyframes a-write{0%,6%{stroke-dashoffset:1;opacity:0}10%{opacity:1}40%,88%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+@keyframes a-cross{0%,36%{stroke-dashoffset:1;opacity:0}40%{opacity:1}54%,88%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+@keyframes a-settle{0%,48%,70%,100%{transform:scale(1)}57%{transform:scale(1.07)}64%{transform:scale(.99)}}
+@media(prefers-reduced-motion:reduce){.a-stroke,.a-letter{animation:none;opacity:1;stroke-dashoffset:0}}
+</style><g class="a-letter"><path class="a-stroke a-sides" pathLength="1" d="M40 92 64 39 88 92"/><path class="a-stroke a-cross" pathLength="1" d="M49 74h30"/></g></svg>
