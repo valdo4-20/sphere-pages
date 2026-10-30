@@ -1,1 +1,0 @@
-function e(e=new Date){let t=e.getFullYear(),n=e.getMonth()+1,r=e.getDate();return n===12?{year:t,phase:`Em andamento`,available:!0}:n===1&&r<=5?{year:t-1,phase:`Ano completo`,available:!0}:{year:null,available:!1,phase:`Fora do período`}}export{e as t};

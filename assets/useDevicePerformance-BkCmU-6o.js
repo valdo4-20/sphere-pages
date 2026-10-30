@@ -1,1 +1,0 @@
-import{r as e}from"./rolldown-runtime-hePW80VL.js";import{Y as t,Z as n,q as r}from"./index-BOeVT3p2.js";var i=e(r(),1);function a(){return(0,i.useSyncExternalStore)(n,t,()=>!1)}export{a as t};

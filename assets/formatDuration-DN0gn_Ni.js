@@ -1,1 +1,0 @@
-function e(e){if(!Number.isFinite(e)||e<=0)return`—:—`;let t=Math.floor(e);return`${Math.floor(t/60)}:${String(t%60).padStart(2,`0`)}`}export{e as t};

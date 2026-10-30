@@ -1,4 +1,0 @@
-Assets oficiais obtidos de https://developers.google.com/identity/branding-guidelines em 24/10/2026.
-G: https://developers.google.com/static/identity/images/g-logo.png
-Google Sans Medium: fonte distribuída por fonts.googleapis.com / fonts.gstatic.com.
-O logotipo não deve ser redesenhado, recolorido, distorcido ou usado como marca do Sphere.
