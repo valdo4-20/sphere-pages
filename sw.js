@@ -2,7 +2,7 @@
 // Stable internal prefix keeps installed app cache rotation compatible.
 const RELEASE = {"version":"1.1.16","title":"Uma reviravolta contra a burguesia da informatica","changes":["A barra do player minimiza ao rolar para baixo e volta ao subir.","Marca Sphere ampliada e animação suave no nome do aplicativo.","Controles reorganizados no modo tela cheia e visual liquid glass atualizado."]};
 const CACHE_PREFIX = 'cygnus-shell-';
-const CACHE_NAME = CACHE_PREFIX + "1793930717483-Bw1mw-F0.jpg|assetsauraFileAnalysis.worker-CrRegpe-.js|assetsindex-DDPDCCW0.css|assetsrefresh-cw-Bc4-XQTb.css|index.html";
+const CACHE_NAME = CACHE_PREFIX + "1793939389822-Bw1mw-F0.jpg|assetsauraFileAnalysis.worker-CrRegpe-.js|assetsindex-DDPDCCW0.css|assetsrefresh-cw-Bc4-XQTb.css|index.html";
 const SCOPE_URL = self.registration.scope;
 const VERSION_META = 'sphere-version-choice';
 const VERSION_KEY = new URL('./__sphere_selected_build__', SCOPE_URL).href;
